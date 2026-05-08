@@ -1,0 +1,440 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>JSON to HTML Rendering Demo</title>
+
+<style>
+
+body{
+
+    margin:0;
+    background:#edf2f7;
+
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+/* Slide */
+
+.slide{
+
+    width:1600px;
+    height:900px;
+
+    margin:40px auto;
+
+    background:white;
+
+    position:relative;
+
+    overflow:hidden;
+
+    box-shadow:0 10px 30px rgba(0,0,0,0.08);
+}
+
+/* Title */
+
+.title{
+
+    position:absolute;
+
+    top:55px;
+    left:85px;
+
+    font-size:52px;
+    font-weight:700;
+
+    color:#0b3d91;
+}
+
+/* Subtitle */
+
+.subtitle{
+
+    position:absolute;
+
+    top:125px;
+    left:88px;
+
+    font-size:23px;
+
+    color:#64748b;
+}
+
+/* Flow Layout */
+
+.flow-wrapper{
+
+    position:absolute;
+
+    top:320px;
+    left:90px;
+
+    width:1040px;
+}
+
+.flow-container{
+
+    display:flex;
+
+    align-items:center;
+
+    justify-content:space-between;
+}
+
+/* Boxes */
+
+.box{
+
+    width:170px;
+    height:105px;
+
+    border-radius:22px;
+
+    display:flex;
+
+    align-items:center;
+    justify-content:center;
+
+    text-align:center;
+
+    font-size:22px;
+    font-weight:700;
+
+    box-shadow:0 8px 18px rgba(0,0,0,0.08);
+}
+
+/* Semantic Colors */
+
+.water{
+
+    background:#dbeeff;
+    color:#0066cc;
+}
+
+.growth{
+
+    background:#dff5e7;
+    color:#1f8a4d;
+}
+
+.stress{
+
+    background:#fff3d4;
+    color:#d99100;
+}
+
+.neutral{
+
+    background:#eceff4;
+    color:#4b5563;
+}
+
+/* Arrow */
+
+.arrow{
+
+    font-size:40px;
+
+    color:#7aa7d9;
+
+    font-weight:700;
+}
+
+/* GIS Panel */
+
+.gis-panel{
+
+    position:absolute;
+
+    top:210px;
+    right:90px;
+
+    width:300px;
+
+    background:#eef5ff;
+
+    border-left:8px solid #3b82f6;
+
+    border-radius:22px;
+
+    padding:28px;
+
+    box-shadow:0 8px 18px rgba(0,0,0,0.06);
+}
+
+.gis-title{
+
+    font-size:28px;
+    font-weight:700;
+
+    color:#0b3d91;
+
+    margin-bottom:16px;
+}
+
+.gis-text{
+
+    font-size:20px;
+
+    line-height:1.7;
+
+    color:#334155;
+}
+
+/* Bottom Note */
+
+.note{
+
+    position:absolute;
+
+    left:100px;
+    bottom:140px;
+
+    width:1220px;
+
+    font-size:28px;
+
+    line-height:1.8;
+
+    color:#334155;
+}
+
+/* Footer */
+
+.footer{
+
+    position:absolute;
+
+    bottom:35px;
+    right:60px;
+
+    font-size:18px;
+
+    color:#94a3b8;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div id="slide-container"></div>
+
+<script>
+
+/* =========================
+   JSON SLIDE SCHEMA
+========================= */
+
+const slideSchema = {
+
+    title: "How Water Affects Crop Growth",
+
+    subtitle: "Automatically rendered from JSON schema",
+
+    layout: "horizontal_flow",
+
+    components: [
+
+        {
+            type: "box",
+            label: "Soil Water",
+            semantic: "water"
+        },
+
+        {
+            type: "arrow",
+            label: "→"
+        },
+
+        {
+            type: "box",
+            label: "Root Uptake",
+            semantic: "growth"
+        },
+
+        {
+            type: "arrow",
+            label: "→"
+        },
+
+        {
+            type: "box",
+            label: "Transpiration",
+            semantic: "stress"
+        },
+
+        {
+            type: "arrow",
+            label: "→"
+        },
+
+        {
+            type: "box",
+            label: "Biomass",
+            semantic: "growth"
+        },
+
+        {
+            type: "arrow",
+            label: "→"
+        },
+
+        {
+            type: "box",
+            label: "Yield",
+            semantic: "water"
+        }
+
+    ],
+
+    gisPanel: {
+
+        title: "GIS Connection",
+
+        content:
+        "Water stress varies spatially across agricultural fields. GIS and remote sensing help monitor irrigation patterns and crop conditions."
+
+    },
+
+    note:
+    "This slide is automatically rendered using an AI-native JSON-to-HTML presentation rendering engine."
+
+};
+
+/* =========================
+   RENDERING ENGINE
+========================= */
+
+function renderSlide(schema){
+
+    const slide = document.createElement("div");
+
+    slide.className = "slide";
+
+    /* Title */
+
+    const title = document.createElement("div");
+
+    title.className = "title";
+
+    title.innerText = schema.title;
+
+    slide.appendChild(title);
+
+    /* Subtitle */
+
+    const subtitle = document.createElement("div");
+
+    subtitle.className = "subtitle";
+
+    subtitle.innerText = schema.subtitle;
+
+    slide.appendChild(subtitle);
+
+    /* Flow */
+
+    const flowWrapper = document.createElement("div");
+
+    flowWrapper.className = "flow-wrapper";
+
+    const flowContainer = document.createElement("div");
+
+    flowContainer.className = "flow-container";
+
+    schema.components.forEach(component => {
+
+        if(component.type === "box"){
+
+            const box = document.createElement("div");
+
+            box.className = `box ${component.semantic}`;
+
+            box.innerText = component.label;
+
+            flowContainer.appendChild(box);
+
+        }
+
+        if(component.type === "arrow"){
+
+            const arrow = document.createElement("div");
+
+            arrow.className = "arrow";
+
+            arrow.innerText = component.label;
+
+            flowContainer.appendChild(arrow);
+
+        }
+
+    });
+
+    flowWrapper.appendChild(flowContainer);
+
+    slide.appendChild(flowWrapper);
+
+    /* GIS Panel */
+
+    const gisPanel = document.createElement("div");
+
+    gisPanel.className = "gis-panel";
+
+    gisPanel.innerHTML = `
+
+        <div class="gis-title">
+            ${schema.gisPanel.title}
+        </div>
+
+        <div class="gis-text">
+            ${schema.gisPanel.content}
+        </div>
+
+    `;
+
+    slide.appendChild(gisPanel);
+
+    /* Bottom Note */
+
+    const note = document.createElement("div");
+
+    note.className = "note";
+
+    note.innerText = schema.note;
+
+    slide.appendChild(note);
+
+    /* Footer */
+
+    const footer = document.createElement("div");
+
+    footer.className = "footer";
+
+    footer.innerText =
+    "AI-native JSON → HTML Presentation Rendering";
+
+    slide.appendChild(footer);
+
+    return slide;
+}
+
+/* =========================
+   EXECUTE RENDERING
+========================= */
+
+const renderedSlide = renderSlide(slideSchema);
+
+document
+    .getElementById("slide-container")
+    .appendChild(renderedSlide);
+
+</script>
+
+</body>
+</html>

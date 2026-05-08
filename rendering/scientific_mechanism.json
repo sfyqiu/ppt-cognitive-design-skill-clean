@@ -1,0 +1,88 @@
+{
+  "slide_type": "scientific_mechanism",
+
+  "title": "Rhizosphere Nitrogen Cycling Mechanism",
+
+  "subtitle": "AI-native Scientific Semantic Rendering Demonstration",
+
+  "layout": "horizontal_mechanism_chain",
+
+  "semantic_theme": {
+
+    "microenvironment": "blue",
+
+    "microbiome": "green",
+
+    "nitrogen": "orange",
+
+    "yield": "purple"
+
+  },
+
+  "components": [
+
+    {
+      "type": "node",
+
+      "label": "Microenvironment",
+
+      "semantic_role": "microenvironment"
+    },
+
+    {
+      "type": "arrow",
+
+      "direction": "right"
+    },
+
+    {
+      "type": "node",
+
+      "label": "Microbiome",
+
+      "semantic_role": "microbiome"
+    },
+
+    {
+      "type": "arrow",
+
+      "direction": "right"
+    },
+
+    {
+      "type": "node",
+
+      "label": "Nitrogen Cycling",
+
+      "semantic_role": "nitrogen"
+    },
+
+    {
+      "type": "arrow",
+
+      "direction": "right"
+    },
+
+    {
+      "type": "node",
+
+      "label": "Crop Yield",
+
+      "semantic_role": "yield"
+    }
+
+  ],
+
+  "side_panel": {
+
+    "title": "GIS Integration",
+
+    "content":
+      "Spatial monitoring enables large-scale analysis of rhizosphere activity, nitrogen transport, and crop productivity patterns across agricultural systems."
+
+  },
+
+  "description":
+    "Microenvironment reconstruction regulates rhizosphere microbial communities, enhances nitrogen transformation efficiency, and ultimately improves crop yield formation."
+
+}
