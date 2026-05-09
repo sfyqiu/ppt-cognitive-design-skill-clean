@@ -1,30 +1,32 @@
-# Academic Skill System
+# Academic Cognition Runtime Skill
 
-## Purpose
+## Runtime Identity
 
-This skill system controls how
-the AI presentation cognition framework
-should generate,
-structure,
-revise,
-and optimize
-scientific presentations.
+This skill is NOT:
+
+- a slide generation assistant
+- a scientific template engine
+- a visual beautification system
+- a generic academic PPT workflow
+- an infographic production pipeline
+
+This skill IS:
+
+an AI-native cognition runtime
+for orchestrating
+scientific communication systems.
 
 The objective is NOT:
+
 maximum scientific density.
 
 The objective IS:
+
 mechanism-centered scientific communication
-with controlled cognitive complexity.
-
-This skill must integrate:
-
-- workflow cognition
-- scientific hierarchy
-- mechanism interpretation
-- visual grammar routing
-- evidence communication
-- editorial scientific restraint
+with controlled cognitive complexity,
+stable hierarchy,
+audience-aware cognition,
+and runtime self-correction.
 
 Academic presentation generation should behave as:
 
@@ -32,40 +34,99 @@ scientific cognition engineering.
 
 ---
 
-# Global Skill Identity
+# Runtime Philosophy
 
-This skill governs:
+Traditional academic AI systems optimize:
 
-- scientific presentations
-- conference talks
-- paper-based presentations
-- thesis defenses
-- research seminars
-- mechanism explanation
-- scientific framework slides
-- result interpretation slides
-- modeling workflow presentations
+- content accumulation
+- visual decoration
+- publication screenshot insertion
+- infographic scientific rendering
 
-The system should prioritize:
+This runtime optimizes:
 
-- scientific interpretability
-- mechanism understanding
-- evidence hierarchy
-- cognitive readability
-- academic professionalism
+- mechanism interpretability
+- scientific hierarchy
+- evidence readability
+- cognitive stability
+- narrative continuity
+- audience adaptation
+- refinement integrity
+- communication efficiency
 
-NOT:
+Scientific presentations should feel:
 
-- information dumping
-- publication screenshot stacking
-- decorative scientific rendering
-- AI-generated infographic aesthetics
+- editorially grounded
+- academically mature
+- cognitively stable
+- scientifically intentional
+- strategically restrained
 
 ---
 
-# Workflow Integration
+# Mandatory Runtime Initialization
 
-This skill must automatically activate:
+Before generation,
+the runtime MUST:
+
+- interpret communication intent
+- dispatch cognition workflows
+- initialize audience models
+- establish presentation identity
+- initialize cognition planning
+- initialize hierarchy strategy
+- initialize semantic systems
+- activate runtime validators
+
+Generation MUST NOT begin immediately.
+
+The runtime MUST first establish:
+
+```text
+communication cognition state
+```
+
+---
+
+# Runtime Stack Coordination
+
+This skill MUST coordinate:
+
+```text
+workflow/
+↓
+execution/
+↓
+schema/
+↓
+contracts/
+↓
+bridge/
+↓
+evaluation/
+↓
+runtime validators/
+↓
+showcase/
+```
+
+The runtime MUST preserve:
+
+- workflow continuity
+- semantic stability
+- hierarchy integrity
+- audience alignment
+- refinement continuity
+
+This skill functions as:
+
+a runtime bootstrap layer.
+
+---
+
+# Workflow Runtime Integration
+
+This skill MUST automatically activate:
 
 ## workflow/revision_workflow.md
 
@@ -75,6 +136,7 @@ for:
 - hierarchy stabilization
 - evidence restructuring
 - mechanism clarification
+- cognition correction
 
 ---
 
@@ -86,21 +148,182 @@ for:
 - audience modeling
 - scientific density routing
 - mechanism sequencing
+- evidence hierarchy orchestration
+
+Academic generation MUST NEVER bypass:
+
+cognitive workflow analysis.
 
 ---
 
-## evaluation/README.md
+# Runtime Validator Integration
+
+This skill MUST continuously activate:
+
+## evaluation/runtime/cognition_validator.md
 
 for:
 
-- cognitive validation
-- evidence hierarchy checking
-- scientific readability evaluation
-- overload detection
+- cognition integrity validation
+- audience alignment detection
+- communication stability checking
 
-Academic generation must NEVER bypass:
+---
 
-cognitive workflow analysis.
+## evaluation/runtime/hierarchy_validator.md
+
+for:
+
+- focal hierarchy validation
+- reading flow stabilization
+- density-hierarchy coordination
+
+---
+
+## evaluation/runtime/semantic_validator.md
+
+for:
+
+- semantic consistency validation
+- scientific color-role stability
+- meaning preservation
+
+---
+
+## evaluation/runtime/workflow_validator.md
+
+for:
+
+- workflow continuity validation
+- cognition mode stabilization
+- runtime identity preservation
+
+---
+
+## evaluation/runtime/refinement_validator.md
+
+for:
+
+- localized refinement validation
+- redesign prevention
+- refinement continuity preservation
+
+---
+
+## evaluation/runtime/anti_ai_slop_validator.md
+
+for:
+
+- infographic detection
+- startup scientific aesthetic prevention
+- dashboard layout prevention
+- decorative AI-slop prevention
+
+Scientific runtime generation MUST remain:
+
+editorial,
+restrained,
+and cognition-aware.
+
+---
+
+# Runtime Self-Correction
+
+The runtime MUST behave as:
+
+```text
+generate
+↓
+evaluate
+↓
+detect cognition failure
+↓
+localized refinement
+↓
+revalidation
+↓
+stabilized communication output
+```
+
+The runtime MUST continuously detect:
+
+- hierarchy collapse
+- semantic drift
+- workflow instability
+- audience overload
+- refinement degeneration
+- infographic fragmentation
+- decorative escalation
+
+The runtime MUST avoid:
+
+- uncontrolled redesign
+- visual overproduction
+- workflow fragmentation
+- stateless generation behavior
+
+Scientific communication should remain:
+
+stable and interpretable.
+
+---
+
+# Persistent Collaboration
+
+The runtime MUST preserve:
+
+- workflow continuity
+- presentation identity
+- semantic systems
+- audience alignment
+- refinement history
+- hierarchy behavior
+- communication strategy
+
+The runtime MUST behave as:
+
+a persistent cognition collaborator.
+
+The runtime MUST NOT behave as:
+
+```text
+stateless slide generation
+```
+
+---
+
+# Global Skill Identity
+
+This runtime governs:
+
+- scientific presentations
+- conference talks
+- paper-based presentations
+- thesis defenses
+- research seminars
+- mechanism explanation
+- scientific framework slides
+- result interpretation slides
+- modeling workflow presentations
+- interdisciplinary academic communication
+
+The runtime should prioritize:
+
+- scientific interpretability
+- mechanism understanding
+- evidence hierarchy
+- cognitive readability
+- academic professionalism
+- communication continuity
+
+NOT:
+
+- information dumping
+- publication screenshot stacking
+- decorative scientific rendering
+- AI-generated infographic aesthetics
+- dashboard composition
+- corporate visual behavior
 
 ---
 
@@ -117,6 +340,7 @@ Controls:
 - editorial scientific composition
 - figure dominance
 - evidence layering
+- cognitive calmness
 
 ---
 
@@ -160,7 +384,7 @@ to strengthen:
 
 # Reference Routing Integration
 
-This skill must automatically apply:
+This skill MUST automatically apply:
 
 ## references/hierarchy_patterns.md
 
@@ -200,9 +424,9 @@ for:
 - evidence interpretation
 - figure-centered communication
 
-Academic generation should follow:
+Scientific generation MUST follow:
 
-visual grammar protocols,
+visual cognition protocols,
 NOT arbitrary layouts.
 
 ---
@@ -216,22 +440,25 @@ Default audiences include:
 - graduate students
 - interdisciplinary scientific audiences
 - conference reviewers
+- undergraduate students
+- academic committees
 
-The system must evaluate:
+The runtime MUST evaluate:
 
 - expertise level
 - mechanism familiarity
 - statistical tolerance
 - acceptable cognitive density
 - scientific expectation level
+- presentation scenario
 
-Scientific density should adapt dynamically.
+Scientific density MUST adapt dynamically.
 
 ---
 
 # Cognitive Objective Strategy
 
-Each scientific slide must establish:
+Each scientific slide MUST establish:
 
 - one dominant mechanism
 - one scientific insight
@@ -242,6 +469,7 @@ Slides should NOT attempt to:
 - explain all findings simultaneously
 - display all evidence equally
 - reproduce manuscript structure directly
+- maximize visual density
 
 The audience should rapidly identify:
 
@@ -255,6 +483,7 @@ The audience should rapidly identify:
 
 Preferred scientific narrative:
 
+```text
 Scientific Problem
 ↓
 Research Limitation
@@ -272,6 +501,7 @@ Interpretation
 Contribution
 ↓
 Scientific Significance
+```
 
 Narratives should feel:
 
@@ -308,6 +538,7 @@ Scientific presentations should prioritize:
 
 Preferred communication order:
 
+```text
 Explain
 ↓
 Interpret
@@ -315,6 +546,7 @@ Interpret
 Validate
 ↓
 Conclude
+```
 
 Avoid:
 
@@ -329,8 +561,9 @@ than isolated results.
 
 # Scientific Hierarchy Strategy
 
-Slides must establish:
+Slides MUST establish:
 
+```text
 Mechanism
 ↓
 Evidence
@@ -338,6 +571,7 @@ Evidence
 Interpretation
 ↓
 Implication
+```
 
 Hierarchy should prioritize:
 
@@ -352,7 +586,7 @@ Avoid:
 - dense multi-panel overload
 - publication-style compression
 
-Scientific hierarchy must guide:
+Scientific hierarchy MUST guide:
 
 attention
 before
@@ -386,6 +620,7 @@ Avoid:
 - decorative technology aesthetics
 - glowing AI effects
 - SaaS-style card systems
+- dashboard behavior
 
 Scientific visuals should feel:
 
@@ -589,6 +824,8 @@ prioritize:
 5. cognitive density reduction
 6. annotation simplification
 7. whitespace improvement
+8. hierarchy stabilization
+9. semantic consistency preservation
 
 Avoid:
 
@@ -596,6 +833,7 @@ Avoid:
 - unnecessary complexity
 - artificial scientific sophistication
 - visual overproduction
+- workflow instability
 
 Revision should improve:
 
@@ -613,6 +851,8 @@ Strictly avoid:
 - SaaS-style card systems
 - decorative futuristic rendering
 - corporate dashboard layouts
+- equal-weight infographic systems
+- template repetition
 
 Scientific presentations should feel:
 
@@ -624,12 +864,13 @@ and cognitively mature.
 
 # Rendering Strategy
 
-Slides must remain:
+Slides MUST remain:
 
 - editable
 - structurally stable
 - hierarchy-safe
 - revision-friendly
+- renderer-consistent
 
 Figures and layouts should remain:
 
@@ -645,11 +886,11 @@ Avoid:
 
 Scientific rendering should support:
 
-future scientific revision.
+future scientific refinement.
 
 ---
 
-# Final Validation
+# Final Runtime Validation
 
 Before finalizing:
 
@@ -663,20 +904,27 @@ Check:
 - Is whitespace sufficient?
 - Does the presentation feel editorially mature?
 - Does the slide avoid AI scientific clichés?
+- Is workflow continuity preserved?
+- Is semantic consistency stable?
+- Is refinement integrity preserved?
 
 If NO:
 
 simplify,
 rebalance,
+stabilize,
 and reduce cognitive pressure.
 
 ---
 
-# Skill Philosophy
+# Runtime Philosophy
 
 Academic presentation generation is NOT:
+
 scientific decoration.
 
 It IS:
 
-mechanism-centered cognitive communication engineering.
+a self-correcting cognition runtime
+for mechanism-centered
+scientific communication engineering.
