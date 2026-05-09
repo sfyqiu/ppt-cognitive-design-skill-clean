@@ -33,6 +33,12 @@ Slide Structure Planning
 ↓
 Presentation Generation
 ↓
+User Review Loop
+↓
+Local Revision
+↓
+Consistency Preservation
+↓
 Cognitive Validation
 
 ---
@@ -184,7 +190,85 @@ Avoid:
 
 ---
 
-# Step 9 — Cognitive Validation
+# Step 9 — User Review Loop
+
+After initial presentation generation,
+the system should support
+iterative user-guided refinement.
+
+Users may provide:
+
+- layout feedback
+- density feedback
+- scientific revision requests
+- teaching clarity adjustments
+- visual preference changes
+- audience adaptation requests
+
+The system should:
+
+- interpret feedback cognitively
+- prioritize local revision
+- preserve presentation stability
+- maintain narrative continuity
+
+Avoid:
+
+- unnecessary full regeneration
+- unrelated slide modification
+- style drift
+
+---
+
+# Step 10 — Local Revision
+
+Revision should focus on:
+
+- single-slide refinement
+- figure optimization
+- layout adjustment
+- mechanism clarification
+- teaching simplification
+- density optimization
+
+Use:
+
+- revision_workflow.md
+- layout_revision.md
+- scientific_revision.md
+- teaching_revision.md
+- density_revision.md
+
+Rule:
+
+Local revision is preferred
+unless global redesign is requested.
+
+---
+
+# Step 11 — Consistency Preservation
+
+During revision maintain:
+
+- typography consistency
+- spacing consistency
+- color semantics
+- visual hierarchy
+- audience adaptation
+- narrative smoothness
+
+Revision should improve communication
+without destabilizing presentation structure.
+
+Avoid:
+
+- unnecessary redesign
+- inconsistent styles
+- disconnected slide logic
+
+---
+
+# Step 12 — Cognitive Validation
 
 Before finalizing:
 
