@@ -2,254 +2,548 @@
 
 ## Purpose
 
-This workflow defines how an AI system should
-analyze, structure, and design
-academic research presentations.
+This workflow defines how
+the AI presentation cognition system
+should orchestrate,
+structure,
+and refine
+academic research presentations
+through scientific cognition engineering.
 
-The workflow prioritizes:
+The objective is NOT:
+research paper compression.
 
-- scientific logic
-- mechanism clarity
-- research credibility
-- narrative coherence
-- cognitive readability
+The objective IS:
+mechanism-centered scientific communication
+through cognitively optimized presentation orchestration.
 
-NOT excessive technical density.
+Academic presentations should help audiences:
+
+- understand the scientific problem
+- follow mechanism logic
+- interpret evidence efficiently
+- recognize scientific contribution
+- remember key mechanisms
+- trust scientific reasoning
+
+Scientific communication should feel:
+
+editorial,
+coherent,
+and cognitively interpretable.
 
 ---
 
-# Global Principle
+# Core Workflow Philosophy
 
-A good academic presentation is NOT
-a compressed research paper.
+Academic presentations are NOT:
 
-It is:
+slide versions of papers.
 
+They are:
+
+scientific cognition systems.
+
+The workflow must orchestrate:
+
+- audience adaptation
 - scientific storytelling
+- hierarchy planning
 - mechanism communication
-- logical persuasion
-- evidence-guided cognition
+- evidence interpretation
+- cognitive density regulation
+- editorial stabilization
+- iterative refinement
 
-The audience should quickly understand:
+The workflow should prioritize:
 
-- the problem
-- the mechanism
-- the innovation
-- the contribution
-- the significance
+understanding speed
+over information quantity.
+
+---
+
+# Global Workflow Structure
+
+The workflow must execute:
+
+Scenario Analysis
+↓
+Audience Modeling
+↓
+Skill Routing
+↓
+Style Routing
+↓
+Reference Activation
+↓
+Example Grounding
+↓
+Scientific Narrative Planning
+↓
+Mechanism Planning
+↓
+Visual Hierarchy Planning
+↓
+Evidence Structuring
+↓
+Cognitive Density Regulation
+↓
+Evaluation
+↓
+Revision Loop
+↓
+Final Stabilization
+
+Generation must NEVER begin
+before orchestration planning completes.
 
 ---
 
 # Stage 1 — Academic Scenario Analysis
 
-Identify:
+The system must determine:
 
 - conference presentation
 - thesis defense
-- faculty interview
-- project proposal
-- journal presentation
 - academic seminar
+- journal presentation
+- project proposal
+- interdisciplinary presentation
+- faculty interview hybrid
 
-Determine:
+The workflow must evaluate:
 
 - audience expertise
-- expected rigor
-- acceptable complexity
-- presentation risk
+- expected scientific rigor
+- acceptable density
+- presentation pressure
+- defense risk
+- communication objectives
 
-Output:
+The workflow should output:
 
 - presentation tone
-- density strategy
-- visual strategy
-- mechanism depth
+- cognitive density strategy
+- scientific depth
+- professionalism level
+- mechanism emphasis level
 
 ---
 
-# Stage 2 — Research Contribution Extraction
+# Stage 2 — Audience Modeling
 
-AI should identify:
+The workflow must determine:
 
-- what problem is solved?
-- why previous methods are insufficient?
-- what is innovative?
-- what mechanism is revealed?
-- what value is created?
-
-Rule:
-
-Every presentation must clearly communicate:
-
-- scientific problem
-- innovation
-- mechanism
-- contribution
-
-Avoid:
-
-- vague novelty claims
-- disconnected results
-- result stacking without interpretation
+- terminology familiarity
+- mechanism tolerance
+- statistical tolerance
+- attention capacity
+- educational accessibility requirements
 
 ---
 
-# Stage 3 — Audience Modeling
-
-## Experts
+## Expert Audience
 
 Prefer:
 
-- concise explanation
-- mechanism logic
-- evidence consistency
-- strong structure
+- concise mechanism explanation
+- strong evidence hierarchy
+- restrained interpretation
+- scientific continuity
 
 Avoid:
 
-- decorative slides
-- excessive animation
-- simplified conclusions without evidence
+- decorative storytelling
+- excessive simplification
+- infographic-heavy visuals
 
 ---
 
-## Mixed Academic Audience
+## Mixed Scientific Audience
 
 Prefer:
 
 - visualized mechanisms
 - moderate simplification
 - process explanation
-- intuitive diagrams
+- guided interpretation
 
 Avoid:
 
-- excessive jargon
-- equation overload
-- fragmented storytelling
+- terminology overload
+- equation saturation
+- fragmented evidence storytelling
 
 ---
 
-# Stage 4 — Narrative Strategy
+## Interdisciplinary Audience
 
-Recommended structure:
+Prefer:
+
+- conceptual framing
+- intuitive scientific explanation
+- visual causal flow
+- mechanism accessibility
+
+Avoid:
+
+- field-specific jargon accumulation
+- excessive methodological detail
+
+Audience modeling must continuously regulate:
+
+communication complexity.
+
+---
+
+# Stage 3 — Skill Routing
+
+The workflow must activate:
+
+## Primary Skill
+
+academic_skill
+
+---
+
+## Secondary Skill
+
+Possible:
+
+teaching_skill
+
+for:
+
+- mixed audiences
+- conceptual simplification
+- educational readability
+
+Possible:
+
+interview_skill
+
+for:
+
+- thesis defense
+- institutional presentations
+- strategic professionalism
+
+One skill MUST dominate.
+
+Secondary skills support:
+they do NOT override.
+
+---
+
+# Stage 4 — Style Routing
+
+The workflow must activate:
+
+## styles/sci_top_journal/
+
+for:
+
+- editorial scientific communication
+- publication-oriented visual calmness
+- restrained scientific hierarchy
+
+Avoid:
+
+- startup scientific aesthetics
+- infographic-heavy layouts
+- glowing AI scientific rendering
+
+Scientific atmosphere should feel:
+
+human-designed
+and editorially grounded.
+
+---
+
+# Stage 5 — Reference Activation
+
+The workflow must activate:
+
+## references/hierarchy_patterns.md
+
+for:
+
+- dominant mechanism hierarchy
+- visual sequencing
+- focal control
+
+---
+
+## references/whitespace_patterns.md
+
+for:
+
+- editorial spacing
+- cognitive calmness
+- scientific breathing rhythm
+
+---
+
+## references/mechanism_layout_patterns.md
+
+for:
+
+- mechanism-centered layouts
+- causal explanation
+- directional scientific flow
+
+---
+
+## references/scientific_visual_language.md
+
+for:
+
+- scientific visual grammar
+- editorial atmosphere
+- evidence communication
+
+Reference systems must shape:
+
+visual cognition behavior.
+
+---
+
+# Stage 6 — Example Grounding
+
+The workflow must learn from:
+
+## examples/academic_case.md
+
+for:
+
+- mechanism storytelling
+- evidence hierarchy
+- editorial scientific pacing
+
+---
+
+## examples/revision_case.md
+
+for:
+
+- iterative refinement
+- hierarchy stabilization
+- density correction
+
+Grounded examples should influence:
+
+visual reasoning,
+NOT template copying.
+
+---
+
+# Stage 7 — Scientific Contribution Extraction
+
+The workflow must identify:
+
+- scientific problem
+- research gap
+- mechanism novelty
+- causal relationships
+- scientific contribution
+- interdisciplinary value
+- application significance
+
+The workflow must determine:
+
+what mechanism matters most.
+
+Avoid:
+
+equal treatment
+of all research content.
+
+Academic communication should prioritize:
+
+scientific inevitability.
+
+---
+
+# Stage 8 — Scientific Narrative Planning
+
+Preferred scientific narrative:
 
 Scientific Problem
-→ Limitation
-→ Hypothesis
-→ Method
-→ Mechanism
-→ Validation
-→ Contribution
-→ Application
+↓
+Research Limitation
+↓
+Hypothesis
+↓
+Method
+↓
+Mechanism
+↓
+Validation
+↓
+Interpretation
+↓
+Contribution
+↓
+Application Significance
 
-The presentation should feel:
+Narrative should feel:
 
 - progressive
 - evidence-driven
-- mechanism-oriented
-- logically inevitable
-
----
-
-# Stage 5 — Mechanism-Oriented Thinking
-
-Academic slides should prioritize:
-
-- causal relationships
-- mechanism chains
-- process logic
-- interaction pathways
-- evidence linkage
-
-Mechanisms are more persuasive than isolated results.
-
----
-
-# Stage 6 — Research Visualization Strategy
-
-Preferred visual forms:
-
-- mechanism diagrams
-- process chains
-- conceptual frameworks
-- GIS-spatial interpretation
-- before/after comparison
-- interaction networks
+- mechanism-centered
+- scientifically inevitable
 
 Avoid:
 
-- crowded tables
-- screenshot-heavy slides
-- unexplained figures
-- disconnected charts
+- disconnected results
+- evidence dumping
+- fragmented storytelling
+- conclusion-first sequencing
+
+Scientific storytelling should guide:
+
+understanding naturally.
 
 ---
 
-# Stage 7 — Cognitive Density Control
+# Stage 9 — Mechanism Planning
 
-Rule:
+Mechanisms must dominate:
+
+scientific interpretation.
+
+Preferred mechanism behavior:
+
+- directional flow
+- causal hierarchy
+- interaction clarity
+- annotation restraint
+- whitespace isolation
+
+Preferred mechanism sequence:
+
+Environmental Change
+↓
+Microenvironment Response
+↓
+Biological Interaction
+↓
+Functional Transformation
+↓
+Observed Outcome
+
+Avoid:
+
+- tangled pathways
+- dense scientific workflows
+- visually compressed mechanisms
+
+Mechanisms should explain:
+
+relationships,
+not complexity.
+
+---
+
+# Stage 10 — Evidence Structuring
+
+Evidence should support:
+
+mechanism credibility.
+
+Preferred evidence behavior:
+
+- selective validation
+- grouped evidence hierarchy
+- concise interpretation
+- subordinate positioning
+
+Preferred sequence:
+
+Mechanism
+↓
+Evidence
+↓
+Interpretation
+↓
+Scientific Confidence
+
+Avoid:
+
+- chart dumping
+- dense statistical accumulation
+- evidence-first storytelling
+
+Evidence exists to support:
+
+scientific trust.
+
+---
+
+# Stage 11 — Visual Hierarchy Planning
+
+Every slide must establish:
+
+Dominant Message
+↓
+Dominant Mechanism
+↓
+Supporting Evidence
+↓
+Interpretation
+↓
+Scientific Takeaway
 
 One slide should communicate:
 
 - one mechanism
-- one core insight
-- one logical transition
+- one scientific transition
+- one interpretable insight
 
 Avoid:
 
-- multi-focus slides
-- excessive figure stacking
-- paragraph-style explanations
+- multi-focus layouts
+- equal-weight evidence grids
+- dashboard-style scientific composition
 
-If content becomes overloaded:
+Hierarchy should guide:
 
-split slides.
-
----
-
-# Stage 8 — Visual Semantic Mapping
-
-Recommended semantic mapping:
-
-| Semantic Meaning | Color |
-|---|---|
-| Water / GIS / Technology | Blue |
-| Biology / Ecology | Green |
-| Stress / Limitation | Orange / Red |
-| Neutral Process | Gray |
-| Innovation / Highlight | Purple |
-
-Colors should communicate meaning,
-not decoration.
+attention
+before reasoning.
 
 ---
 
-# Stage 9 — Scientific Credibility Design
+# Stage 12 — Cognitive Density Regulation
 
-Academic presentations should visually reinforce:
+Scientific density should remain:
 
-- rigor
-- structure
-- consistency
-- confidence
+controlled medium-to-high.
 
-Rule:
+The workflow must continuously evaluate:
 
-Professional simplicity
-is stronger than visual complexity.
+- readability
+- interpretation effort
+- terminology burden
+- evidence competition
+- annotation saturation
 
-Avoid:
+If overload appears:
 
-- over-designed templates
-- decorative clutter
-- unstable visual hierarchy
+- split scientific layers
+- enlarge mechanisms
+- simplify annotations
+- reduce secondary evidence
+- increase whitespace
+
+Scientific understanding
+is more important
+than information completeness.
 
 ---
 
-# Stage 10 — Academic Storytelling
+# Stage 13 — Academic Storytelling Behavior
 
-Research presentations should answer:
+Scientific presentations should answer:
 
 Why does this matter?
 
@@ -257,84 +551,211 @@ before explaining:
 
 What was done?
 
-The audience should emotionally feel:
+The audience should feel:
 
 - significance
 - inevitability
-- contribution
+- scientific contribution
+- mechanism credibility
 
-before technical details appear.
+before technical density increases.
+
+Storytelling should remain:
+
+scientifically restrained.
 
 ---
 
-# Stage 11 — Expert Defense Awareness
+# Stage 14 — Defense Awareness
 
-AI should reduce potential attack points.
+The workflow must reduce:
+
+potential expert attack points.
 
 Avoid:
 
-- overclaiming novelty
 - unsupported conclusions
-- excessive speculation
-- visually exaggerated claims
+- exaggerated novelty claims
+- speculative interpretation
+- visually exaggerated science
 
-Preferred:
+Preferred behavior:
 
 - controlled confidence
 - evidence-backed interpretation
 - mechanism-supported conclusions
+- scientific restraint
+
+Scientific credibility should feel:
+
+stable.
 
 ---
 
-# Stage 12 — AI Rendering Guidance
+# Stage 15 — Prompt Engine Coordination
 
-When generating academic slides:
+The workflow must coordinate:
 
-AI should:
+## prompts/presentation_generation_engine.md
 
-- prioritize mechanism explanation
-- simplify complex concepts visually
-- maintain strong logical flow
-- reduce unnecessary text
-- increase whitespace
-- preserve scientific professionalism
+as master orchestration.
 
-The goal is:
+---
 
-scientific understanding.
+## prompts/scientific_storytelling_engine.md
 
-Not visual decoration.
+for:
+
+- scientific narrative construction
+- mechanism interpretation
+
+---
+
+## prompts/cognitive_density_engine.md
+
+for:
+
+- overload prevention
+- hierarchy stabilization
+
+---
+
+## prompts/revision_engine.md
+
+for:
+
+- iterative refinement
+- local scientific correction
+
+---
+
+## prompts/slide_diagnosis_engine.md
+
+when communication failures appear.
+
+---
+
+# Stage 16 — Evaluation Activation
+
+Before finalization,
+the workflow must activate:
+
+## evaluation/README.md
+
+to validate:
+
+- mechanism clarity
+- scientific readability
+- evidence hierarchy
+- cognitive density
+- visual calmness
+- editorial professionalism
+- communication effectiveness
+
+If evaluation fails:
+
+revision becomes mandatory.
+
+---
+
+# Stage 17 — Revision Loop
+
+If communication problems appear,
+the workflow must revise:
+
+- hierarchy instability
+- overload
+- fragmented storytelling
+- weak mechanism flow
+- poor evidence integration
+- annotation saturation
+
+Preferred revision strategy:
+
+1. hierarchy clarification
+2. whitespace expansion
+3. evidence simplification
+4. annotation reduction
+5. mechanism enlargement
+
+Avoid:
+
+adding more scientific complexity.
+
+Reduction is preferred.
+
+---
+
+# Stage 18 — Final Stabilization
+
+Before final output,
+the workflow must ensure:
+
+- visual consistency
+- typography stability
+- semantic color coherence
+- narrative continuity
+- hierarchy consistency
+- editorial atmosphere stability
+
+The presentation should feel:
+
+coherent,
+human-designed,
+and scientifically intentional.
+
+---
+
+# Anti-AI-Slop Rules
+
+Strictly avoid:
+
+- infographic-heavy scientific layouts
+- startup science aesthetics
+- SaaS dashboard composition
+- glowing AI scientific graphics
+- decorative futuristic visuals
+- publication screenshot dumping
+
+The presentation should NEVER feel:
+
+AI-template-generated.
+
+The presentation should feel:
+
+editorial,
+scientifically grounded,
+and cognitively mature.
 
 ---
 
 # Final Validation
 
-Before finalizing presentation:
+Before finalizing:
 
 Check:
 
-- Is the scientific problem clear?
-- Is the mechanism understandable?
-- Is the innovation identifiable?
-- Is the logic coherent?
-- Is cognitive load acceptable?
-- Is visual hierarchy stable?
+- Is the scientific problem immediately understandable?
+- Is the mechanism visually interpretable?
+- Is evidence subordinate to the mechanism?
+- Is cognitive density controlled?
+- Is hierarchy stable?
+- Is whitespace sufficient?
+- Does the presentation feel editorially mature?
+- Does the workflow avoid AI scientific clichés?
 
 If NO:
 
-simplify and restructure.
+continue refinement.
 
 ---
 
 # Workflow Philosophy
 
-A strong academic PPT does not
-show maximum information.
+Academic presentation workflows are NOT:
+presentation generation pipelines.
 
-It reveals:
+They ARE:
 
-the inevitability of scientific logic.
-
-Academic presentation design is:
-
-scientific cognition engineering.
+scientific cognition orchestration systems
+for mechanism-centered communication engineering.
