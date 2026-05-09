@@ -1,202 +1,330 @@
-# Academic Interview Presentation Skill
+# Interview Skill
 
 ## Purpose
 
-This skill is used for designing
-academic interview and faculty recruitment presentations.
-
-The objective is NOT decorative presentation.
+This skill controls how AI should
+design and revise
+academic interview presentations.
 
 The objective is:
-- professional credibility
-- cognitive trust
-- strategic communication
-- strength amplification
-- risk reduction
+
+maximize professional trust,
+research credibility,
+teaching clarity,
+and future potential communication.
+
+NOT aggressive self-promotion.
 
 ---
 
-# Core Philosophy
+# Primary Usage
 
-An interview presentation is:
-- strategic academic communication
-- controlled self-presentation
-- cognitive persuasion
-- professional positioning
+Use for:
 
-NOT:
-- resume visualization
-- decorative portfolio slides
-- information dumping
+- faculty interviews
+- academic recruitment presentations
+- teaching demonstrations
+- job talks
+- institutional presentations
+- candidate introduction presentations
 
 ---
 
-# Audience Rules
+# Core Cognitive Objective
 
-Typical audiences:
-- faculty committees
-- professors
-- academic reviewers
-- recruitment experts
+Interview presentations should help audience feel:
 
-Audience characteristics:
-- limited attention span
-- high sensitivity to logic gaps
-- strong evaluation awareness
-- fast credibility judgment
+- this person can teach
+- this person can communicate
+- this person has research potential
+- this person fits the institution
+- this person is professionally stable
 
-Slides should:
-- communicate clearly
-- reduce cognitive friction
-- strengthen professionalism
-- avoid unnecessary complexity
+The presentation should feel:
+
+- balanced
+- professional
+- approachable
+- scientifically credible
+- strategically controlled
 
 ---
 
-# Strategic Communication Rules
+# Audience Strategy
 
-Prioritize:
-- clear positioning
-- coherent narrative
-- controllable depth
-- confidence through structure
-- visual professionalism
+Default audience:
 
-Avoid:
-- excessive claims
-- over-complicated theory
-- unsupported sophistication
-- visually aggressive layouts
-- unnecessary technical overload
+- interview committees
+- department faculty
+- mixed academic panels
+- teaching-focused evaluators
+- research-focused evaluators
 
----
+Adjust presentation based on:
 
-# Candidate Positioning Rules
-
-The presentation should:
-- amplify strengths
-- reduce weakness exposure
-- strengthen perceived expertise
-- create coherent identity
-
-Example:
-
-If candidate strengths are:
-- engineering application
-- interdisciplinary integration
-- digital agriculture
-
-Then prioritize:
-- application-driven visuals
-- mechanism-to-application logic
-- practical scientific narrative
-
-Avoid:
-- excessive theoretical confrontation
-- high-risk deep theory explanations
+- institution orientation
+- teaching emphasis
+- research expectations
+- candidate strengths
+- evaluation pressure
 
 ---
 
-# Recommended Interview Narrative
+# Narrative Strategy
 
 Preferred structure:
 
-Background
+Personal Background
 → Research Direction
-→ Scientific Logic
-→ Representative Work
+→ Scientific Contribution
 → Teaching Philosophy
 → Future Plan
-→ Value to Institution
+→ Institutional Fit
 
 Narrative should feel:
-- coherent
-- confident
+
 - progressive
-- professionally controlled
+- coherent
+- stable
+- confident
+- realistic
+
+Avoid:
+
+- excessive self-praise
+- disconnected sections
+- exaggerated achievements
+- unstable positioning
+
+---
+
+# Positioning Strategy
+
+Interview presentations should amplify:
+
+- strongest expertise
+- clearest research direction
+- interdisciplinary value
+- communication ability
+- teaching clarity
+- future growth potential
+
+Avoid exposing:
+
+- unnecessary weaknesses
+- unsupported claims
+- unstable academic positioning
+
+Preferred impression:
+
+- reliable
+- understandable
+- growth-oriented
+- collaborative
+
+---
+
+# Research Presentation Strategy
+
+Research sections should prioritize:
+
+- mechanism understanding
+- scientific logic
+- research continuity
+- future potential
+- interdisciplinary integration
+
+Interview committees evaluate:
+
+- communication quality
+- logic
+- teaching ability
+- future development potential
+
+not only publication quantity.
+
+---
+
+# Teaching Presentation Strategy
+
+Teaching-related slides should prioritize:
+
+- intuitive explanation
+- progressive cognition
+- visual teaching support
+- clear hierarchy
+- approachable communication
+
+Preferred visuals:
+
+- diagrams
+- mechanism flow
+- semantic arrows
+- conceptual explanation
+- annotated visuals
+
+Avoid:
+
+- text-heavy layouts
+- excessive formulas
+- dense scientific clutter
 
 ---
 
 # Visual Strategy
 
-Prefer:
-- clean academic layouts
-- moderate visual hierarchy
-- mechanism-supported explanation
-- concise annotations
-- strategic whitespace
+Preferred layout feeling:
+
+- restrained
+- clean
+- professional
+- balanced
+- stable
+
+Preferred visual characteristics:
+
+- controlled whitespace
+- consistent typography
+- academic blue tones
+- moderate hierarchy
+- stable visual rhythm
 
 Avoid:
-- commercial pitch deck style
-- startup presentation aesthetics
-- excessive infographic decoration
-- overloaded pages
+
+- flashy animations
+- infographic aesthetics
+- visually aggressive design
+- unstable color systems
 
 ---
 
-# Cognitive Control Rules
+# Cognitive Density Strategy
 
-Each slide should:
-- communicate one strategic message
-- reinforce professional identity
-- reduce interpretation ambiguity
+Interview presentations should prioritize:
 
-Audience should quickly understand:
-- who the candidate is
-- what the candidate contributes
-- why the candidate fits the position
+- fast readability
+- controlled density
+- strong focal points
+- memorable structure
+- concise explanation
 
----
+One slide should communicate:
 
-# Scientific Credibility Rules
+- one strategic message
+- one professional impression
+- one clear contribution
 
-Scientific slides should:
-- explain enough to establish credibility
-- avoid excessive complexity
-- maintain interpretability
+Avoid:
 
-The goal is:
-controlled expertise presentation.
-
-NOT:
-maximum technical exposure.
+- information stacking
+- excessive detail
+- multi-focus layouts
 
 ---
 
-# Visual Semantic Rules
+# Interview Revision Behavior
+
+When revising interview presentations:
+
+prioritize:
+
+- professionalism
+- readability
+- strategic balance
+- teaching clarity
+- research coherence
+- institutional compatibility
+
+Common revision goals:
+
+- simplify complexity
+- strengthen positioning
+- stabilize hierarchy
+- improve communication flow
+- reduce cognitive pressure
+
+Avoid:
+
+- unnecessary redesign
+- overclaiming
+- decorative complexity
+- unstable narrative transitions
+
+---
+
+# Visual Semantic Strategy
+
+Recommended semantic colors:
 
 blue:
-- academic professionalism
+- professionalism
 - technology
-- scientific systems
+- academic stability
 
 green:
 - agriculture
 - ecology
 - sustainability
 
-gray/white:
-- credibility
-- restraint
-- professionalism
+orange:
+- emphasis
+- contribution
+- strategic highlight
 
-Avoid:
-- overly saturated palettes
-- visually emotional color systems
+Colors should communicate meaning,
+not decoration.
 
 ---
 
-# Expected Output
+# Rendering Preference
 
-Before generating slides:
-- identify interview scenario
-- identify institution expectations
-- identify candidate strengths
-- identify risk areas
-- identify strategic emphasis
+Slides should:
 
-Then:
-- design presentation narrative
-- design strategic hierarchy
-- design credibility-focused visuals
-- generate editable interview presentation slides
+- remain editable
+- preserve professional hierarchy
+- support strategic communication
+- guide audience attention naturally
+- maintain institutional compatibility
+
+Preferred typography feeling:
+
+- stable
+- restrained
+- readable
+- professional
+
+---
+
+# Final Validation
+
+Before finalizing interview slides:
+
+Check:
+
+- Is candidate positioning clear?
+- Is professionalism visible?
+- Is teaching ability understandable?
+- Is research logic coherent?
+- Is cognitive load controlled?
+- Is narrative progression smooth?
+
+If NO:
+
+simplify and rebalance.
+
+---
+
+# Skill Philosophy
+
+Interview presentation design is:
+
+professional cognition engineering.
+
+The objective is not
+to impress through complexity.
+
+The objective is:
+
+trust,
+clarity,
+and future potential communication.
