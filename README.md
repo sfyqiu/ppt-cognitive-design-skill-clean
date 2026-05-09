@@ -13,7 +13,7 @@ This project is NOT:
 
 This project IS:
 
-a presentation cognition operating system.
+a presentation cognition runtime architecture.
 
 ---
 
@@ -193,6 +193,44 @@ The runtime continuously regulates:
 
 ---
 
+# Runtime Startup Sequence
+
+AI agents MUST initialize the runtime in this order:
+
+```text
+README.md
+↓
+SYSTEM_CONTEXT.md
+↓
+SYSTEM_WORKFLOW.md
+↓
+workflow/
+↓
+skills/
+↓
+references/
+↓
+evaluation/runtime/
+↓
+bridge/
+↓
+showcase/
+```
+
+The runtime MUST determine:
+
+- presentation scenario
+- audience cognition
+- workflow priority
+- validator activation strategy
+- refinement strategy
+
+before rendering begins.
+
+Reasoning MUST precede rendering.
+
+---
+
 # Runtime Self-Correction
 
 Traditional AI systems behave as:
@@ -284,23 +322,46 @@ The pipeline continuously preserves:
 
 # Repository Architecture
 
+## Runtime Core
+
 ```text
 architecture/
-bridge/
-commands/
-contracts/
-evaluation/
+workflow/
 execution/
-examples/
+schema/
+contracts/
+bridge/
+```
+
+---
+
+## Cognition Systems
+
+```text
+skills/
 prompts/
 references/
-rendering/
-schema/
-showcase/
-skills/
 styles/
-workflow/
+evaluation/
+evaluation/runtime/
+```
+
+---
+
+## Rendering Systems
+
+```text
+rendering/
 assets/
+```
+
+---
+
+## Demonstration Layer
+
+```text
+showcase/
+examples/
 ```
 
 ---
@@ -548,6 +609,7 @@ runtime cognition behavior.
 | Runtime Refinement | ✅ |
 | Runtime Validation | ✅ |
 | Self-Correction Logic | ✅ |
+| Persistent Cognition Continuity | ✅ |
 | JSON Rendering Pipeline | ✅ |
 | HTML Presentation Rendering | ✅ |
 | Persistent Collaboration | ✅ |
@@ -816,8 +878,8 @@ The repository now includes:
 
 The long-term goal is to build:
 
-a fully AI-native cognition operating system
-for communication orchestration.
+a cognition runtime architecture
+for audience-aware communication orchestration.
 
 Capable of:
 
@@ -876,7 +938,7 @@ MIT License
 
 This project is NOT:
 
-an AI slide generator.
+an automated slide generator.
 
 It IS:
 
@@ -890,7 +952,6 @@ better-looking slides.
 
 The objective IS:
 
-stable,
-interpretable,
-and cognitively efficient
-human communication.
+self-correcting,
+audience-aware,
+cognitively stabilized communication orchestration.
