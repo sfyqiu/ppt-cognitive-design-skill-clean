@@ -2,531 +2,552 @@
 
 ## Purpose
 
-This style system defines
-high-level scientific presentation aesthetics
-inspired by:
-
-- Nature
-- Science
-- Cell
-- Nature Communications
-- Remote Sensing of Environment
-- Agricultural Water Management
-- ISPRS
-- high-end academic conference presentations
+This style system defines the visual cognition protocol
+for high-level scientific presentations.
 
 The objective is NOT:
-- decorative scientific graphics
-- infographic-heavy slides
-- business presentation aesthetics
+decorative scientific slides.
 
 The objective IS:
-- scientific credibility
+mechanism-centered scientific communication
+with restrained academic aesthetics.
+
+This style prioritizes:
+
+- scientific interpretability
+- mechanism clarity
+- evidence hierarchy
 - visual restraint
-- mechanism readability
-- figure-centered communication
-- cognitive clarity
-- publication-style professionalism
+- cognitive precision
+- professional academic atmosphere
 
 ---
 
-# Global SCI Style Philosophy
+# Core Scientific Philosophy
 
-SCI top-journal style presentations should feel:
+Scientific presentations should feel:
 
-- restrained
-- precise
-- mechanism-driven
-- visually calm
-- scientifically trustworthy
-- interpretation-oriented
+- rigorous
+- calm
+- intelligent
+- visually controlled
+- scientifically interpretable
 
 The audience should feel:
 
-"This looks like a scientific figure system,
-not a commercial presentation template."
+- the mechanism is understandable
+- the evidence is trustworthy
+- the narrative is coherent
+- the presenter is scientifically mature
+
+NOT visually overwhelmed.
 
 ---
 
-# Core Design Principles
+# Scientific Visual Identity
 
-## Principle 1 — Figure First
+This style follows:
 
-Slides should behave like:
-- extended scientific figures
-- visual explanation systems
-- mechanism interpretation panels
+- Nature-like restraint
+- editorial scientific hierarchy
+- mechanism-centered layouts
+- evidence-driven storytelling
+- figure-dominant communication
 
-NOT:
-- text-first documents
-- decorative infographics
+Visual atmosphere should resemble:
 
-The figure is the primary communication object.
-
----
-
-## Principle 2 — Scientific Restraint
+- Nature conference slides
+- Apple ML research talks
+- Stanford scientific presentations
+- high-level academic keynote talks
 
 Avoid:
-- excessive gradients
-- oversaturated colors
-- thick shadows
-- glossy elements
-- presentation-template effects
-- decorative icon overload
 
-Prefer:
-- flat scientific graphics
-- restrained contrast
-- clean geometry
-- whitespace
-- thin separators
-- annotation-driven explanation
+- corporate infographic aesthetics
+- startup presentation styles
+- marketing visual language
+- AI-generated decoration feeling
 
 ---
 
-## Principle 3 — Mechanism Hierarchy
+# Anti-AI-Slop Rules
 
-Mechanism figures should:
-- reveal causal structure
-- separate layers clearly
-- guide interpretation progressively
-- minimize visual confusion
+Strictly avoid:
 
-Prefer:
-- layered logic
-- progressive flow
-- grouped subsystems
-- controlled annotation density
+- glowing AI gradients
+- futuristic neon effects
+- generic SaaS cards
+- decorative technology backgrounds
+- excessive glassmorphism
+- startup pitch aesthetics
+- visual gimmicks
 
----
+Avoid default:
 
-## Principle 4 — Cognitive Minimalism
+- purple AI palettes
+- generic infographic systems
+- crowded scientific layouts
+- decorative scientific rendering
 
-Every element must:
-- communicate meaning
-- support interpretation
-- improve understanding
+Scientific slides should feel:
 
-Remove:
-- decorative shapes
-- meaningless icons
-- redundant labels
-- repetitive text
-
-Reduction is preferred over addition.
+human-designed,
+scientifically intentional,
+and editorially restrained.
 
 ---
 
-# SCI Layout System
+# Scientific Layout Philosophy
 
-## Preferred Canvas
+Scientific slides should prioritize:
 
-- 16:9 widescreen
-- large whitespace margins
-- centered scientific composition
+1. mechanism interpretation
+2. evidence hierarchy
+3. figure readability
+4. scientific narrative clarity
 
-Safe margins:
-- top: 5%
-- bottom: 5%
-- left: 6%
-- right: 6%
+Preferred layouts:
 
----
-
-# Preferred Slide Structure
-
-## Scientific Mechanism Slide
-
-Hierarchy:
-
-Title
-↓
-Mechanism Figure
-↓
-Scientific Interpretation
-↓
-Key Takeaway
+- figure-centered layouts
+- mechanism-dominant composition
+- evidence-supported structure
+- directional scientific flow
+- comparison-based interpretation
 
 Avoid:
-- excessive bullet lists
-- dense sidebars
-- business-dashboard layouts
+
+- fragmented visual composition
+- dense statistical stacking
+- excessive panel overload
+- equal-weight element distribution
 
 ---
 
-## Scientific Workflow Slide
+# Mechanism-Centered Hierarchy
 
-Hierarchy:
+Mechanism figures are the narrative core.
 
-Research Problem
+Figures should:
+
+- dominate visual attention
+- anchor slide interpretation
+- guide scientific reading flow
+
+Text should support:
+the mechanism,
+not compete with it.
+
+Preferred structure:
+
+Mechanism
 ↓
-Method Workflow
-↓
-Data / Mechanism Path
-↓
-Output / Interpretation
-
-Workflow should feel:
-- linear
-- directional
-- logically progressive
-
----
-
-## Result Interpretation Slide
-
-Hierarchy:
-
-Core Result Figure
-↓
-Key Scientific Observation
+Evidence
 ↓
 Interpretation
 ↓
-Scientific Meaning
+Conclusion
 
 Avoid:
-- too many charts on one slide
-- statistical overload
-- unreadable figure panels
+
+- text-first scientific slides
+- excessive bullet lists
+- publication screenshot dumping
 
 ---
 
-# Typography System
+# Scientific Typography System
 
-## Font Philosophy
+## Typography Philosophy
 
 Typography should feel:
-- scientific
+
 - restrained
-- publication-oriented
-
-Prefer:
-- sans-serif scientific fonts
-- clean weight hierarchy
-- limited font variation
-
-Recommended:
-- Arial
-- Helvetica
-- Aptos
-- Source Sans
-- IBM Plex Sans
+- editorial
+- scientifically mature
+- highly readable
 
 Avoid:
+
 - decorative fonts
-- excessive bold usage
-- presentation-style typography
+- aggressive modern typography
+- condensed scientific text
+- visually noisy title systems
 
 ---
 
-# Typography Hierarchy
-
-## Title
+## Title System
 
 Characteristics:
+
 - concise
 - mechanism-focused
-- scientific statement style
+- academically stable
+- visually calm
 
-Style:
-- medium-bold
-- large
-- restrained
+Titles should communicate:
+
+scientific interpretation,
+not generic section names.
+
+Preferred:
+
+specific mechanism-oriented titles.
 
 Avoid:
-- slogan-style titles
-- emotional phrasing
+
+- vague academic headers
+- oversized presentation titles
+- decorative title bars
 
 ---
 
-## Subtitle
+## Body Text System
 
-Characteristics:
-- explanatory
-- compact
-- interpretation-oriented
+Body text should remain:
 
-Avoid:
-- long paragraph subtitles
+- concise
+- interpretive
+- evidence-linked
+- visually secondary
+
+Rule:
+
+Scientific slides are not papers.
+
+Text should explain:
+the scientific meaning,
+not reproduce manuscript paragraphs.
 
 ---
 
-## Annotation
+## Annotation System
 
-Characteristics:
-- minimal
-- figure-supportive
-- non-paragraph style
+Annotations are critical.
 
 Annotations should:
-- support mechanism understanding
-- not compete visually
+
+- guide interpretation
+- clarify mechanisms
+- highlight evidence relationships
+- remain visually restrained
+
+Preferred:
+
+- directional labels
+- short interpretive notes
+- mechanism callouts
+
+Avoid:
+
+- annotation overload
+- publication-style dense labels
+- unreadable statistical clutter
 
 ---
 
-# Scientific Color System
+# Whitespace System
 
-## Global Philosophy
+Scientific slides require:
+editorial whitespace.
+
+Whitespace communicates:
+
+- confidence
+- professionalism
+- cognitive clarity
+
+Preferred feeling:
+
+- spacious
+- controlled
+- calm
+- breathable
+
+Avoid:
+
+- compressed scientific layouts
+- figure overcrowding
+- edge-to-edge content stacking
+
+Rule:
+
+Do not fill space simply because space exists.
+
+---
+
+# Color System
+
+## Core Philosophy
 
 Colors communicate:
-- scientific meaning
-- system hierarchy
-- mechanism state
+scientific meaning and hierarchy.
 
-NOT decoration.
+Colors should remain:
 
----
-
-# Primary SCI Palette
-
-## Scientific Blue
-
-Meaning:
-- scientific systems
-- modeling
-- regulation
-- remote sensing
-- engineering
-
-Style:
-- muted
 - restrained
-- medium saturation
+- semantically consistent
+- scientifically interpretable
+
+Avoid:
+
+- decorative rainbow palettes
+- excessive gradients
+- high-saturation scientific visuals
+
+Preferred:
+
+limited,
+controlled palettes.
 
 ---
 
-## Ecological Green
+## Semantic Color Usage
+
+### Blue
 
 Meaning:
+
+- technology
+- modeling
+- GIS
+- remote sensing
+- scientific systems
+
+Use for:
+
+- process flow
+- simulation systems
+- scientific directionality
+
+---
+
+### Green
+
+Meaning:
+
 - agriculture
-- rhizosphere
 - ecology
-- biology
+- vegetation
+- biological systems
+
+Use for:
+
 - crop systems
-
-Style:
-- natural
-- soft
-- non-neon
+- rhizosphere mechanisms
+- ecological interactions
 
 ---
 
-## Neutral Gray
+### Orange / Red
 
 Meaning:
-- soil matrix
-- secondary information
-- restraint
-- professionalism
 
-Used for:
-- supporting structures
-- background layers
-- low-priority elements
-
----
-
-## Scientific Orange
-
-Meaning:
 - stress
-- nitrogen loss
-- inhibition
+- salinity
 - anomaly
-- warning
+- emphasis
 
-Usage:
-- sparingly
-- only for emphasis
-
-Avoid:
-- orange-dominant slides
+Use sparingly.
 
 ---
 
-# Mechanism Rendering Rules
-
-## Preferred Mechanism Flow
-
-- left → right
-or
-- top → bottom
-
-Mechanisms should:
-- feel progressive
-- reveal causality
-- support interpretation
-
-Avoid:
-- circular chaos
-- crossing arrows
-- disconnected elements
-
----
-
-# Arrow System
-
-Arrows should:
-- indicate direction clearly
-- maintain visual consistency
-- preserve spacing
+## Color Usage Rules
 
 Preferred:
-- thin scientific arrows
-- moderate curvature
-- restrained thickness
+
+2–4 dominant colors maximum.
 
 Avoid:
-- decorative arrows
-- exaggerated arrowheads
-- infographic-style connectors
+
+- decorative color diversity
+- inconsistent palettes
+- visual color competition
 
 ---
 
-# Scientific Node System
+# Figure Philosophy
 
-Nodes should:
-- group related mechanisms
-- preserve hierarchy
-- separate layers clearly
+Figures are the primary communication medium.
 
-Preferred:
-- rounded scientific boxes
-- restrained borders
-- low visual noise
+Preferred figures:
+
+- mechanism diagrams
+- simplified scientific frameworks
+- annotated conceptual models
+- comparison figures
+- directional scientific flow
+- evidence-linked visualization
 
 Avoid:
-- excessive glowing boxes
-- heavy shadows
-- overly saturated containers
+
+- raw publication screenshots
+- unreadable multi-panel figures
+- dense statistical tables
+- excessive chart quantity
+
+Rule:
+
+Scientific understanding
+is more important
+than information completeness.
 
 ---
 
-# Figure Annotation System
+# Evidence Hierarchy System
 
-Annotations should:
-- guide interpretation
-- support reading flow
-- reduce ambiguity
+Scientific evidence should appear in layers.
 
-Preferred:
-- short labels
-- thin leader lines
-- localized explanation
+Preferred hierarchy:
+
+Core mechanism
+↓
+Supporting evidence
+↓
+Interpretation
+↓
+Implication
 
 Avoid:
-- long paragraphs
-- annotation clutter
+
+- equal-weight evidence dumping
+- disconnected data presentation
+- statistical overload without interpretation
 
 ---
 
-# Scientific Whitespace System
+# Cognitive Density Rules
 
-Whitespace is functional.
+Scientific presentations should support:
 
-Whitespace should:
-- separate mechanism layers
-- reduce overload
-- guide visual attention
-- create scientific calmness
+rapid scientific interpretation.
 
-Avoid:
-- dense clustering
-- edge-overloaded layouts
-- unnecessary fillers
+Audience should quickly identify:
 
----
+- what mechanism matters
+- what evidence supports it
+- what conclusion should be remembered
 
-# Academic Interview Adaptation
+If interpretation feels difficult:
 
-For faculty interviews:
-
-Prefer:
-- restrained professionalism
-- mechanism credibility
-- clean scientific visuals
-- concise interpretation
-
-Avoid:
-- visually aggressive aesthetics
-- startup pitch style
-- flashy scientific rendering
-
-The committee should feel:
-
-"This candidate understands
-scientific communication maturity."
+- simplify figures
+- reduce annotation density
+- separate mechanisms
+- enlarge dominant visuals
 
 ---
 
-# Teaching Adaptation
+# Reading Flow System
 
-When teaching adaptation is required:
+Preferred reading path:
 
-Maintain:
-- scientific professionalism
+Title
+→ mechanism figure
+→ evidence
+→ interpretation
+→ conclusion
 
-But increase:
-- visual simplification
-- annotation clarity
-- mechanism readability
+Eye movement should feel:
+
+guided,
+scientific,
+and cognitively stable.
 
 Avoid:
-- textbook density
-- publication-level complexity
+
+- chaotic scientific composition
+- scattered annotations
+- disconnected evidence blocks
 
 ---
 
-# Rendering Preferences
+# Scientific Presentation Rhythm
 
-Generated PPTs should:
-- remain fully editable
-- preserve vector-like structure
-- separate object layers
-- support future modification
+Scientific presentations should alternate between:
 
-Prefer:
-- editable arrows
-- editable shapes
-- editable annotations
-- grouped mechanism modules
+- mechanism slides
+- evidence slides
+- framework slides
+- interpretation slides
+- transition slides
+- summary slides
 
 Avoid:
-- flattened infographic exports
-- screenshot-style slides
+
+continuous high-density evidence stacking.
+
+Scientific rhythm should preserve:
+
+cognitive breathing space.
 
 ---
 
-# SCI Slide Quality Validation
+# Scientific Visual Tone
 
-Before finalizing, verify:
+Slides should feel:
 
-- Is the mechanism immediately readable?
-- Is scientific hierarchy obvious?
-- Is the visual style restrained?
-- Is the slide cognitively calm?
-- Is interpretation prioritized over decoration?
-- Does the slide resemble a scientific figure system?
+- high-level academic
+- editorial
+- mechanism-driven
+- intellectually calm
+- visually mature
+
+NOT:
+
+- corporate
+- startup-like
+- decorative
+- AI-generated
+- infographic-heavy
+
+---
+
+# Rendering Rules
+
+Slides must remain:
+
+- editable
+- scientifically organized
+- visually stable
+- revision-friendly
+
+Figures should remain:
+
+- grouped logically
+- annotation-safe
+- structurally clean
+
+Avoid:
+
+- flattened figure exports
+- screenshot-heavy slides
+- broken grouping systems
+
+---
+
+# Final Validation
+
+Before finalizing:
+
+Check:
+
+- Is the mechanism immediately visible?
+- Is evidence hierarchy clear?
+- Does the slide feel scientifically calm?
+- Is figure readability strong?
+- Is interpretation easier than reading the paper?
+- Does the slide resemble high-level academic communication?
 
 If NO:
-- simplify
-- reduce density
-- increase whitespace
-- strengthen hierarchy
+
+simplify and rebalance.
 
 ---
 
 # Final Philosophy
 
-SCI-style presentation design is NOT:
+Scientific presentation design is NOT:
 visual decoration.
 
 It IS:
-scientific cognition rendering.
 
-A strong scientific slide should feel like:
-- a publishable figure
-- an interpretable mechanism system
-- a trustworthy scientific communication object.
+mechanism-centered cognitive communication.
