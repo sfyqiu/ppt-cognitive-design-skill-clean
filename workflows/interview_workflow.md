@@ -1,5 +1,47 @@
 # Faculty Interview Workflow
 
+## Runtime Identity
+
+This workflow is NOT:
+
+- an interview slide generation pipeline
+- an academic self-promotion engine
+- a faculty template workflow
+- a decorative professionalism system
+- a consulting-style presentation pipeline
+
+This workflow IS:
+
+a strategic academic cognition runtime
+for orchestrating
+institutionally credible communication systems.
+
+The objective is NOT:
+
+aggressive academic persuasion.
+
+The objective IS:
+
+building professional trust,
+institutional credibility,
+future potential perception,
+and communication stability
+through runtime cognition orchestration.
+
+Faculty interview presentations should help committees feel:
+
+- this candidate can teach
+- this candidate can communicate
+- this candidate has research potential
+- this candidate fits the institution
+- this candidate has long-term academic value
+
+Interview workflow orchestration should behave as:
+
+strategic academic communication engineering.
+
+---
+
 ## Purpose
 
 This workflow defines how
@@ -63,10 +105,98 @@ before admiration.
 
 ---
 
+# Runtime Workflow Philosophy
+
+Traditional interview workflows behave as:
+
+```text
+achievements
+↓
+slides
+↓
+presentation
+```
+
+This runtime behaves as:
+
+```text
+institution analysis
+↓
+audience cognition modeling
+↓
+academic positioning
+↓
+professional hierarchy orchestration
+↓
+communication stabilization
+↓
+validation
+↓
+refinement
+↓
+institutional trust formation
+```
+
+The workflow continuously regulates:
+
+- professional tone
+- institutional readability
+- hierarchy continuity
+- audience adaptation
+- strategic calmness
+- teaching accessibility
+- refinement continuity
+- communication stability
+
+Faculty interview orchestration is:
+
+strategic cognition engineering,
+NOT academic self-promotion.
+
+---
+
+# Runtime Stack Coordination
+
+This workflow MUST coordinate:
+
+```text
+workflow/
+↓
+execution/
+↓
+schema/
+↓
+contracts/
+↓
+bridge/
+↓
+evaluation/
+↓
+runtime validators/
+↓
+showcase/
+```
+
+The workflow MUST preserve:
+
+- workflow continuity
+- institutional readability
+- semantic consistency
+- audience alignment
+- strategic positioning continuity
+- refinement stability
+
+This workflow functions as:
+
+a cognition runtime orchestrator.
+
+---
+
 # Global Workflow Structure
 
 The workflow must execute:
 
+```text
 Institution Analysis
 ↓
 Audience Modeling
@@ -95,7 +225,12 @@ Evaluation
 ↓
 Revision Loop
 ↓
+Runtime Validation
+↓
+Self-Correction
+↓
 Final Stabilization
+```
 
 Generation must NEVER begin
 before orchestration planning completes.
@@ -395,6 +530,7 @@ NOT template copying.
 
 Preferred faculty narrative:
 
+```text
 Academic Background
 ↓
 Research Positioning
@@ -408,6 +544,7 @@ Future Research Direction
 Institutional Fit
 ↓
 Closing Academic Vision
+```
 
 Narrative should feel:
 
@@ -498,6 +635,7 @@ this candidate can teach clearly.
 
 Each slide should establish:
 
+```text
 Strategic Message
 ↓
 Dominant Framework
@@ -507,6 +645,7 @@ Supporting Evidence
 Future Direction
 ↓
 Professional Takeaway
+```
 
 One slide should communicate:
 
@@ -655,26 +794,71 @@ when communication failures appear.
 
 ---
 
-# Stage 16 — Evaluation Activation
+# Stage 16 — Runtime Validator Activation
 
 Before finalization,
-the workflow must activate:
+the workflow MUST activate:
 
-## evaluation/README.md
+## evaluation/runtime/cognition_validator.md
 
-to validate:
+for:
 
-- academic positioning clarity
-- professionalism
-- teaching accessibility
-- hierarchy stability
-- institutional readability
-- cognitive density
-- communication effectiveness
+- cognition integrity validation
+- institutional communication continuity checking
+- audience alignment verification
 
-If evaluation fails:
+---
 
-revision becomes mandatory.
+## evaluation/runtime/hierarchy_validator.md
+
+for:
+
+- hierarchy stabilization
+- professional focal validation
+- reading flow verification
+
+---
+
+## evaluation/runtime/semantic_validator.md
+
+for:
+
+- semantic consistency validation
+- professional meaning stabilization
+
+---
+
+## evaluation/runtime/workflow_validator.md
+
+for:
+
+- workflow continuity validation
+- orchestration stability checking
+
+---
+
+## evaluation/runtime/refinement_validator.md
+
+for:
+
+- localized correction validation
+- redesign prevention
+- refinement continuity verification
+
+---
+
+## evaluation/runtime/anti_ai_slop_validator.md
+
+for:
+
+- startup presentation detection
+- infographic-heavy interview detection
+- dashboard academic layout prevention
+- decorative AI professionalism prevention
+
+If validation fails:
+
+refinement continues.
 
 ---
 
@@ -703,6 +887,63 @@ Avoid:
 adding more professional complexity.
 
 Reduction is preferred.
+
+---
+
+# Runtime Self-Correction
+
+The workflow MUST behave as:
+
+```text
+detect
+↓
+diagnose
+↓
+localize
+↓
+refine
+↓
+revalidate
+↓
+stabilize
+```
+
+The workflow MUST continuously detect:
+
+- hierarchy instability
+- semantic drift
+- workflow fragmentation
+- institutional readability collapse
+- strategic positioning instability
+- presentation identity instability
+
+The workflow MUST avoid:
+
+- uncontrolled redesign
+- aggressive professional escalation
+- stateless refinement
+- random regeneration behavior
+
+---
+
+# Persistent Workflow Continuity
+
+The workflow MUST preserve:
+
+- workflow continuity
+- presentation identity
+- semantic systems
+- audience alignment
+- institutional communication strategy
+- refinement history
+
+The workflow MUST behave as:
+
+a persistent cognition collaborator.
+
+Interview revision MUST NOT behave as:
+
+stateless redesign generation.
 
 ---
 
@@ -763,6 +1004,9 @@ Check:
 - Does the presentation avoid achievement dumping?
 - Does communication feel institutionally credible?
 - Does the workflow avoid AI faculty clichés?
+- Is workflow continuity preserved?
+- Is semantic consistency stable?
+- Is refinement integrity preserved?
 
 If NO:
 
@@ -777,7 +1021,7 @@ academic self-presentation pipelines.
 
 They ARE:
 
-strategic academic cognition orchestration systems
+self-correcting strategic cognition runtimes
 for building
 trust,
 clarity,
