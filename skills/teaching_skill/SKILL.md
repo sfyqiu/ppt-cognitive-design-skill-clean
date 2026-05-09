@@ -1,30 +1,32 @@
-# Teaching Skill System
+# Teaching Cognition Runtime Skill
 
-## Purpose
+## Runtime Identity
 
-This skill system controls how
-the AI presentation cognition framework
-should generate,
-structure,
-revise,
-and optimize
-teaching-oriented presentations.
+This skill is NOT:
+
+- a teaching slide generator
+- a classroom template engine
+- an educational beautification system
+- a generic lecture workflow
+- an infographic teaching pipeline
+
+This skill IS:
+
+an AI-native cognition runtime
+for orchestrating
+teaching-oriented communication systems.
 
 The objective is NOT:
+
 maximum information quantity.
 
 The objective IS:
+
 cognitively accessible teaching communication
-with intuitive visual explanation.
-
-This skill must integrate:
-
-- workflow cognition
-- teaching psychology
-- cognitive load control
-- visual teaching grammar
-- progressive explanation systems
-- educational readability
+with intuitive explanation,
+stable hierarchy,
+controlled cognitive load,
+and runtime self-correction.
 
 Teaching presentation generation should behave as:
 
@@ -32,9 +34,271 @@ cognitive learning engineering.
 
 ---
 
+# Runtime Philosophy
+
+Traditional educational AI systems optimize:
+
+- information accumulation
+- textbook compression
+- decorative educational visuals
+- infographic-heavy explanation
+
+This runtime optimizes:
+
+- intuitive understanding
+- concept accessibility
+- progressive cognition
+- visual teaching guidance
+- educational readability
+- learning comfort
+- hierarchy stability
+- refinement continuity
+
+Teaching presentations should feel:
+
+- educationally calm
+- cognitively guided
+- visually approachable
+- progressively understandable
+- editorially restrained
+- human-designed
+
+---
+
+# Mandatory Runtime Initialization
+
+Before generation,
+the runtime MUST:
+
+- interpret communication intent
+- dispatch cognition workflows
+- initialize audience models
+- establish presentation identity
+- initialize cognition planning
+- initialize hierarchy strategy
+- initialize semantic systems
+- activate runtime validators
+
+Generation MUST NOT begin immediately.
+
+The runtime MUST first establish:
+
+```text
+educational cognition state
+```
+
+---
+
+# Runtime Stack Coordination
+
+This skill MUST coordinate:
+
+```text
+workflow/
+↓
+execution/
+↓
+schema/
+↓
+contracts/
+↓
+bridge/
+↓
+evaluation/
+↓
+runtime validators/
+↓
+showcase/
+```
+
+The runtime MUST preserve:
+
+- workflow continuity
+- semantic stability
+- hierarchy integrity
+- educational readability
+- audience accessibility
+- refinement continuity
+
+This skill functions as:
+
+a runtime bootstrap layer.
+
+---
+
+# Workflow Runtime Integration
+
+This skill MUST automatically activate:
+
+## workflow/revision_workflow.md
+
+for:
+
+- teaching simplification
+- cognitive load reduction
+- hierarchy clarification
+- readability optimization
+- cognition correction
+
+---
+
+## workflow/teaching_workflow.md
+
+for:
+
+- audience modeling
+- progressive explanation planning
+- educational pacing
+- cognitive objective extraction
+- teaching orchestration
+
+Teaching generation MUST NEVER bypass:
+
+cognitive teaching planning.
+
+---
+
+# Runtime Validator Integration
+
+This skill MUST continuously activate:
+
+## evaluation/runtime/cognition_validator.md
+
+for:
+
+- cognition integrity validation
+- audience alignment detection
+- communication accessibility checking
+
+---
+
+## evaluation/runtime/hierarchy_validator.md
+
+for:
+
+- focal hierarchy validation
+- reading flow stabilization
+- educational attention orchestration
+
+---
+
+## evaluation/runtime/semantic_validator.md
+
+for:
+
+- semantic consistency validation
+- educational meaning stabilization
+- visual interpretation consistency
+
+---
+
+## evaluation/runtime/workflow_validator.md
+
+for:
+
+- workflow continuity validation
+- cognition mode stabilization
+- runtime identity preservation
+
+---
+
+## evaluation/runtime/refinement_validator.md
+
+for:
+
+- localized refinement validation
+- redesign prevention
+- refinement continuity preservation
+
+---
+
+## evaluation/runtime/anti_ai_slop_validator.md
+
+for:
+
+- infographic-heavy layout detection
+- startup education aesthetic prevention
+- dashboard-style teaching prevention
+- decorative AI-slop prevention
+
+Teaching runtime generation MUST remain:
+
+educational,
+restrained,
+and cognition-aware.
+
+---
+
+# Runtime Self-Correction
+
+The runtime MUST behave as:
+
+```text
+generate
+↓
+evaluate
+↓
+detect cognition failure
+↓
+localized refinement
+↓
+revalidation
+↓
+stabilized communication output
+```
+
+The runtime MUST continuously detect:
+
+- hierarchy collapse
+- semantic drift
+- workflow instability
+- educational overload
+- cognitive pressure escalation
+- infographic fragmentation
+- decorative educational noise
+
+The runtime MUST avoid:
+
+- uncontrolled redesign
+- visual overproduction
+- workflow fragmentation
+- stateless generation behavior
+
+Teaching communication should remain:
+
+stable,
+accessible,
+and progressively understandable.
+
+---
+
+# Persistent Collaboration
+
+The runtime MUST preserve:
+
+- workflow continuity
+- presentation identity
+- semantic systems
+- audience alignment
+- refinement history
+- hierarchy behavior
+- educational pacing strategy
+
+The runtime MUST behave as:
+
+a persistent cognition collaborator.
+
+The runtime MUST NOT behave as:
+
+```text
+stateless slide generation
+```
+
+---
+
 # Global Skill Identity
 
-This skill governs:
+This runtime governs:
 
 - undergraduate teaching
 - classroom lectures
@@ -45,7 +309,7 @@ This skill governs:
 - scientific teaching presentations
 - teaching-oriented academic communication
 
-The system should prioritize:
+The runtime should prioritize:
 
 - intuitive understanding
 - progressive explanation
@@ -61,47 +325,7 @@ NOT:
 - decorative educational aesthetics
 - visually dense academic layouts
 - AI-generated infographic teaching
-
----
-
-# Workflow Integration
-
-This skill must automatically activate:
-
-## workflow/revision_workflow.md
-
-for:
-
-- teaching simplification
-- cognitive load reduction
-- hierarchy clarification
-- readability optimization
-
----
-
-## workflow/teaching_workflow.md
-
-for:
-
-- audience modeling
-- progressive explanation planning
-- educational pacing
-- cognitive objective extraction
-
----
-
-## evaluation/README.md
-
-for:
-
-- cognitive accessibility validation
-- overload detection
-- teaching readability evaluation
-- hierarchy checking
-
-Teaching generation must NEVER bypass:
-
-cognitive teaching planning.
+- dashboard-style educational layouts
 
 ---
 
@@ -118,6 +342,7 @@ Controls:
 - progressive explanation rhythm
 - visual teaching guidance
 - low cognitive pressure
+- hierarchy accessibility
 
 ---
 
@@ -162,7 +387,7 @@ to strengthen:
 
 # Reference Routing Integration
 
-This skill must automatically apply:
+This skill MUST automatically apply:
 
 ## references/hierarchy_patterns.md
 
@@ -204,7 +429,7 @@ when scientific mechanisms appear.
 
 when advanced scientific explanation appears.
 
-Teaching generation should follow:
+Teaching generation MUST follow:
 
 visual cognition protocols,
 NOT arbitrary educational aesthetics.
@@ -220,21 +445,22 @@ Default audiences include:
 - mixed teaching audiences
 - non-expert scientific audiences
 
-The system must evaluate:
+The runtime MUST evaluate:
 
 - expertise level
 - terminology familiarity
 - attention span
 - cognitive tolerance
 - scientific background
+- acceptable cognitive density
 
-Teaching complexity should adapt dynamically.
+Teaching complexity MUST adapt dynamically.
 
 ---
 
 # Cognitive Objective Strategy
 
-Each teaching slide must establish:
+Each teaching slide MUST establish:
 
 - one dominant concept
 - one learning objective
@@ -252,6 +478,7 @@ Avoid:
 - excessive detail accumulation
 - fragmented educational structure
 - equal-weight information competition
+- visually intimidating explanation
 
 Teaching communication should feel:
 
@@ -264,6 +491,7 @@ and progressively understandable.
 
 Preferred teaching narrative:
 
+```text
 Problem
 ↓
 Principle
@@ -275,6 +503,7 @@ Example
 Interpretation
 ↓
 Summary
+```
 
 Narratives should feel:
 
@@ -310,6 +539,7 @@ Teaching slides should prioritize:
 
 Preferred explanation order:
 
+```text
 Introduce
 ↓
 Visualize
@@ -319,6 +549,7 @@ Explain
 Apply
 ↓
 Summarize
+```
 
 Avoid:
 
@@ -334,15 +565,17 @@ through visual understanding.
 
 # Teaching Hierarchy Strategy
 
-Slides must establish:
+Slides MUST establish:
 
+```text
 Concept
 ↓
-Visual explanation
+Visual Explanation
 ↓
-Supporting example
+Supporting Example
 ↓
-Key takeaway
+Key Takeaway
+```
 
 Hierarchy should prioritize:
 
@@ -356,6 +589,7 @@ Avoid:
 - equal-weight layouts
 - dense academic hierarchy
 - crowded teaching composition
+- infographic fragmentation
 
 Teaching hierarchy should guide:
 
@@ -391,6 +625,7 @@ Avoid:
 - decorative educational effects
 - dense scientific panels
 - visually noisy classroom slides
+- dashboard behavior
 
 Teaching visuals should feel:
 
@@ -598,6 +833,8 @@ prioritize:
 5. hierarchy stabilization
 6. cognitive pressure reduction
 7. educational pacing improvement
+8. semantic consistency
+9. workflow continuity
 
 Avoid:
 
@@ -605,6 +842,7 @@ Avoid:
 - decorative redesign
 - excessive scientific detail
 - information accumulation
+- workflow instability
 
 Revision should improve:
 
@@ -684,6 +922,9 @@ Strictly avoid:
 - SaaS infographic systems
 - decorative 3D educational effects
 - corporate training slide aesthetics
+- dashboard-style educational layouts
+- aggressive visual persuasion
+- template repetition
 
 Teaching presentations should feel:
 
@@ -695,13 +936,14 @@ and cognitively intentional.
 
 # Rendering Strategy
 
-Slides must remain:
+Slides MUST remain:
 
 - editable
 - structurally stable
 - hierarchy-safe
 - teaching-friendly
 - revision-friendly
+- renderer-consistent
 
 Layouts and diagrams should remain:
 
@@ -717,11 +959,11 @@ Avoid:
 
 Rendering should support:
 
-future teaching revision.
+future teaching refinement.
 
 ---
 
-# Final Validation
+# Final Runtime Validation
 
 Before finalizing:
 
@@ -735,20 +977,26 @@ Check:
 - Is teaching rhythm smooth?
 - Does the slide feel approachable?
 - Does the presentation avoid AI teaching clichés?
+- Is workflow continuity preserved?
+- Is semantic consistency stable?
+- Is refinement integrity preserved?
 
 If NO:
 
 simplify,
 reduce,
-and rebalance.
+rebalance,
+and stabilize cognition.
 
 ---
 
-# Skill Philosophy
+# Runtime Philosophy
 
 Teaching presentation generation is NOT:
+
 educational decoration.
 
 It IS:
 
-cognitive learning communication engineering.
+a self-correcting cognition runtime
+for cognitive learning communication engineering.
