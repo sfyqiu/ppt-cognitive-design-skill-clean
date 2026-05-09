@@ -1,5 +1,50 @@
 # Presentation Evaluation System
 
+## Runtime Identity
+
+This system is NOT:
+
+- a presentation scoring framework
+- a visual rating engine
+- a slide grading pipeline
+- a decorative evaluation system
+- a template quality checker
+
+This system IS:
+
+a cognition evaluation runtime
+for orchestrating
+communication validation,
+refinement stabilization,
+and runtime self-correction.
+
+The objective is NOT:
+
+visual preference evaluation.
+
+The objective IS:
+
+communication effectiveness validation,
+hierarchy stabilization,
+semantic continuity,
+workflow consistency,
+and cognitive quality regulation.
+
+Presentation evaluation should improve:
+
+- understanding speed
+- hierarchy clarity
+- audience adaptation
+- mechanism interpretability
+- strategic communication stability
+- revision continuity
+
+Evaluation should behave as:
+
+cognitive communication assessment.
+
+---
+
 ## Purpose
 
 This system defines how
@@ -40,22 +85,110 @@ The system should evaluate:
 
 ---
 
-# Global Evaluation Philosophy
+# Core Evaluation Philosophy
 
-A strong presentation should:
+Presentation evaluation is NOT:
 
-- communicate clearly
-- reduce cognitive friction
-- guide interpretation naturally
-- maintain visual coherence
-- support audience understanding
-- remain stable during revision
+beauty scoring.
 
-Evaluation should measure:
+It IS:
 
-communication effectiveness,
+communication cognition assessment.
 
-NOT decoration richness.
+The runtime must evaluate:
+
+- how rapidly audiences understand
+- how naturally information flows
+- how stable hierarchy remains
+- how interpretable mechanisms become
+- how revision preserves continuity
+
+Evaluation should prioritize:
+
+understanding quality
+over visual complexity.
+
+---
+
+# Runtime Workflow Philosophy
+
+Traditional evaluation systems behave as:
+
+```text
+generate
+↓
+score
+↓
+output
+```
+
+This runtime behaves as:
+
+```text
+generate
+↓
+evaluate
+↓
+detect cognition instability
+↓
+diagnose communication failure
+↓
+localize refinement
+↓
+revalidate
+↓
+stabilize
+```
+
+The evaluation runtime continuously regulates:
+
+- cognition continuity
+- hierarchy stability
+- semantic consistency
+- workflow continuity
+- audience adaptation
+- refinement integrity
+- communication stability
+
+Evaluation is:
+
+runtime cognition stabilization,
+NOT aesthetic judgment.
+
+---
+
+# Runtime Stack Coordination
+
+This evaluation runtime MUST coordinate:
+
+```text
+workflow/
+↓
+execution/
+↓
+schema/
+↓
+contracts/
+↓
+bridge/
+↓
+evaluation/runtime/
+↓
+showcase/
+```
+
+The runtime MUST preserve:
+
+- cognition continuity
+- hierarchy stability
+- semantic consistency
+- workflow continuity
+- refinement integrity
+- audience alignment
+
+This evaluation system functions as:
+
+a cognition runtime validator layer.
 
 ---
 
@@ -63,22 +196,93 @@ NOT decoration richness.
 
 The presentation system should follow:
 
+```text
 Generate
 ↓
 Evaluate
 ↓
 Identify weaknesses
 ↓
+Diagnose causes
+↓
 Refine
 ↓
 Re-evaluate
 ↓
 Stabilize
+```
 
 The system should support:
 
 iterative improvement
 through cognitive refinement.
+
+Evaluation must NEVER behave as:
+
+one-time scoring.
+
+---
+
+# Runtime Validator Integration
+
+The evaluation runtime MUST activate:
+
+## evaluation/runtime/cognition_validator.md
+
+for:
+
+- cognition integrity validation
+- communication continuity checking
+- audience alignment verification
+
+---
+
+## evaluation/runtime/hierarchy_validator.md
+
+for:
+
+- hierarchy stabilization
+- focal structure validation
+- reading flow verification
+
+---
+
+## evaluation/runtime/semantic_validator.md
+
+for:
+
+- semantic consistency validation
+- visual meaning stabilization
+
+---
+
+## evaluation/runtime/workflow_validator.md
+
+for:
+
+- workflow continuity validation
+- orchestration stability checking
+
+---
+
+## evaluation/runtime/refinement_validator.md
+
+for:
+
+- localized correction validation
+- redesign prevention
+- refinement continuity verification
+
+---
+
+## evaluation/runtime/anti_ai_slop_validator.md
+
+for:
+
+- infographic-heavy layout detection
+- startup aesthetic prevention
+- dashboard-style composition prevention
+- decorative AI-slop prevention
 
 ---
 
@@ -338,6 +542,44 @@ Indicators:
 
 ---
 
+# Runtime Self-Correction
+
+The evaluation runtime MUST behave as:
+
+```text
+evaluate
+↓
+detect
+↓
+diagnose
+↓
+localize
+↓
+refine
+↓
+revalidate
+↓
+stabilize
+```
+
+The runtime MUST continuously detect:
+
+- hierarchy instability
+- semantic drift
+- workflow fragmentation
+- refinement escalation
+- audience mismatch
+- presentation identity collapse
+
+The runtime MUST avoid:
+
+- uncontrolled redesign
+- stateless evaluation behavior
+- decorative escalation
+- random regeneration
+
+---
+
 # Refinement Strategy
 
 If evaluation is weak:
@@ -359,6 +601,27 @@ Reduction is preferred.
 
 ---
 
+# Persistent Evaluation Continuity
+
+The evaluation runtime MUST preserve:
+
+- workflow continuity
+- refinement history
+- semantic systems
+- presentation identity
+- audience alignment
+- communication strategy
+
+The runtime MUST behave as:
+
+a persistent cognition collaborator.
+
+Evaluation MUST NOT behave as:
+
+stateless scoring generation.
+
+---
+
 # Final Validation Questions
 
 Before final output:
@@ -370,6 +633,10 @@ Before final output:
 - Does the presentation feel coherent?
 - Does the slide feel cognitively calm?
 - Is revision consistency preserved?
+- Is workflow continuity preserved?
+- Is semantic consistency stable?
+- Is refinement integrity preserved?
+- Does the presentation avoid AI-generated visual clichés?
 
 If NO:
 
@@ -384,5 +651,5 @@ beauty scoring.
 
 It IS:
 
-cognitive communication assessment
-and iterative presentation stabilization.
+a self-correcting cognition evaluation runtime
+for communication stabilization engineering.
