@@ -1,21 +1,32 @@
 # Presentation Revision Workflow
 
-## Purpose
+## Runtime Identity
 
-This workflow defines how
-the AI presentation cognition system
-should diagnose,
-interpret,
-revise,
-and stabilize
-presentations through iterative cognitive refinement.
+This workflow is NOT:
+
+- a slide editing pipeline
+- a redesign engine
+- a visual correction workflow
+- a template modification system
+- an infographic optimization pipeline
+
+This workflow IS:
+
+a cognition refinement runtime
+for orchestrating
+iterative communication stabilization.
 
 The objective is NOT:
+
 continuous redesign.
 
 The objective IS:
-precise communication improvement
-through controlled cognitive alignment.
+
+localized cognition correction
+with hierarchy preservation,
+semantic continuity,
+workflow stability,
+and runtime self-correction.
 
 Presentation revision should improve:
 
@@ -78,10 +89,53 @@ presentation coherence.
 
 ---
 
+# Runtime Workflow Philosophy
+
+Traditional revision systems behave as:
+
+```text
+feedback
+↓
+redesign
+↓
+replace
+```
+
+This runtime behaves as:
+
+```text
+feedback
+↓
+diagnosis
+↓
+localized refinement
+↓
+validation
+↓
+stabilization
+```
+
+The workflow continuously regulates:
+
+- cognition continuity
+- hierarchy stability
+- semantic consistency
+- workflow preservation
+- audience alignment
+- refinement integrity
+
+Revision is:
+
+cognition stabilization,
+NOT visual regeneration.
+
+---
+
 # Global Workflow Structure
 
 The workflow must execute:
 
+```text
 Revision Intent Recognition
 ↓
 Scope Detection
@@ -100,11 +154,14 @@ Local Refinement
 ↓
 Consistency Preservation
 ↓
-Evaluation
+Runtime Validation
 ↓
 Iterative Refinement Loop
 ↓
+Self-Correction
+↓
 Final Stabilization
+```
 
 Revision must NEVER begin
 before diagnosis completes.
@@ -125,26 +182,60 @@ User feedback may be indirect.
 
 Examples:
 
+```text
 “Too messy”
-→ hierarchy collapse
-→ visual competition
-→ density overload
+```
 
+↓
+
+```text
+hierarchy collapse
+visual competition
+density overload
+```
+
+---
+
+```text
 “Too empty”
-→ weak focal structure
-→ insufficient visual anchor
-→ poor evidence balance
+```
 
+↓
+
+```text
+weak focal structure
+insufficient visual anchor
+poor evidence balance
+```
+
+---
+
+```text
 “Not academic enough”
-→ weak scientific hierarchy
-→ insufficient mechanism grounding
-→ unstable editorial atmosphere
+```
 
+↓
+
+```text
+weak scientific hierarchy
+insufficient mechanism grounding
+unstable editorial atmosphere
+```
+
+---
+
+```text
 “Students cannot understand”
-→ abstraction overload
-→ weak diagrams
-→ excessive terminology
-→ poor teaching pacing
+```
+
+↓
+
+```text
+abstraction overload
+weak diagrams
+excessive terminology
+poor teaching pacing
+```
 
 The workflow must interpret:
 
@@ -476,6 +567,7 @@ stable eye movement rhythm.
 
 Preferred reading flow:
 
+```text
 Title
 ↓
 Dominant Visual
@@ -485,6 +577,7 @@ Directional Interpretation
 Supporting Evidence
 ↓
 Takeaway
+```
 
 Common revision targets:
 
@@ -576,27 +669,70 @@ ONLY when regeneration becomes necessary.
 
 ---
 
-# Stage 13 — Evaluation Activation
+# Stage 13 — Runtime Validator Activation
 
-After revision,
-the workflow must activate:
+After refinement,
+the workflow MUST activate:
 
-## evaluation/README.md
+## evaluation/runtime/cognition_validator.md
 
-to validate:
+for:
 
-- hierarchy stability
-- communication clarity
-- cognitive load
-- reading smoothness
-- professionalism
-- teaching accessibility
-- scientific readability
-- visual calmness
+- cognition integrity validation
+- communication continuity checking
+- audience alignment verification
 
-If evaluation fails:
+---
 
-revision continues.
+## evaluation/runtime/hierarchy_validator.md
+
+for:
+
+- hierarchy stabilization
+- focal structure validation
+- reading flow verification
+
+---
+
+## evaluation/runtime/semantic_validator.md
+
+for:
+
+- semantic consistency validation
+- visual meaning stabilization
+
+---
+
+## evaluation/runtime/workflow_validator.md
+
+for:
+
+- workflow continuity validation
+- refinement stability checking
+
+---
+
+## evaluation/runtime/refinement_validator.md
+
+for:
+
+- localized correction validation
+- redesign prevention
+- refinement continuity verification
+
+---
+
+## evaluation/runtime/anti_ai_slop_validator.md
+
+for:
+
+- AI redesign detection
+- infographic escalation prevention
+- startup aesthetic prevention
+
+If validation fails:
+
+refinement continues.
 
 ---
 
@@ -604,6 +740,7 @@ revision continues.
 
 The workflow must support:
 
+```text
 Generate
 ↓
 Review
@@ -617,6 +754,7 @@ Evaluate
 Refine
 ↓
 Finalize
+```
 
 Revision should continuously align with:
 
@@ -629,6 +767,62 @@ Revision is:
 
 iterative collaboration,
 NOT one-time correction.
+
+---
+
+# Runtime Self-Correction
+
+The workflow MUST behave as:
+
+```text
+detect
+↓
+diagnose
+↓
+localize
+↓
+refine
+↓
+revalidate
+↓
+stabilize
+```
+
+The workflow MUST continuously detect:
+
+- hierarchy instability
+- semantic drift
+- workflow fragmentation
+- refinement escalation
+- presentation identity collapse
+
+The workflow MUST avoid:
+
+- uncontrolled redesign
+- stateless refinement
+- decorative escalation
+- random regeneration behavior
+
+---
+
+# Persistent Refinement Continuity
+
+The workflow MUST preserve:
+
+- refinement history
+- workflow continuity
+- semantic systems
+- presentation identity
+- audience alignment
+- communication strategy
+
+The workflow MUST behave as:
+
+a persistent cognition collaborator.
+
+Revision MUST NOT behave as:
+
+stateless redesign generation.
 
 ---
 
@@ -689,6 +883,9 @@ Check:
 - Is presentation identity preserved?
 - Does revision align with user intention?
 - Does the workflow avoid AI redesign clichés?
+- Is workflow continuity preserved?
+- Is semantic consistency stable?
+- Is refinement integrity preserved?
 
 If NO:
 
@@ -703,5 +900,5 @@ visual modification pipelines.
 
 They ARE:
 
-iterative cognitive alignment systems
-for communication refinement engineering.
+self-correcting cognition refinement runtimes
+for communication stabilization engineering.
