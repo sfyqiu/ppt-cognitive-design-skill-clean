@@ -1,207 +1,672 @@
-# Style Routing System
+# Visual Cognition Routing System
 
 ## Purpose
 
 This document defines how
-the AI presentation system
-should automatically select
-visual styles based on:
+the AI presentation cognition system
+should automatically route
+visual cognition behaviors
+based on:
 
 - scenario
 - audience
 - communication objective
-- cognitive pressure
 - scientific density
-- professionalism requirements
+- cognitive pressure
+- professional expectations
 
 The system should NOT:
 randomly combine styles.
 
-Style selection must:
+Routing must:
 - support cognition
-- support communication goals
+- support communication psychology
 - preserve visual coherence
+- stabilize presentation quality
 
 ---
 
-# Global Routing Philosophy
+# Core Routing Philosophy
 
-Styles are NOT decoration systems.
+Styles are NOT:
+surface decoration systems.
 
-Styles are:
-visual cognition systems.
+Styles ARE:
+visual cognition behavior systems.
 
-Different presentation scenarios
-require different:
+Different presentation scenarios require different:
 
-- visual hierarchy
-- information density
-- scientific restraint
-- explanation clarity
-- professionalism level
+- hierarchy behavior
+- whitespace rhythm
+- mechanism emphasis
+- density control
+- visual aggression level
+- typography tone
+- annotation strategy
 
 The selected style must support:
-the communication psychology
-of the audience.
+
+how the audience
+thinks,
+reads,
+and interprets information.
 
 ---
 
-# Primary Style Categories
+# Shared Global Visual Principles
+
+All styles must inherit:
+
+- editorial restraint
+- anti-AI-slop aesthetics
+- semantic visual language
+- hierarchy clarity
+- cognitive readability
+- presentation calmness
+
+All styles must avoid:
+
+- startup pitch aesthetics
+- generic infographic systems
+- glowing AI gradients
+- excessive glassmorphism
+- SaaS-style card overload
+- decorative visual noise
+- visually aggressive layouts
+
+Presentations should feel:
+
+human-designed,
+cognitively intentional,
+and professionally mature.
+
+---
+
+# Primary Style Families
 
 ## 1. sci_top_journal
 
 Core objective:
+
 scientific credibility
+and
+mechanism-centered communication.
 
 Best for:
-- scientific mechanism slides
-- research presentations
-- conference talks
-- methodology explanation
-- publication-style figures
-- scientific interpretation
 
-Characteristics:
-- restrained
-- figure-centered
-- mechanism-oriented
-- publication aesthetics
+- scientific presentations
+- conference talks
+- mechanism explanation
+- paper-based presentations
+- research communication
+- scientific frameworks
+
+Visual identity:
+
+- Nature-like restraint
+- figure dominance
+- evidence hierarchy
 - scientific calmness
+- editorial scientific spacing
+
+Core behavior:
+
+- mechanism-centered layouts
+- evidence-supported reading flow
+- restrained annotation density
+- scientifically balanced whitespace
 
 Avoid:
-- teaching-heavy layouts
-- decorative infographics
-- excessive annotations
+
+- teaching-heavy simplification
+- decorative infographic rendering
+- startup aesthetics
+- excessive visual effects
 
 ---
 
 ## 2. faculty_interview
 
 Core objective:
-strategic professionalism
+
+strategic academic professionalism.
 
 Best for:
+
 - faculty interviews
 - academic recruitment
-- research defense
-- candidate evaluation
-- academic self-positioning
+- research self-positioning
+- teaching demonstrations
+- future plan communication
 
-Characteristics:
-- professional calmness
-- restrained confidence
+Visual identity:
+
+- calm professionalism
+- restrained academic tone
+- editorial hierarchy
 - institutional trust
-- clean hierarchy
-- strategic communication
+- low visual aggression
+
+Core behavior:
+
+- message-centered hierarchy
+- strategic spacing
+- restrained figure usage
+- professional typography rhythm
 
 Avoid:
+
+- consultant-style aggression
 - startup pitch aesthetics
-- flashy rendering
-- visually aggressive slides
+- excessive KPI dashboards
+- intimidating scientific density
 
 ---
 
 ## 3. teaching_clean
 
 Core objective:
+
 intuitive understanding
+and
+cognitive accessibility.
 
 Best for:
-- undergraduate teaching
-- classroom explanation
-- trial lectures
-- educational demonstrations
-- beginner audiences
 
-Characteristics:
-- high readability
-- progressive explanation
-- visual simplicity
-- cognitive friendliness
-- guided learning
+- undergraduate teaching
+- educational presentations
+- classroom explanation
+- beginner audiences
+- trial lectures
+
+Visual identity:
+
+- educational clarity
+- calm readability
+- progressive cognition
+- diagram-centered teaching
+
+Core behavior:
+
+- simplified visual explanation
+- guided reading flow
+- low cognitive density
+- teaching-friendly spacing
 
 Avoid:
-- publication-level complexity
-- scientific overload
-- dense notation systems
+
+- publication-level scientific density
+- statistical overload
+- crowded layouts
+- excessive annotation systems
 
 ---
 
-# Style Selection Logic
+# Audience Routing Logic
 
-## Rule 1 — Audience First
+## Undergraduate Audience
 
-Determine:
-- expertise level
-- attention span
-- cognitive tolerance
-- evaluation pressure
+Primary routing:
 
-Examples:
+teaching_clean
 
-Undergraduates:
-→ teaching_clean
+Behavior:
 
-Academic committee:
-→ faculty_interview
-
-Scientific experts:
-→ sci_top_journal
+- low density
+- diagram dominance
+- slower pacing
+- simplified explanation
+- stronger visual guidance
 
 ---
 
-## Rule 2 — Communication Objective
+## Scientific Expert Audience
 
-Determine:
-what the presentation must achieve.
+Primary routing:
 
-Examples:
+sci_top_journal
 
-Teach clearly:
-→ teaching_clean
+Behavior:
 
-Prove scientific credibility:
-→ sci_top_journal
-
-Build professional trust:
-→ faculty_interview
+- mechanism emphasis
+- evidence hierarchy
+- higher scientific density
+- restrained scientific interpretation
 
 ---
 
-## Rule 3 — Scientific Density
+## Faculty Committee Audience
 
-Low scientific density:
-→ teaching_clean
+Primary routing:
 
-Moderate scientific density:
-→ faculty_interview
+faculty_interview
 
-High mechanism density:
-→ sci_top_journal
+Behavior:
+
+- strategic communication
+- calm professionalism
+- moderate density
+- institutional readability
+
+---
+
+# Communication Objective Routing
+
+## Teaching Objective
+
+Route toward:
+
+- cognitive clarity
+- explanation smoothness
+- progressive hierarchy
+- educational diagrams
+
+Primary style:
+
+teaching_clean
+
+---
+
+## Scientific Credibility Objective
+
+Route toward:
+
+- mechanism-centered layouts
+- evidence hierarchy
+- figure readability
+- scientific restraint
+
+Primary style:
+
+sci_top_journal
+
+---
+
+## Professional Trust Objective
+
+Route toward:
+
+- calm hierarchy
+- restrained typography
+- strategic pacing
+- institutional tone
+
+Primary style:
+
+faculty_interview
+
+---
+
+# Density Routing
+
+## teaching_clean
+
+Density:
+
+low to moderate.
+
+Behavior:
+
+- large whitespace
+- low annotation density
+- enlarged diagrams
+- simplified structure
+
+---
+
+## faculty_interview
+
+Density:
+
+moderate.
+
+Behavior:
+
+- controlled information rhythm
+- balanced spacing
+- selective evidence display
+
+---
+
+## sci_top_journal
+
+Density:
+
+moderate to high.
+
+Behavior:
+
+- mechanism-supported evidence layering
+- scientific hierarchy
+- restrained complexity
+
+---
+
+# Hierarchy Routing
+
+## teaching_clean
+
+Dominant element:
+
+visual explanation.
+
+Preferred dominance:
+
+diagram
+→ concept
+→ takeaway
+
+---
+
+## faculty_interview
+
+Dominant element:
+
+academic message.
+
+Preferred dominance:
+
+message
+→ framework
+→ supporting evidence
+
+---
+
+## sci_top_journal
+
+Dominant element:
+
+mechanism figure.
+
+Preferred dominance:
+
+mechanism
+→ evidence
+→ interpretation
+
+---
+
+# Whitespace Routing
+
+## teaching_clean
+
+Whitespace behavior:
+
+large breathing space.
+
+Goal:
+
+reduce cognitive pressure.
+
+---
+
+## faculty_interview
+
+Whitespace behavior:
+
+editorial calmness.
+
+Goal:
+
+communicate maturity
+and
+professional confidence.
+
+---
+
+## sci_top_journal
+
+Whitespace behavior:
+
+scientific balance.
+
+Goal:
+
+support mechanism interpretation
+without visual overload.
+
+---
+
+# Annotation Routing
+
+## teaching_clean
+
+Annotations should:
+
+teach clearly.
+
+Behavior:
+
+- simplified
+- guided
+- visually obvious
+
+---
+
+## faculty_interview
+
+Annotations should:
+
+support interpretation subtly.
+
+Behavior:
+
+- restrained
+- minimal
+- strategically selective
+
+---
+
+## sci_top_journal
+
+Annotations should:
+
+clarify mechanisms.
+
+Behavior:
+
+- evidence-linked
+- directional
+- scientifically focused
+
+---
+
+# Typography Routing
+
+## teaching_clean
+
+Typography should maximize:
+
+readability
+and
+teaching accessibility.
+
+Tone:
+
+friendly,
+clean,
+educational.
+
+---
+
+## faculty_interview
+
+Typography should maximize:
+
+professional calmness.
+
+Tone:
+
+editorial,
+restrained,
+academically mature.
+
+---
+
+## sci_top_journal
+
+Typography should maximize:
+
+scientific credibility.
+
+Tone:
+
+precise,
+structured,
+scientifically stable.
+
+---
+
+# Figure Routing
+
+## teaching_clean
+
+Figures should:
+
+simplify understanding.
+
+Preferred figures:
+
+- conceptual diagrams
+- teaching illustrations
+- simplified flow diagrams
+
+---
+
+## faculty_interview
+
+Figures should:
+
+support strategic communication.
+
+Preferred figures:
+
+- research frameworks
+- interdisciplinary structures
+- future research maps
+
+---
+
+## sci_top_journal
+
+Figures should:
+
+anchor scientific interpretation.
+
+Preferred figures:
+
+- mechanism diagrams
+- evidence-linked frameworks
+- scientific process visualization
+
+---
+
+# Visual Aggression Routing
+
+## teaching_clean
+
+Aggression level:
+
+low.
+
+Slides should feel:
+
+approachable
+and
+cognitively light.
+
+---
+
+## faculty_interview
+
+Aggression level:
+
+very low.
+
+Slides should feel:
+
+calm,
+stable,
+and professionally confident.
+
+---
+
+## sci_top_journal
+
+Aggression level:
+
+moderate restraint.
+
+Slides should feel:
+
+scientifically rigorous
+without intimidation.
+
+---
+
+# Presentation Rhythm Routing
+
+## teaching_clean
+
+Rhythm should alternate between:
+
+- explanation
+- example
+- summary
+- cognitive release
+
+---
+
+## faculty_interview
+
+Rhythm should alternate between:
+
+- positioning
+- evidence
+- teaching
+- future planning
+- breathing transitions
+
+---
+
+## sci_top_journal
+
+Rhythm should alternate between:
+
+- mechanism
+- evidence
+- interpretation
+- framework
+- scientific transition
 
 ---
 
 # Multi-Style Orchestration
 
-The system may combine styles.
+Styles may combine.
 
 However:
+
 styles must NOT compete equally.
 
-The system should determine:
+The system must determine:
+
 - primary style
 - secondary style
 
 Primary style controls:
-- visual hierarchy
-- spacing
+
+- layout behavior
+- hierarchy
+- whitespace
 - typography
-- layout structure
+- visual pacing
 
 Secondary style modifies:
-- tone
+
 - annotation density
-- semantic emphasis
+- scientific tone
+- communication pressure
 - professionalism level
 
 ---
@@ -211,17 +676,11 @@ Secondary style modifies:
 ## teaching_clean + sci_top_journal
 
 Use for:
-- scientific teaching
-- mechanism explanation for students
-- advanced classroom lectures
 
-Primary:
-teaching_clean
-
-Secondary:
-sci_top_journal
+scientific teaching.
 
 Result:
+
 scientifically mature
 but cognitively accessible.
 
@@ -230,17 +689,11 @@ but cognitively accessible.
 ## faculty_interview + sci_top_journal
 
 Use for:
-- faculty recruitment
-- academic interviews
-- research-oriented self-presentation
 
-Primary:
-faculty_interview
-
-Secondary:
-sci_top_journal
+research-oriented faculty presentations.
 
 Result:
+
 scientifically credible
 with strategic professionalism.
 
@@ -249,17 +702,12 @@ with strategic professionalism.
 ## teaching_clean + faculty_interview
 
 Use for:
-- teaching demonstrations
-- trial lectures
-- undergraduate teaching interviews
 
-Primary:
-teaching_clean
-
-Secondary:
-faculty_interview
+teaching demonstrations
+during academic interviews.
 
 Result:
+
 clear explanation
 with professional structure.
 
@@ -268,109 +716,21 @@ with professional structure.
 # Conflict Prevention Rules
 
 Avoid:
-- mixing incompatible visual systems
-- competing color philosophies
-- inconsistent typography systems
-- simultaneous high-density layouts
 
-The final presentation should feel:
-coherent.
+- competing hierarchy systems
+- conflicting whitespace logic
+- inconsistent typography tone
+- simultaneous high-density structures
+- mixed visual aggression levels
+
+Presentations should feel:
+
+coherent,
+stable,
+and intentional.
 
 NOT:
 style-fragmented.
-
----
-
-# Visual Density Rules
-
-## teaching_clean
-
-Density:
-low to moderate
-
-Whitespace:
-large
-
-Annotation:
-simplified
-
----
-
-## faculty_interview
-
-Density:
-moderate
-
-Whitespace:
-controlled
-
-Annotation:
-restrained
-
----
-
-## sci_top_journal
-
-Density:
-moderate to high
-
-Whitespace:
-scientifically balanced
-
-Annotation:
-mechanism-focused
-
----
-
-# Semantic Color Routing
-
-## teaching_clean
-
-Prefer:
-- approachable colors
-- softer contrast
-- intuitive grouping
-
----
-
-## faculty_interview
-
-Prefer:
-- blue-gray professionalism
-- restrained contrast
-- calm hierarchy
-
----
-
-## sci_top_journal
-
-Prefer:
-- scientific semantic colors
-- publication-style restraint
-- mechanism-oriented contrast
-
----
-
-# Typography Routing
-
-## teaching_clean
-
-Typography should:
-maximize readability.
-
----
-
-## faculty_interview
-
-Typography should:
-maximize professionalism.
-
----
-
-## sci_top_journal
-
-Typography should:
-maximize scientific credibility.
 
 ---
 
@@ -378,27 +738,33 @@ maximize scientific credibility.
 
 Before finalizing:
 
-verify:
-- style matches audience
-- style matches communication objective
-- style supports cognition
-- style preserves coherence
-- style does not overpower content
+Verify:
+
+- routing matches audience cognition
+- routing matches communication objective
+- density is appropriate
+- hierarchy behavior is stable
+- whitespace supports interpretation
+- visual aggression is controlled
+- style supports communication effectiveness
 
 Question:
 
-Does the selected style
-improve communication effectiveness?
+Does the selected routing
+improve cognitive communication quality?
 
 If NO:
-reroute style selection.
+
+reroute visual cognition behavior.
 
 ---
 
 # Final Philosophy
 
 Styles are NOT:
-surface decoration systems.
+decorative presets.
 
 Styles ARE:
-cognitive communication systems.
+
+visual cognition behavior systems
+for communication engineering.
