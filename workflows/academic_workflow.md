@@ -1,5 +1,39 @@
 # Academic Presentation Workflow
 
+## Runtime Identity
+
+This workflow is NOT:
+
+- a research slide generation pipeline
+- a scientific template workflow
+- a paper compression engine
+- a decorative scientific rendering system
+- an infographic scientific workflow
+
+This workflow IS:
+
+a scientific cognition runtime
+for orchestrating
+mechanism-centered academic communication systems.
+
+The objective is NOT:
+
+maximum scientific density.
+
+The objective IS:
+
+scientific interpretability,
+mechanism readability,
+hierarchy stability,
+audience-aware cognition,
+and runtime self-correction.
+
+Academic workflow orchestration should behave as:
+
+scientific communication engineering.
+
+---
+
 ## Purpose
 
 This workflow defines how
@@ -62,10 +96,97 @@ over information quantity.
 
 ---
 
+# Runtime Workflow Philosophy
+
+Traditional academic workflows behave as:
+
+```text
+content
+↓
+layout
+↓
+slides
+```
+
+This runtime behaves as:
+
+```text
+intent
+↓
+audience modeling
+↓
+mechanism orchestration
+↓
+hierarchy planning
+↓
+scientific cognition regulation
+↓
+validation
+↓
+refinement
+↓
+stabilization
+```
+
+The workflow continuously regulates:
+
+- scientific hierarchy
+- mechanism continuity
+- evidence readability
+- cognitive density
+- audience adaptation
+- refinement integrity
+- communication stability
+
+Academic workflow orchestration is:
+
+scientific cognition engineering,
+NOT scientific slide assembly.
+
+---
+
+# Runtime Stack Coordination
+
+This workflow MUST coordinate:
+
+```text
+workflow/
+↓
+execution/
+↓
+schema/
+↓
+contracts/
+↓
+bridge/
+↓
+evaluation/
+↓
+runtime validators/
+↓
+showcase/
+```
+
+The workflow MUST preserve:
+
+- workflow continuity
+- scientific hierarchy
+- semantic consistency
+- audience alignment
+- mechanism continuity
+- refinement stability
+
+This workflow functions as:
+
+a cognition runtime orchestrator.
+
+---
+
 # Global Workflow Structure
 
 The workflow must execute:
 
+```text
 Scenario Analysis
 ↓
 Audience Modeling
@@ -92,7 +213,12 @@ Evaluation
 ↓
 Revision Loop
 ↓
+Runtime Validation
+↓
+Self-Correction
+↓
 Final Stabilization
+```
 
 Generation must NEVER begin
 before orchestration planning completes.
@@ -368,6 +494,7 @@ scientific inevitability.
 
 Preferred scientific narrative:
 
+```text
 Scientific Problem
 ↓
 Research Limitation
@@ -385,6 +512,7 @@ Interpretation
 Contribution
 ↓
 Application Significance
+```
 
 Narrative should feel:
 
@@ -422,6 +550,7 @@ Preferred mechanism behavior:
 
 Preferred mechanism sequence:
 
+```text
 Environmental Change
 ↓
 Microenvironment Response
@@ -431,6 +560,7 @@ Biological Interaction
 Functional Transformation
 ↓
 Observed Outcome
+```
 
 Avoid:
 
@@ -460,6 +590,7 @@ Preferred evidence behavior:
 
 Preferred sequence:
 
+```text
 Mechanism
 ↓
 Evidence
@@ -467,6 +598,7 @@ Evidence
 Interpretation
 ↓
 Scientific Confidence
+```
 
 Avoid:
 
@@ -484,6 +616,7 @@ scientific trust.
 
 Every slide must establish:
 
+```text
 Dominant Message
 ↓
 Dominant Mechanism
@@ -493,6 +626,7 @@ Supporting Evidence
 Interpretation
 ↓
 Scientific Takeaway
+```
 
 One slide should communicate:
 
@@ -635,26 +769,71 @@ when communication failures appear.
 
 ---
 
-# Stage 16 — Evaluation Activation
+# Stage 16 — Runtime Validator Activation
 
 Before finalization,
-the workflow must activate:
+the workflow MUST activate:
 
-## evaluation/README.md
+## evaluation/runtime/cognition_validator.md
 
-to validate:
+for:
 
-- mechanism clarity
-- scientific readability
-- evidence hierarchy
-- cognitive density
-- visual calmness
-- editorial professionalism
-- communication effectiveness
+- cognition integrity validation
+- scientific communication continuity checking
+- audience alignment verification
 
-If evaluation fails:
+---
 
-revision becomes mandatory.
+## evaluation/runtime/hierarchy_validator.md
+
+for:
+
+- hierarchy stabilization
+- focal mechanism validation
+- scientific reading flow verification
+
+---
+
+## evaluation/runtime/semantic_validator.md
+
+for:
+
+- semantic consistency validation
+- scientific meaning stabilization
+
+---
+
+## evaluation/runtime/workflow_validator.md
+
+for:
+
+- workflow continuity validation
+- scientific orchestration stability checking
+
+---
+
+## evaluation/runtime/refinement_validator.md
+
+for:
+
+- localized correction validation
+- redesign prevention
+- refinement continuity verification
+
+---
+
+## evaluation/runtime/anti_ai_slop_validator.md
+
+for:
+
+- infographic-heavy science detection
+- startup scientific aesthetic prevention
+- dashboard scientific layout prevention
+- decorative AI-science prevention
+
+If validation fails:
+
+refinement continues.
 
 ---
 
@@ -683,6 +862,63 @@ Avoid:
 adding more scientific complexity.
 
 Reduction is preferred.
+
+---
+
+# Runtime Self-Correction
+
+The workflow MUST behave as:
+
+```text
+detect
+↓
+diagnose
+↓
+localize
+↓
+refine
+↓
+revalidate
+↓
+stabilize
+```
+
+The workflow MUST continuously detect:
+
+- hierarchy instability
+- semantic drift
+- workflow fragmentation
+- mechanism collapse
+- evidence overload
+- presentation identity instability
+
+The workflow MUST avoid:
+
+- uncontrolled redesign
+- decorative scientific escalation
+- stateless refinement
+- random regeneration behavior
+
+---
+
+# Persistent Workflow Continuity
+
+The workflow MUST preserve:
+
+- workflow continuity
+- presentation identity
+- semantic systems
+- audience alignment
+- scientific communication strategy
+- refinement history
+
+The workflow MUST behave as:
+
+a persistent cognition collaborator.
+
+Scientific revision MUST NOT behave as:
+
+stateless redesign generation.
 
 ---
 
@@ -743,6 +979,9 @@ Check:
 - Is whitespace sufficient?
 - Does the presentation feel editorially mature?
 - Does the workflow avoid AI scientific clichés?
+- Is workflow continuity preserved?
+- Is semantic consistency stable?
+- Is refinement integrity preserved?
 
 If NO:
 
@@ -757,5 +996,5 @@ presentation generation pipelines.
 
 They ARE:
 
-scientific cognition orchestration systems
+self-correcting scientific cognition runtimes
 for mechanism-centered communication engineering.
