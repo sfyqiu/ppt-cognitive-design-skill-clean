@@ -2,372 +2,454 @@
 
 ## Purpose
 
-This style system defines
-visual expression rules
+This style system defines the visual cognition protocol
 for teaching-oriented presentations.
 
 The objective is NOT:
-- decorative classroom slides
-- textbook-style information stacking
-- business infographic aesthetics
+decorative teaching slides.
 
 The objective IS:
+high-clarity cognitive teaching communication.
+
+This style prioritizes:
+
 - intuitive understanding
-- cognitive friendliness
-- visual teaching clarity
-- progressive explanation
-- audience engagement
+- visual explanation
+- cognitive smoothness
+- progressive teaching rhythm
+- low interpretation pressure
 
 ---
 
-# Global Style Philosophy
+# Core Visual Philosophy
 
-Teaching presentations should feel:
+Teaching slides should feel:
 
-- clear
-- approachable
-- visually intuitive
-- cognitively smooth
-- easy to follow
-
-Students should feel:
-
-"I can understand this quickly."
-
----
-
-# Core Visual Principles
-
-## Principle 1 — Clarity First
-
-Every visual element should:
-- support understanding
-- guide attention
-- reduce confusion
-
-Avoid:
-- decorative complexity
-- visual noise
-- unnecessary detail
-- crowded layouts
-
-Clarity is more important than:
-- visual richness
-- artistic complexity
-- information quantity
-
----
-
-## Principle 2 — Progressive Explanation
-
-Slides should:
-- explain step-by-step
-- guide eye movement naturally
-- reveal logic progressively
-
-Prefer:
-- directional flow
-- simplified mechanisms
-- staged explanation
-- comparison structure
-
-Avoid:
-- disconnected information
-- simultaneous overload
-- chaotic composition
-
----
-
-## Principle 3 — Cognitive Friendliness
-
-Students should:
-- understand within several seconds
-- feel low cognitive pressure
-- follow the explanation naturally
-
-Prefer:
-- large spacing
-- moderate visual density
-- simple hierarchy
-- obvious focal points
-
-Avoid:
-- dense text blocks
-- complex figure stacking
-- excessive annotations
-
----
-
-# Typography System
-
-## Font Philosophy
-
-Typography should feel:
-- readable
-- clean
-- educational
-- approachable
-
-Recommended:
-- Aptos
-- Arial
-- Calibri
-- Source Sans
-
-Avoid:
-- decorative fonts
-- condensed typography
-- visually aggressive fonts
-
----
-
-# Typography Hierarchy
-
-## Title
-
-Characteristics:
-- concise
-- explanatory
-- visually dominant
-
-Prefer:
-- medium-bold
-- large
-- clean spacing
-
-Avoid:
-- long academic titles
-- complex scientific phrasing
-
----
-
-## Subtitle
-
-Characteristics:
-- supportive
-- easy to understand
-- concise
-
-Avoid:
-- paragraph-style subtitles
-
----
-
-## Annotation
-
-Characteristics:
-- minimal
-- visual-supportive
-- explanation-oriented
-
-Annotations should:
-- simplify understanding
-- not overload the slide
-
----
-
-# Color System
-
-## Global Philosophy
-
-Colors should:
-- support understanding
-- improve visual grouping
-- strengthen explanation
-
-NOT decoration.
-
----
-
-# Primary Palette
-
-## Educational Blue
-
-Meaning:
-- process
-- flow
-- scientific explanation
-- logic progression
-
-Style:
-- soft
-- approachable
-- medium saturation
-
----
-
-## Educational Green
-
-Meaning:
-- agriculture
-- ecology
-- biology
-- positive mechanisms
-
-Style:
-- natural
 - calm
-- readable
+- clean
+- intuitive
+- progressive
+- visually guided
+
+The audience should feel:
+
+- easy to follow
+- easy to understand
+- cognitively comfortable
+
+NOT visually overwhelmed.
+
+---
+
+# Teaching Visual Identity
+
+This style follows:
+
+- editorial restraint
+- educational clarity
+- semantic visual guidance
+- diagram-centered explanation
+
+Visual atmosphere should resemble:
+
+- Apple Education
+- modern scientific education
+- high-quality academic teaching
+- clean keynote-style explanation
 
 Avoid:
-- neon colors
-- excessive saturation
+
+- commercial infographic aesthetics
+- startup pitch style
+- AI-generated decoration feeling
+- template-heavy layouts
 
 ---
 
-## Educational Orange
+# Anti-AI-Slop Rules
 
-Meaning:
-- warning
-- stress
-- comparison
-- key emphasis
+Strictly avoid:
 
-Use sparingly.
+- purple AI gradients
+- glowing technology effects
+- generic SaaS cards
+- excessive rounded blocks
+- random infographic layouts
+- visual noise
+- crowded teaching pages
+
+Avoid default:
+- AI presentation aesthetics
+- marketing visual language
+- decorative complexity
+
+Teaching slides should feel:
+human-designed,
+calm,
+and cognitively intentional.
 
 ---
 
-## Neutral Gray
+# Teaching Layout Philosophy
 
-Meaning:
-- supporting information
-- secondary hierarchy
-- visual balance
+Teaching slides should prioritize:
 
-Use to:
-- reduce visual pressure
-- separate layers
+1. concept clarity
+2. visual explanation
+3. reading smoothness
+4. progressive cognition
+
+Preferred layouts:
+
+- large explanatory diagrams
+- single-focus pages
+- process-centered slides
+- progressive comparison layouts
+- visual teaching flow
+
+Avoid:
+
+- dense multi-column layouts
+- excessive text grouping
+- crowded card systems
+- fragmented visual structure
 
 ---
 
-# Layout System
+# Visual Hierarchy System
 
-## Preferred Structure
-
-Hierarchy:
+Slides should establish:
 
 Title
 ↓
 Core visual explanation
 ↓
-Supporting annotation
-↓
 Key takeaway
+↓
+Supporting details
 
-Slides should:
-- guide reading naturally
-- maintain visual stability
-- preserve obvious hierarchy
-
----
-
-# Teaching Diagram Strategy
-
-Teaching diagrams should:
-- simplify abstraction
-- reduce mechanism complexity
-- strengthen explanation clarity
-
-Prefer:
-- large mechanism chains
-- comparison diagrams
-- directional arrows
-- process flow visualization
+One slide should contain:
+one dominant teaching objective.
 
 Avoid:
-- publication-level figure complexity
-- dense scientific notation
-- excessive labels
+multiple competing focal points.
 
 ---
 
-# Reading Flow Strategy
+# Typography System
 
-Preferred reading order:
+## Typography Philosophy
+
+Typography should feel:
+
+- educational
+- readable
+- calm
+- spacious
+
+Avoid:
+
+- aggressive modern fonts
+- condensed typography
+- decorative title fonts
+- overly technical visual tone
+
+---
+
+## Recommended Typography Hierarchy
+
+### Title
+
+Characteristics:
+
+- strong clarity
+- moderate weight
+- high readability
+- visually stable
+
+Position:
+top-left preferred.
+
+Avoid:
+center-heavy academic title bars.
+
+---
+
+### Body Text
+
+Characteristics:
+
+- short sentences
+- low density
+- high spacing
+- teaching-friendly readability
+
+Rule:
+
+Body text should support visuals,
+not dominate slides.
+
+---
+
+### Annotation Text
+
+Characteristics:
+
+- subtle
+- readable
+- lightweight
+- visually secondary
+
+Annotations should explain visuals,
+not create visual clutter.
+
+---
+
+# Whitespace System
+
+Whitespace is mandatory.
+
+Teaching slides should breathe visually.
+
+Preferred feeling:
+
+- open
+- relaxed
+- cognitively light
+
+Avoid:
+
+- compressed layouts
+- full-page content usage
+- excessive element stacking
+
+Rule:
+
+If a slide feels crowded,
+remove elements before resizing them smaller.
+
+---
+
+# Color System
+
+## Core Philosophy
+
+Colors communicate meaning,
+not decoration.
+
+The palette should remain:
+
+- restrained
+- educational
+- semantically meaningful
+
+---
+
+## Preferred Semantic Colors
+
+### Blue
+
+Meaning:
+
+- technology
+- GIS
+- remote sensing
+- scientific explanation
+
+Use for:
+
+- processes
+- technical concepts
+- directional guidance
+
+---
+
+### Green
+
+Meaning:
+
+- agriculture
+- ecology
+- vegetation
+- sustainability
+
+Use for:
+
+- agricultural mechanisms
+- crop systems
+- environmental concepts
+
+---
+
+### Orange
+
+Meaning:
+
+- emphasis
+- warning
+- key teaching focus
+
+Use sparingly.
+
+---
+
+## Color Usage Rules
+
+Avoid:
+
+- rainbow palettes
+- gradient-heavy backgrounds
+- excessive saturation
+- decorative color variation
+
+Preferred:
+
+2–4 primary colors maximum.
+
+---
+
+# Diagram Philosophy
+
+Teaching slides should explain visually.
+
+Preferred visuals:
+
+- process diagrams
+- annotated illustrations
+- simplified mechanisms
+- comparison graphics
+- directional flow diagrams
+
+Avoid:
+
+- publication-level complexity
+- dense statistical figures
+- unreadable scientific charts
+
+Rule:
+
+Understanding speed
+is more important than scientific completeness.
+
+---
+
+# Cognitive Density Rules
+
+Teaching slides must support:
+
+3-second comprehension.
+
+Audience should quickly identify:
+
+- what this slide explains
+- what matters most
+- what they should remember
+
+If understanding is slow:
+
+- simplify layout
+- reduce text
+- enlarge diagrams
+- remove secondary information
+
+---
+
+# Reading Flow System
+
+Preferred reading path:
 
 Title
-→ Core visual
-→ Explanation
-→ Takeaway
+→ visual explanation
+→ key takeaway
+→ supporting details
 
-Audience attention should:
-move naturally.
+Eye movement should feel natural.
 
 Avoid:
-- competing focal points
+
+- scattered elements
 - chaotic layouts
-- fragmented visual flow
+- disconnected visual anchors
 
 ---
 
-# Whitespace Strategy
+# Slide Rhythm System
 
-Whitespace should:
-- reduce overload
-- separate explanation stages
-- create visual comfort
-- improve focus
+Teaching presentations should contain:
+
+- breathing slides
+- concept slides
+- process slides
+- comparison slides
+- summary slides
 
 Avoid:
-- edge-overloaded slides
-- dense information clustering
+high-density slides appearing continuously.
+
+Presentation rhythm should alternate between:
+
+explanation
+and
+cognitive release.
 
 ---
 
-# Teaching Adaptation Rules
+# Teaching Visual Tone
 
-For undergraduate audiences:
+Slides should feel:
 
-Prefer:
-- intuitive explanation
-- simplified mechanisms
-- visual storytelling
-- comparison-based explanation
+- modern
+- educational
+- intelligent
+- visually calm
 
-Reduce:
-- theoretical overload
-- scientific abstraction
-- terminology density
+NOT:
+
+- corporate
+- futuristic
+- decorative
+- AI-generated
 
 ---
 
-# Rendering Preferences
+# Rendering Rules
 
-Generated slides should:
-- remain editable
-- preserve object separation
-- support future modification
+Slides must remain:
 
-Prefer:
-- editable arrows
-- editable diagrams
-- editable annotations
-- modular explanation structures
+- editable
+- structurally clean
+- visually stable
+
+Elements should remain:
+
+- logically grouped
+- hierarchically organized
+- revision-friendly
 
 Avoid:
-- flattened infographic exports
-- screenshot-style rendering
+
+- flattened exports
+- screenshot-style slides
+- decorative rendering artifacts
 
 ---
 
-# Cognitive Validation
+# Final Validation
 
 Before finalizing:
 
-check:
-- readability
-- understanding speed
-- explanation smoothness
-- hierarchy clarity
-- cognitive comfort
+Check:
 
-Question:
-
-Can students understand
-the core idea quickly?
+- Can students understand within seconds?
+- Is the dominant concept obvious?
+- Is visual explanation stronger than text?
+- Does the slide feel calm?
+- Is cognitive load appropriate?
+- Is the layout visually breathable?
 
 If NO:
-simplify and reduce complexity.
+
+simplify again.
 
 ---
 
@@ -377,4 +459,5 @@ Teaching presentation design is NOT:
 visual decoration.
 
 It IS:
-guided cognitive explanation.
+
+cognitive teaching engineering.
