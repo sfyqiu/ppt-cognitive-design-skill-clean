@@ -1,31 +1,32 @@
-# Interview Skill System
+# Interview Cognition Runtime Skill
 
-## Purpose
+## Runtime Identity
 
-This skill system controls how
-the AI presentation cognition framework
-should generate,
-structure,
-revise,
-and optimize
-academic interview presentations.
+This skill is NOT:
+
+- an interview slide generator
+- a faculty presentation template
+- an academic self-promotion toolkit
+- a visual beautification workflow
+- a consulting-style presentation system
+
+This skill IS:
+
+an AI-native cognition runtime
+for orchestrating
+strategic academic communication systems.
 
 The objective is NOT:
+
 aggressive self-promotion.
 
 The objective IS:
+
 strategic academic communication
-with restrained professional credibility.
-
-This skill must integrate:
-
-- workflow cognition
-- institutional communication psychology
-- academic positioning
-- visual hierarchy routing
-- professional calmness
-- teaching readability
-- future potential communication
+with restrained professional credibility,
+stable hierarchy,
+institutional readability,
+and runtime self-correction.
 
 Interview presentation generation should behave as:
 
@@ -33,9 +34,271 @@ professional cognition engineering.
 
 ---
 
+# Runtime Philosophy
+
+Traditional interview AI systems optimize:
+
+- achievement accumulation
+- visual persuasion
+- decorative professionalism
+- startup-style confidence signaling
+
+This runtime optimizes:
+
+- institutional trust
+- academic maturity
+- communication stability
+- hierarchy readability
+- strategic positioning
+- teaching accessibility
+- interdisciplinary coherence
+- refinement continuity
+
+Interview presentations should feel:
+
+- editorially calm
+- professionally mature
+- cognitively stable
+- strategically intentional
+- institutionally credible
+- human-designed
+
+---
+
+# Mandatory Runtime Initialization
+
+Before generation,
+the runtime MUST:
+
+- interpret communication intent
+- dispatch cognition workflows
+- initialize audience models
+- establish presentation identity
+- initialize cognition planning
+- initialize hierarchy strategy
+- initialize semantic systems
+- activate runtime validators
+
+Generation MUST NOT begin immediately.
+
+The runtime MUST first establish:
+
+```text
+strategic communication cognition state
+```
+
+---
+
+# Runtime Stack Coordination
+
+This skill MUST coordinate:
+
+```text
+workflow/
+↓
+execution/
+↓
+schema/
+↓
+contracts/
+↓
+bridge/
+↓
+evaluation/
+↓
+runtime validators/
+↓
+showcase/
+```
+
+The runtime MUST preserve:
+
+- workflow continuity
+- semantic stability
+- hierarchy integrity
+- audience alignment
+- institutional readability
+- refinement continuity
+
+This skill functions as:
+
+a runtime bootstrap layer.
+
+---
+
+# Workflow Runtime Integration
+
+This skill MUST automatically activate:
+
+## workflow/revision_workflow.md
+
+for:
+
+- hierarchy refinement
+- communication stabilization
+- cognitive density reduction
+- professional readability optimization
+- cognition correction
+
+---
+
+## workflow/interview_workflow.md
+
+for:
+
+- academic positioning
+- institutional alignment
+- strategic narrative planning
+- audience expectation modeling
+- communication orchestration
+
+Interview generation MUST NEVER bypass:
+
+cognitive communication planning.
+
+---
+
+# Runtime Validator Integration
+
+This skill MUST continuously activate:
+
+## evaluation/runtime/cognition_validator.md
+
+for:
+
+- cognition integrity validation
+- audience alignment detection
+- communication stability checking
+
+---
+
+## evaluation/runtime/hierarchy_validator.md
+
+for:
+
+- focal hierarchy validation
+- reading flow stabilization
+- strategic attention orchestration
+
+---
+
+## evaluation/runtime/semantic_validator.md
+
+for:
+
+- semantic consistency validation
+- professional tone stabilization
+- meaning preservation
+
+---
+
+## evaluation/runtime/workflow_validator.md
+
+for:
+
+- workflow continuity validation
+- cognition mode stabilization
+- runtime identity preservation
+
+---
+
+## evaluation/runtime/refinement_validator.md
+
+for:
+
+- localized refinement validation
+- redesign prevention
+- refinement continuity preservation
+
+---
+
+## evaluation/runtime/anti_ai_slop_validator.md
+
+for:
+
+- startup pitch detection
+- dashboard layout prevention
+- infographic-heavy layout prevention
+- decorative AI-slop prevention
+
+Interview runtime generation MUST remain:
+
+editorial,
+restrained,
+and institutionally mature.
+
+---
+
+# Runtime Self-Correction
+
+The runtime MUST behave as:
+
+```text
+generate
+↓
+evaluate
+↓
+detect cognition failure
+↓
+localized refinement
+↓
+revalidation
+↓
+stabilized communication output
+```
+
+The runtime MUST continuously detect:
+
+- hierarchy collapse
+- semantic drift
+- workflow instability
+- institutional readability failure
+- cognitive overload
+- infographic fragmentation
+- decorative escalation
+
+The runtime MUST avoid:
+
+- uncontrolled redesign
+- aggressive visual restructuring
+- startup presentation behavior
+- stateless generation behavior
+
+Interview communication should remain:
+
+stable,
+strategic,
+and trustworthy.
+
+---
+
+# Persistent Collaboration
+
+The runtime MUST preserve:
+
+- workflow continuity
+- presentation identity
+- semantic systems
+- audience alignment
+- refinement history
+- hierarchy behavior
+- institutional communication strategy
+
+The runtime MUST behave as:
+
+a persistent cognition collaborator.
+
+The runtime MUST NOT behave as:
+
+```text
+stateless slide generation
+```
+
+---
+
 # Global Skill Identity
 
-This skill governs:
+This runtime governs:
 
 - faculty interviews
 - academic recruitment presentations
@@ -46,7 +309,7 @@ This skill governs:
 - interdisciplinary positioning presentations
 - future research plan presentations
 
-The system should prioritize:
+The runtime should prioritize:
 
 - professional trust
 - academic maturity
@@ -62,47 +325,7 @@ NOT:
 - decorative academic aesthetics
 - startup-style presentation behavior
 - visually aggressive scientific density
-
----
-
-# Workflow Integration
-
-This skill must automatically activate:
-
-## workflow/revision_workflow.md
-
-for:
-
-- hierarchy refinement
-- communication stabilization
-- cognitive density reduction
-- professional readability optimization
-
----
-
-## workflow/interview_workflow.md
-
-for:
-
-- academic positioning
-- institutional alignment
-- strategic narrative planning
-- audience expectation modeling
-
----
-
-## evaluation/README.md
-
-for:
-
-- professionalism evaluation
-- cognitive pressure checking
-- hierarchy validation
-- strategic communication assessment
-
-Interview generation must NEVER bypass:
-
-cognitive communication planning.
+- infographic-heavy persuasion
 
 ---
 
@@ -119,6 +342,7 @@ Controls:
 - editorial calmness
 - institutional readability
 - low visual aggression
+- professional spacing stability
 
 ---
 
@@ -164,7 +388,7 @@ to strengthen:
 
 # Reference Routing Integration
 
-This skill must automatically apply:
+This skill MUST automatically apply:
 
 ## references/hierarchy_patterns.md
 
@@ -206,7 +430,7 @@ when scientific sections appear.
 
 when teaching sections appear.
 
-Interview generation should follow:
+Interview generation MUST follow:
 
 visual cognition protocols,
 NOT arbitrary aesthetics.
@@ -224,21 +448,22 @@ Default audiences include:
 - research evaluators
 - institutional leadership
 
-The system must evaluate:
+The runtime MUST evaluate:
 
 - institutional orientation
 - teaching emphasis
 - research expectation level
 - interdisciplinary preference
 - candidate evaluation pressure
+- acceptable cognitive density
 
-Communication strategy should adapt dynamically.
+Communication strategy MUST adapt dynamically.
 
 ---
 
 # Cognitive Objective Strategy
 
-Each interview slide must establish:
+Each interview slide MUST establish:
 
 - one professional message
 - one academic impression
@@ -257,6 +482,7 @@ Avoid:
 - publication accumulation
 - excessive technical overload
 - fragmented academic storytelling
+- visually aggressive persuasion
 
 ---
 
@@ -296,6 +522,7 @@ trustworthy.
 
 Preferred narrative structure:
 
+```text
 Academic Background
 ↓
 Research Direction
@@ -307,6 +534,7 @@ Teaching Capability
 Future Development
 ↓
 Institutional Compatibility
+```
 
 Narratives should feel:
 
@@ -341,6 +569,7 @@ Research sections should prioritize:
 
 Preferred research communication:
 
+```text
 Problem
 ↓
 Mechanism
@@ -350,6 +579,7 @@ Evidence
 Contribution
 ↓
 Future Potential
+```
 
 Interview committees evaluate:
 
@@ -398,6 +628,7 @@ and professionally mature.
 
 Interview slides should establish:
 
+```text
 Message
 ↓
 Supporting framework
@@ -405,6 +636,7 @@ Supporting framework
 Selective evidence
 ↓
 Implication
+```
 
 Hierarchy should prioritize:
 
@@ -418,6 +650,7 @@ Avoid:
 - equal-weight composition
 - chart-heavy dominance
 - crowded academic dashboards
+- infographic fragmentation
 
 Professional understanding should occur:
 
@@ -450,6 +683,7 @@ Avoid:
 - glowing AI visuals
 - decorative scientific rendering
 - aggressive consulting deck behavior
+- dashboard behavior
 
 Interview visuals should feel:
 
@@ -659,6 +893,8 @@ prioritize:
 5. hierarchy stabilization
 6. density reduction
 7. narrative smoothness
+8. semantic consistency
+9. workflow continuity
 
 Avoid:
 
@@ -666,6 +902,7 @@ Avoid:
 - decorative overproduction
 - exaggerated sophistication
 - excessive visual restructuring
+- workflow instability
 
 Revision should improve:
 
@@ -685,6 +922,8 @@ Strictly avoid:
 - infographic-heavy layouts
 - consultant dashboard visuals
 - decorative 3D academic graphics
+- aggressive visual persuasion
+- template repetition
 
 Interview presentations should feel:
 
@@ -696,13 +935,14 @@ and institutionally mature.
 
 # Rendering Strategy
 
-Slides must remain:
+Slides MUST remain:
 
 - editable
 - structurally stable
 - professionally organized
 - hierarchy-safe
 - revision-friendly
+- renderer-consistent
 
 Layouts and figures should remain:
 
@@ -718,11 +958,11 @@ Avoid:
 
 Rendering should support:
 
-future academic revision.
+future academic refinement.
 
 ---
 
-# Final Validation
+# Final Runtime Validation
 
 Before finalizing:
 
@@ -736,20 +976,26 @@ Check:
 - Is hierarchy visually stable?
 - Does the presentation feel institutionally credible?
 - Does the slide avoid AI presentation clichés?
+- Is workflow continuity preserved?
+- Is semantic consistency stable?
+- Is refinement integrity preserved?
 
 If NO:
 
 simplify,
 rebalance,
+stabilize,
 and reduce aggression.
 
 ---
 
-# Skill Philosophy
+# Runtime Philosophy
 
 Interview presentation generation is NOT:
+
 academic self-promotion.
 
 It IS:
 
-strategic academic communication engineering.
+a self-correcting cognition runtime
+for strategic academic communication engineering.
