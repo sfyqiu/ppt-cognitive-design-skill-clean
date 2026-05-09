@@ -1,27 +1,40 @@
 <!DOCTYPE html>
-
 <html lang="en">
 
 <head>
 
 <meta charset="UTF-8">
-
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>PPT Cognitive Design Skill</title>
+<title>PPT Cognitive Design Runtime</title>
 
 <style>
 
+*{
+    box-sizing:border-box;
+}
+
 body{
-
     margin:0;
-
-    background:#edf2f7;
-
+    background:#f4f7fb;
     font-family:Arial, Helvetica, sans-serif;
-
     color:#1e293b;
+}
 
+/* =========================
+   GLOBAL
+========================= */
+
+.section{
+    width:1200px;
+    margin:auto;
+}
+
+.divider{
+    width:80px;
+    height:2px;
+    background:#cbd5e1;
+    margin:30px auto 0 auto;
 }
 
 /* =========================
@@ -29,168 +42,220 @@ body{
 ========================= */
 
 .hero{
-
+    padding-top:120px;
     text-align:center;
+}
 
-    padding-top:90px;
-
+.runtime-label{
+    display:inline-block;
+    padding:10px 22px;
+    border-radius:999px;
+    background:#dbeafe;
+    color:#1d4ed8;
+    font-size:15px;
+    font-weight:600;
+    letter-spacing:0.4px;
 }
 
 .title{
-
-    font-size:64px;
-
+    margin-top:36px;
+    font-size:68px;
     font-weight:700;
-
-    color:#1747a6;
-
+    line-height:1.2;
+    color:#0f172a;
 }
 
 .subtitle{
-
-    margin-top:24px;
-
+    width:920px;
+    margin:38px auto 0 auto;
     font-size:28px;
-
-    color:#64748b;
-
     line-height:1.8;
+    color:#475569;
+}
+
+.hero-principle{
+    margin-top:48px;
+    font-size:20px;
+    line-height:2;
+    color:#64748b;
 }
 
 /* =========================
    PIPELINE
 ========================= */
 
-.pipeline{
-
-    margin-top:60px;
-
+.pipeline-section{
+    margin-top:140px;
     text-align:center;
+}
 
+.section-title{
+    font-size:46px;
+    font-weight:700;
+    color:#0f172a;
+}
+
+.section-subtitle{
+    margin-top:22px;
     font-size:22px;
+    line-height:1.9;
+    color:#64748b;
+}
 
-    color:#475569;
+.pipeline-box{
+    width:900px;
+    margin:70px auto 0 auto;
+    background:white;
+    border-radius:34px;
+    padding:60px 40px;
+    box-shadow:0 10px 30px rgba(15,23,42,0.06);
+}
 
-    line-height:2;
+.pipeline{
+    font-size:28px;
+    line-height:2.1;
+    color:#334155;
+    font-weight:600;
 }
 
 /* =========================
-   GALLERY
+   PRINCIPLES
 ========================= */
+
+.principles{
+    margin-top:140px;
+}
+
+.principle-grid{
+    margin-top:70px;
+    display:grid;
+    grid-template-columns:repeat(3,1fr);
+    gap:30px;
+}
+
+.principle-card{
+    background:white;
+    border-radius:28px;
+    padding:40px;
+    box-shadow:0 10px 26px rgba(15,23,42,0.05);
+}
+
+.principle-title{
+    font-size:28px;
+    font-weight:700;
+    color:#0f172a;
+    margin-bottom:22px;
+}
+
+.principle-description{
+    font-size:20px;
+    line-height:1.9;
+    color:#475569;
+}
+
+/* =========================
+   SHOWCASE
+========================= */
+
+.showcase{
+    margin-top:140px;
+}
 
 .gallery{
-
-    width:1300px;
-
-    margin:90px auto;
-
+    margin-top:70px;
     display:grid;
-
-    grid-template-columns:repeat(3, 1fr);
-
-    gap:35px;
-
+    grid-template-columns:repeat(3,1fr);
+    gap:34px;
 }
 
-/* =========================
-   CARD
-========================= */
-
 .card{
-
     background:white;
-
-    border-radius:28px;
-
-    padding:38px;
-
-    box-shadow:0 12px 30px rgba(0,0,0,0.08);
-
+    border-radius:30px;
+    padding:42px;
+    box-shadow:0 12px 28px rgba(15,23,42,0.06);
     transition:0.25s;
-
 }
 
 .card:hover{
-
-    transform:translateY(-6px);
-
-}
-
-.card-title{
-
-    font-size:34px;
-
-    font-weight:700;
-
-    color:#1747a6;
-
-    margin-bottom:20px;
-
+    transform:translateY(-5px);
 }
 
 .card-type{
-
     display:inline-block;
-
     padding:8px 18px;
-
     border-radius:999px;
-
-    background:#dbeafe;
-
-    color:#1d4ed8;
-
-    font-size:16px;
-
+    background:#e2e8f0;
+    color:#334155;
+    font-size:15px;
     font-weight:600;
+}
 
-    margin-bottom:24px;
-
+.card-title{
+    margin-top:28px;
+    font-size:34px;
+    line-height:1.4;
+    font-weight:700;
+    color:#0f172a;
 }
 
 .card-description{
-
-    font-size:21px;
-
-    line-height:1.8;
-
+    margin-top:26px;
+    font-size:20px;
+    line-height:1.9;
     color:#475569;
-
-    min-height:180px;
+    min-height:240px;
 }
 
-/* =========================
-   BUTTON
-========================= */
-
 .button{
-
     display:inline-block;
-
-    margin-top:30px;
-
+    margin-top:34px;
     padding:16px 28px;
-
-    background:#1747a6;
-
-    color:white;
-
-    text-decoration:none;
-
     border-radius:14px;
-
-    font-size:18px;
-
+    background:#1747a6;
+    color:white;
+    text-decoration:none;
+    font-size:17px;
     font-weight:600;
-
     transition:0.25s;
-
 }
 
 .button:hover{
+    background:#133a87;
+}
 
-    background:#123a88;
+/* =========================
+   RUNTIME MODULES
+========================= */
 
+.modules{
+    margin-top:140px;
+}
+
+.module-box{
+    margin-top:70px;
+    background:white;
+    border-radius:34px;
+    padding:60px;
+    box-shadow:0 10px 30px rgba(15,23,42,0.05);
+}
+
+.module-grid{
+    display:grid;
+    grid-template-columns:repeat(2,1fr);
+    gap:40px;
+}
+
+.module-item-title{
+    font-size:28px;
+    font-weight:700;
+    color:#0f172a;
+    margin-bottom:20px;
+}
+
+.module-item-description{
+    font-size:20px;
+    line-height:1.9;
+    color:#475569;
 }
 
 /* =========================
@@ -198,14 +263,49 @@ body{
 ========================= */
 
 .footer{
-
+    margin-top:140px;
+    padding-top:80px;
+    padding-bottom:80px;
     text-align:center;
+    color:#64748b;
+    font-size:20px;
+    line-height:2;
+}
 
-    padding-bottom:60px;
+.footer-strong{
+    color:#0f172a;
+    font-weight:700;
+}
 
-    color:#94a3b8;
+@media(max-width:1280px){
 
-    font-size:18px;
+    .section{
+        width:92%;
+    }
+
+    .subtitle{
+        width:100%;
+    }
+
+    .pipeline-box{
+        width:100%;
+    }
+
+    .gallery{
+        grid-template-columns:1fr;
+    }
+
+    .principle-grid{
+        grid-template-columns:1fr;
+    }
+
+    .module-grid{
+        grid-template-columns:1fr;
+    }
+
+    .title{
+        font-size:54px;
+    }
 
 }
 
@@ -217,51 +317,209 @@ body{
 
 <!-- HERO -->
 
-<div class="hero">
+<section class="hero section">
+
+<div class="runtime-label">
+AI-Native Presentation Cognition Runtime
+</div>
 
 <div class="title">
-
-PPT Cognitive Design Skill
-
+PPT Cognitive Design Runtime
 </div>
 
 <div class="subtitle">
 
-AI-native Cognitive Presentation Generation Framework
+A self-correcting cognition runtime
+for audience-aware communication orchestration.
 
 <br><br>
 
-Reasoning → Narrative → Layout → Rendering
+The runtime focuses on:
+
+communication clarity,
+hierarchy stabilization,
+semantic reasoning,
+runtime validation,
+and iterative refinement.
 
 </div>
 
+<div class="hero-principle">
+
+Reasoning before rendering.
+
+<br>
+
+Communication before decoration.
+
+<br>
+
+Refinement before regeneration.
+
 </div>
+
+<div class="divider"></div>
+
+</section>
 
 <!-- PIPELINE -->
 
-<div class="pipeline">
+<section class="pipeline-section section">
 
-Audience Reasoning
+<div class="section-title">
+Runtime Cognition Pipeline
+</div>
 
-↓
+<div class="section-subtitle">
 
-Narrative Planning
-
-↓
-
-Semantic Layout Intelligence
-
-↓
-
-JSON Schema Rendering
-
-↓
-
-Executable AI Presentation System
+The runtime continuously stabilizes
+communication cognition
+before rendering presentation output.
 
 </div>
 
-<!-- GALLERY -->
+<div class="pipeline-box">
+
+<div class="pipeline">
+
+User Intent
+
+<br>↓<br>
+
+Audience Modeling
+
+<br>↓<br>
+
+Workflow Routing
+
+<br>↓<br>
+
+Narrative Planning
+
+<br>↓<br>
+
+Hierarchy Stabilization
+
+<br>↓<br>
+
+Runtime Validation
+
+<br>↓<br>
+
+Localized Refinement
+
+<br>↓<br>
+
+Self-Correction
+
+<br>↓<br>
+
+Executable Rendering
+
+</div>
+
+</div>
+
+</section>
+
+<!-- PRINCIPLES -->
+
+<section class="principles section">
+
+<div class="section-title">
+Runtime Principles
+</div>
+
+<div class="section-subtitle">
+
+The runtime treats presentations as:
+
+cognitive communication systems.
+
+</div>
+
+<div class="principle-grid">
+
+<div class="principle-card">
+
+<div class="principle-title">
+Audience-aware Communication
+</div>
+
+<div class="principle-description">
+
+The runtime continuously adapts:
+
+hierarchy,
+density,
+narrative pacing,
+and semantic explanation
+
+based on audience cognition capacity.
+
+</div>
+
+</div>
+
+<div class="principle-card">
+
+<div class="principle-title">
+Validator-driven Refinement
+</div>
+
+<div class="principle-description">
+
+The runtime continuously detects:
+
+hierarchy instability,
+semantic drift,
+cognitive overload,
+and AI-style degeneration
+
+before refinement stabilization.
+
+</div>
+
+</div>
+
+<div class="principle-card">
+
+<div class="principle-title">
+Anti-AI-Slop Rendering
+</div>
+
+<div class="principle-description">
+
+The runtime actively avoids:
+
+dashboard layouts,
+infographic overload,
+decorative rendering,
+and startup-style AI aesthetics.
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+<!-- SHOWCASE -->
+
+<section class="showcase section">
+
+<div class="section-title">
+Runtime Showcase
+</div>
+
+<div class="section-subtitle">
+
+Demonstrating cognition-aware workflows,
+hierarchy stabilization,
+and executable rendering behavior.
+
+</div>
 
 <div class="gallery">
 
@@ -269,29 +527,25 @@ Executable AI Presentation System
 
 <div class="card">
 
-<div class="card-title">
-
-Teaching Slide
-
+<div class="card-type">
+Teaching Runtime
 </div>
 
-<div class="card-type">
-
-Educational Rendering
-
+<div class="card-title">
+Teaching Presentation Cognition
 </div>
 
 <div class="card-description">
 
-Cognitively optimized educational presentation rendering
-with semantic mechanism flow,
-GIS explanation blocks,
-and adaptive teaching hierarchy.
+Undergraduate-oriented communication runtime
+with progressive explanation,
+visual teaching guidance,
+semantic hierarchy,
+and cognitively accessible layouts.
 
 </div>
 
 <a class="button"
-
 href="rendering/json_to_html_demo.html">
 
 Open Demo
@@ -304,29 +558,25 @@ Open Demo
 
 <div class="card">
 
-<div class="card-title">
-
-Scientific Mechanism
-
+<div class="card-type">
+Scientific Runtime
 </div>
 
-<div class="card-type">
-
-Scientific Rendering
-
+<div class="card-title">
+Scientific Mechanism Rendering
 </div>
 
 <div class="card-description">
 
-AI-native scientific semantic rendering
-for mechanism-oriented research presentations,
-microbiome workflows,
-and nitrogen cycling visualization.
+Mechanism-centered scientific storytelling
+with evidence hierarchy,
+editorial visual restraint,
+semantic rendering,
+and audience-aware interpretation flow.
 
 </div>
 
 <a class="button"
-
 href="rendering/scientific_json_renderer.html">
 
 Open Demo
@@ -339,29 +589,25 @@ Open Demo
 
 <div class="card">
 
-<div class="card-title">
-
-JSON Rendering Engine
-
+<div class="card-type">
+Runtime System
 </div>
 
-<div class="card-type">
-
-Dynamic AI Rendering
-
+<div class="card-title">
+Self-correcting Runtime Showcase
 </div>
 
 <div class="card-description">
 
-Structured JSON schema parsing
-with semantic component generation,
-automatic layout rendering,
-and executable HTML slide generation.
+Validator-driven cognition stabilization
+with localized refinement,
+persistent continuity,
+anti-AI-slop systems,
+and runtime orchestration demonstrations.
 
 </div>
 
 <a class="button"
-
 href="SHOWCASE.md">
 
 View Showcase
@@ -372,13 +618,122 @@ View Showcase
 
 </div>
 
-<!-- FOOTER -->
+</section>
 
-<div class="footer">
+<!-- MODULES -->
 
-Executable AI-native Presentation Rendering System
+<section class="modules section">
+
+<div class="section-title">
+Runtime Architecture Modules
+</div>
+
+<div class="section-subtitle">
+
+The runtime coordinates cognition systems,
+validation systems,
+workflow systems,
+and executable rendering systems.
 
 </div>
+
+<div class="module-box">
+
+<div class="module-grid">
+
+<div>
+
+<div class="module-item-title">
+Workflow & Cognition Systems
+</div>
+
+<div class="module-item-description">
+
+workflow/
+
+<br><br>
+
+skills/
+
+<br><br>
+
+references/
+
+<br><br>
+
+prompts/
+
+<br><br>
+
+Responsible for:
+
+audience modeling,
+narrative reasoning,
+semantic planning,
+and hierarchy orchestration.
+
+</div>
+
+</div>
+
+<div>
+
+<div class="module-item-title">
+Validation & Refinement Systems
+</div>
+
+<div class="module-item-description">
+
+evaluation/runtime/
+
+<br><br>
+
+bridge/
+
+<br><br>
+
+contracts/
+
+<br><br>
+
+revision/
+
+<br><br>
+
+Responsible for:
+
+runtime validation,
+localized refinement,
+continuity preservation,
+and self-correction orchestration.
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+<!-- FOOTER -->
+
+<footer class="footer">
+
+<div class="footer-strong">
+
+PPT Cognitive Design Runtime
+
+</div>
+
+<br>
+
+Self-correcting,
+audience-aware,
+cognitively stabilized communication orchestration.
+
+</footer>
 
 </body>
 
