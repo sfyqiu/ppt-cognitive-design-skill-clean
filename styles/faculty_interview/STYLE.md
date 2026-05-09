@@ -2,382 +2,541 @@
 
 ## Purpose
 
-This style system defines
-visual expression rules
-for academic interview
-and faculty recruitment presentations.
+This style system defines the visual cognition protocol
+for academic faculty interview presentations.
 
 The objective is NOT:
-- commercial presentation aesthetics
-- startup pitch visuals
-- decorative infographic slides
+visually impressive slides.
 
 The objective IS:
-- professional credibility
-- academic restraint
-- strategic confidence
-- institutional trust
-- cognitive calmness
+restrained academic professionalism
+with strategic cognitive communication.
+
+This style prioritizes:
+
+- professional trust
+- academic maturity
+- strategic clarity
+- interdisciplinary positioning
+- calm scientific communication
+- institutional appropriateness
 
 ---
 
-# Global Style Philosophy
+# Core Academic Philosophy
 
 Faculty interview presentations should feel:
 
-- academically mature
-- visually restrained
-- structurally confident
-- cognitively controlled
-- scientifically trustworthy
+- calm
+- credible
+- intellectually mature
+- strategically controlled
+- professionally approachable
 
-The committee should feel:
+The audience should feel:
 
-"This candidate understands
-professional academic communication."
+- this candidate can communicate clearly
+- this candidate has research potential
+- this candidate can teach effectively
+- this candidate fits the institution
+
+NOT visually pressured.
 
 ---
 
-# Core Visual Principles
+# Faculty Interview Visual Identity
 
-## Principle 1 — Controlled Professionalism
+This style follows:
 
-Slides should:
-- appear organized
-- appear intentional
-- appear coherent
+- editorial academic restraint
+- strategic typography hierarchy
+- calm presentation pacing
+- mechanism-supported communication
+- low-aggression professional aesthetics
+
+Visual atmosphere should resemble:
+
+- Stanford faculty talks
+- high-level academic keynote presentations
+- restrained interdisciplinary research presentations
+- modern editorial academic communication
 
 Avoid:
-- visually aggressive layouts
-- flashy animations
+
+- startup pitch aesthetics
+- consulting deck aggression
+- corporate infographic systems
+- AI-generated visual trends
+- exaggerated academic self-promotion
+
+---
+
+# Anti-AI-Slop Rules
+
+Strictly avoid:
+
+- glowing gradients
+- futuristic AI aesthetics
+- glassmorphism
+- startup presentation language
+- oversized decorative icons
+- generic SaaS card systems
+- heavy infographic layouts
 - excessive visual effects
-- startup presentation aesthetics
 
-Professionalism should emerge
-through:
-- structure
-- hierarchy
-- spacing
-- clarity
+Avoid default:
 
-NOT decoration.
+- corporate blue tech style
+- marketing presentation aesthetics
+- visual over-design
+- presentation gimmicks
 
----
+Faculty interview slides should feel:
 
-## Principle 2 — Strategic Restraint
-
-Visual restraint builds credibility.
-
-Prefer:
-- moderate contrast
-- clean layouts
-- soft visual hierarchy
-- controlled emphasis
-- restrained color usage
-
-Avoid:
-- excessive saturation
-- glowing graphics
-- dense infographic systems
-- decorative gradients
+human,
+academic,
+calm,
+and institutionally mature.
 
 ---
 
-## Principle 3 — Cognitive Calmness
+# Strategic Communication Philosophy
 
-The committee should:
-- understand quickly
-- feel low cognitive pressure
-- follow the narrative naturally
+Faculty interview slides are not:
+publication displays.
 
-Prefer:
-- whitespace
-- stable alignment
-- progressive reading flow
-- moderate information density
+They are:
+strategic academic communication.
+
+Slides should communicate:
+
+- research direction
+- teaching capability
+- interdisciplinary value
+- future development potential
+- institutional compatibility
 
 Avoid:
-- overcrowded slides
-- visual competition
-- chaotic composition
+
+- achievement dumping
+- publication overload
+- excessive technical detail
+- visually intimidating scientific density
+
+---
+
+# Layout Philosophy
+
+Layouts should prioritize:
+
+1. professional clarity
+2. communication smoothness
+3. strategic hierarchy
+4. cognitive calmness
+
+Preferred layouts:
+
+- editorial academic layouts
+- figure-supported communication
+- clean framework slides
+- restrained comparison layouts
+- narrative-centered structure
+
+Avoid:
+
+- crowded scientific layouts
+- consultant-style density
+- aggressive KPI dashboards
+- overloaded visual systems
+
+---
+
+# Visual Hierarchy System
+
+Slides should establish:
+
+Title
+↓
+Core academic message
+↓
+Supporting figure or framework
+↓
+Evidence or explanation
+
+Each slide should contain:
+
+one dominant professional message.
+
+Avoid:
+
+- multi-focus slides
+- equal-weight visual competition
+- fragmented academic storytelling
 
 ---
 
 # Typography System
 
-## Font Philosophy
+## Typography Philosophy
 
 Typography should feel:
+
 - academic
-- professional
 - calm
-- restrained
-
-Recommended:
-- Aptos
-- Arial
-- Helvetica
-- IBM Plex Sans
+- editorial
+- professionally restrained
 
 Avoid:
-- decorative fonts
-- oversized bold typography
-- business-pitch styles
+
+- aggressive modern fonts
+- decorative typography
+- oversized presentation headers
+- startup-style bold typography
 
 ---
 
-# Typography Hierarchy
+## Title System
 
-## Title
+Titles should feel:
 
-Characteristics:
 - concise
-- academic
-- stable
+- intellectually stable
+- strategically intentional
 
-Prefer:
-- medium-bold
-- left-aligned
-- moderate spacing
+Preferred:
+
+mechanism-oriented
+or
+message-oriented titles.
 
 Avoid:
-- slogan-style titles
-- emotionally dramatic phrasing
+
+- generic section headers
+- exaggerated academic phrasing
+- self-promotional titles
 
 ---
 
-## Subtitle
+## Body Text System
 
-Characteristics:
-- explanatory
-- restrained
-- low visual pressure
+Body text should remain:
 
-Avoid:
-- paragraph-length subtitles
-
----
-
-## Annotation
-
-Characteristics:
 - concise
-- supportive
-- interpretation-oriented
+- interpretable
+- strategically selective
+
+Rule:
+
+Interview slides should not reproduce:
+CVs,
+papers,
+or proposals directly.
+
+Text should support:
+communication,
+not information accumulation.
+
+---
+
+## Annotation System
 
 Annotations should:
-- support explanation
-- not dominate slides
+
+- guide interpretation
+- clarify frameworks
+- support credibility
+- remain visually subtle
+
+Avoid:
+
+- excessive explanation
+- dense scientific labels
+- annotation clutter
+
+---
+
+# Whitespace System
+
+Whitespace is critical.
+
+Faculty interview slides should feel:
+
+- composed
+- calm
+- breathable
+- professionally confident
+
+Whitespace communicates:
+
+maturity,
+clarity,
+and intellectual control.
+
+Avoid:
+
+- crowded slides
+- edge-to-edge content
+- compressed academic layouts
+
+Rule:
+
+Do not fill space to appear “productive.”
 
 ---
 
 # Color System
 
-## Global Philosophy
+## Core Philosophy
 
-Colors should communicate:
-- professionalism
-- academic credibility
-- strategic calmness
+Colors communicate:
+academic tone and semantic meaning.
 
-NOT decoration.
+The palette should remain:
 
----
-
-# Primary Palette
-
-## Academic Blue
-
-Meaning:
-- professionalism
-- scientific systems
-- digital technology
-- institutional trust
-
-Style:
-- muted
 - restrained
-- medium saturation
+- stable
+- professional
+- institutionally appropriate
+
+Avoid:
+
+- excessive saturation
+- decorative gradients
+- vibrant startup palettes
+- aggressive contrast systems
 
 ---
 
-## Ecological Green
+## Semantic Color Usage
+
+### Deep Blue
 
 Meaning:
+
+- professionalism
+- scientific rigor
+- technology
+- academic structure
+
+Use for:
+
+- frameworks
+- systems
+- process relationships
+
+---
+
+### Green
+
+Meaning:
+
 - agriculture
 - ecology
 - sustainability
 - biological systems
 
-Usage:
-- supporting mechanisms
-- ecological emphasis
-- scientific balance
+Use for:
 
-Avoid:
-- neon green
-- overly saturated green
+- agricultural applications
+- ecological interpretation
+- environmental mechanisms
 
 ---
 
-## Neutral Gray
+### Warm Gray
 
 Meaning:
-- restraint
+
+- neutrality
+- calmness
 - professionalism
-- cognitive comfort
-- secondary hierarchy
 
 Use for:
-- background systems
-- secondary labels
-- structural support
+
+- secondary information
+- structural balance
+- editorial spacing support
 
 ---
 
-## Scientific Orange
+### Orange / Red
 
 Meaning:
+
 - emphasis
+- challenge
 - stress
-- inhibition
-- key warning
+- key findings
 
 Use sparingly.
 
+---
+
+# Figure Philosophy
+
+Figures should support:
+academic communication.
+
+Preferred figures:
+
+- research frameworks
+- simplified mechanisms
+- conceptual diagrams
+- interdisciplinary structures
+- strategic research maps
+- annotated result summaries
+
 Avoid:
-- orange-dominant layouts
+
+- publication screenshot dumping
+- unreadable statistical density
+- excessive chart quantity
+- decorative infographic figures
+
+Rule:
+
+Figures should improve:
+professional understanding,
+not scientific intimidation.
 
 ---
 
-# Layout System
+# Cognitive Density Rules
 
-## Preferred Structure
+Faculty interview slides should support:
 
-Hierarchy:
+rapid professional interpretation.
+
+Audience should quickly understand:
+
+- who the candidate is
+- what research direction matters
+- what teaching capability exists
+- what future potential is visible
+
+If slides feel overwhelming:
+
+- simplify structure
+- reduce technical detail
+- enlarge focal elements
+- improve spacing rhythm
+
+---
+
+# Reading Flow System
+
+Preferred reading path:
 
 Title
-↓
-Core scientific message
-↓
-Mechanism / evidence
-↓
-Strategic takeaway
+→ dominant message
+→ supporting figure
+→ interpretation
+→ implication
 
-Slides should:
-- guide interpretation naturally
-- preserve reading stability
-- avoid cognitive friction
+Eye movement should feel:
 
----
-
-# Whitespace Strategy
-
-Whitespace is functional.
-
-Whitespace should:
-- separate information layers
-- reduce overload
-- support credibility
-- create visual calmness
+stable,
+controlled,
+and cognitively smooth.
 
 Avoid:
-- edge-overloaded layouts
-- dense clustering
-- unnecessary fillers
+
+- scattered visual anchors
+- abrupt hierarchy shifts
+- overloaded evidence zones
 
 ---
 
-# Scientific Figure Strategy
+# Presentation Rhythm System
 
-Figures should:
-- support credibility
-- support interpretation
-- support communication
+Faculty interview presentations should alternate between:
 
-NOT:
-visual decoration.
-
-Prefer:
-- mechanism diagrams
-- restrained charts
-- annotation-supported visuals
-- simplified scientific graphics
+- positioning slides
+- mechanism slides
+- framework slides
+- teaching slides
+- future plan slides
+- breathing transition slides
 
 Avoid:
-- visually fragmented figures
-- excessive chart quantity
-- dashboard-style layouts
+
+continuous high-density academic slides.
+
+Presentation rhythm should preserve:
+
+attention stability
+and
+professional calmness.
 
 ---
 
-# Interview Narrative Support
+# Faculty Interview Visual Tone
 
-Slides should reinforce:
-- professional identity
-- interdisciplinary positioning
-- scientific maturity
-- future potential
+Slides should feel:
 
-The presentation should feel:
-- coherent
-- strategically controlled
+- academically mature
+- strategically calm
+- editorially restrained
+- intellectually confident
 - institutionally appropriate
 
-Avoid:
-- excessive self-promotion
-- aggressive persuasion
-- exaggerated innovation claims
+NOT:
+
+- corporate
+- startup-like
+- sales-oriented
+- visually aggressive
+- AI-generated
 
 ---
 
-# Rendering Preferences
+# Rendering Rules
 
-Generated slides should:
-- remain editable
-- preserve object separation
-- maintain clean grouping
-- support future modification
+Slides must remain:
 
-Prefer:
-- editable vectors
-- editable arrows
-- editable annotations
-- modular mechanism systems
+- editable
+- visually stable
+- professionally organized
+- revision-friendly
+
+Elements should remain:
+
+- logically grouped
+- hierarchy-safe
+- spacing-consistent
 
 Avoid:
-- flattened infographic exports
-- screenshot-style layouts
+
+- flattened rendering
+- screenshot-heavy composition
+- decorative rendering artifacts
 
 ---
 
-# Cognitive Validation
+# Final Validation
 
 Before finalizing:
 
-check:
-- visual calmness
-- hierarchy clarity
-- professionalism
-- readability
-- strategic restraint
-- scientific trustworthiness
+Check:
 
-Question:
-
-Would a faculty committee
-feel comfortable following
-this presentation?
+- Does the presentation feel professionally calm?
+- Is academic positioning clear?
+- Is communication approachable?
+- Does the slide feel strategically mature?
+- Is hierarchy visually stable?
+- Would a faculty committee trust this communication style?
 
 If NO:
-simplify and reduce visual pressure.
+
+simplify and rebalance.
 
 ---
 
 # Final Philosophy
 
 Faculty interview presentation design is NOT:
-visual performance.
+self-promotion.
 
 It IS:
-strategic academic communication.
+
+strategic academic communication engineering.
