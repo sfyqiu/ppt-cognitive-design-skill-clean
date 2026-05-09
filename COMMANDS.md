@@ -239,6 +239,142 @@ Typical use:
 
 ---
 
+---
+
+# 11. revise_slide
+
+Purpose:
+Revise a specific slide
+based on user feedback.
+
+Requirements:
+- preserve narrative consistency
+- preserve visual consistency
+- prioritize local modification
+- avoid unnecessary regeneration
+- maintain audience adaptation
+
+Typical use:
+
+使用 revise_slide。
+
+第4页：
+逻辑太乱，
+需要增强机制链，
+减少文字密度。
+
+---
+
+# 12. revise_layout
+
+Purpose:
+Revise slide layouts
+based on readability
+and visual balance.
+
+Requirements:
+- improve spacing
+- stabilize hierarchy
+- optimize reading flow
+- preserve layout consistency
+
+Typical use:
+
+使用 revise_layout。
+
+第3页：
+左右布局失衡，
+图太小，
+文字区域太拥挤。
+
+---
+
+# 13. revise_scientific_expression
+
+Purpose:
+Revise scientific communication quality.
+
+Requirements:
+- strengthen mechanism explanation
+- improve evidence hierarchy
+- increase scientific readability
+- preserve academic professionalism
+
+Typical use:
+
+使用 revise_scientific_expression。
+
+第5页：
+科研逻辑不够清晰，
+结果之间缺少机制关联。
+
+---
+
+# 14. revise_teaching_clarity
+
+Purpose:
+Revise slides for better
+teaching effectiveness.
+
+Requirements:
+- reduce cognitive overload
+- simplify explanations
+- improve teaching visualization
+- strengthen progressive understanding
+
+Typical use:
+
+使用 revise_teaching_clarity。
+
+第2页：
+本科生可能理解困难，
+需要增加示意图并简化术语。
+
+---
+
+# 15. revise_density
+
+Purpose:
+Revise presentation density
+based on audience cognition.
+
+Requirements:
+- reduce overload
+- improve readability
+- simplify information structure
+- strengthen focal hierarchy
+
+Typical use:
+
+使用 revise_density。
+
+第6页：
+内容太密，
+重点不突出。
+
+---
+
+# 16. iterative_ppt_revision
+
+Purpose:
+Support iterative PPT refinement
+through multi-round collaboration.
+
+Requirements:
+- preserve presentation stability
+- support local slide refinement
+- maintain narrative continuity
+- continuously align with user intention
+
+Typical use:
+
+使用 iterative_ppt_revision。
+
+我将逐页检查PPT，
+并持续给出修改意见。
+
+---
+
 # Final Philosophy
 
 Commands are NOT:
