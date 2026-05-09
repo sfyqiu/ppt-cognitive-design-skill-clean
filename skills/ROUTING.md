@@ -2,174 +2,384 @@
 
 ## Purpose
 
-This document defines how the AI system
-should select and combine
+This document defines how
+the AI presentation cognition framework
+should select,
+combine,
+and orchestrate
 presentation skills.
 
-The objective is:
+The objective is NOT:
+random skill blending.
 
-- stable workflow routing
-- audience-aware generation
-- cognitive consistency
-- presentation specialization
+The objective IS:
+stable cognitive behavior routing
+for scenario-adaptive communication.
 
-NOT random skill mixing.
+This routing system controls:
+
+- workflow activation
+- audience adaptation
+- visual grammar selection
+- hierarchy behavior
+- density control
+- narrative strategy
+- revision orchestration
+
+Skill routing should behave as:
+
+cognitive communication orchestration.
 
 ---
 
-# Global Routing Principle
+# Global Routing Philosophy
 
-The AI should automatically determine:
+The AI system must automatically determine:
 
 - presentation scenario
-- audience type
+- audience structure
 - communication objective
-- cognitive density
-- revision strategy
+- acceptable cognitive density
+- professionalism requirements
+- scientific complexity level
+- teaching accessibility needs
 
-Then select:
+The system must then select:
 
 - primary skill
 - secondary skill
-- supporting cognitive behavior
+- supporting visual behavior
+- workflow activation path
+- evaluation strategy
 
 Rule:
 
-One skill should dominate.
+One skill must dominate.
 
-Avoid equal-weight skill blending.
+Secondary skills should support,
+NOT compete.
+
+Avoid:
+
+- equal-weight blending
+- contradictory visual logic
+- unstable communication behavior
+- random layout personality switching
+
+---
+
+# Routing Architecture
+
+Skill routing must coordinate:
+
+## workflow/
+
+Controls:
+
+- cognitive planning
+- revision logic
+- narrative sequencing
+- audience modeling
+
+---
+
+## styles/
+
+Controls:
+
+- visual atmosphere
+- editorial restraint
+- communication tone
+- hierarchy personality
+
+---
+
+## references/
+
+Controls:
+
+- hierarchy behavior
+- whitespace grammar
+- mechanism layout logic
+- visual reading flow
+
+---
+
+## evaluation/
+
+Controls:
+
+- cognitive validation
+- overload detection
+- hierarchy assessment
+- professionalism checking
+
+Skills are NOT isolated modules.
+
+Skills are:
+
+cognitive orchestration layers.
 
 ---
 
 # Primary Skill Selection
 
-## teaching_skill
+Primary skill determines:
+
+- communication behavior
+- visual tone
+- hierarchy strategy
+- density level
+- revision priority
+- audience adaptation logic
+
+The primary skill should control:
+
+most presentation behavior.
+
+---
+
+# teaching_skill
 
 Use as PRIMARY when:
 
 - undergraduate teaching
 - classroom explanation
-- concept introduction
-- teaching demonstration
 - educational workshops
+- concept introduction
+- beginner scientific explanation
+- teaching demonstrations
+
+Primary communication objective:
+
+understanding accessibility.
 
 Prioritize:
 
-- intuitive explanation
-- low cognitive load
-- progressive learning
-- visual teaching support
+- progressive explanation
+- visual teaching guidance
+- low cognitive pressure
+- intuitive communication
+- educational readability
+
+Primary style routing:
+
+## teaching_clean
+
+Primary reference routing:
+
+- teaching_visual_language
+- whitespace_patterns
+- hierarchy_patterns
+
+Avoid:
+
+- academic overload
+- dense scientific hierarchy
+- intimidating educational layouts
 
 ---
 
-## academic_skill
+# academic_skill
 
 Use as PRIMARY when:
 
-- scientific presentation
-- thesis defense
-- conference talk
+- scientific presentations
+- conference talks
+- research seminars
+- paper-to-presentation generation
 - mechanism explanation
-- paper-based PPT generation
-- research communication
+- thesis defenses
+- scientific framework communication
+
+Primary communication objective:
+
+scientific interpretability.
 
 Prioritize:
 
-- mechanism logic
-- evidence hierarchy
+- mechanism hierarchy
+- evidence interpretation
 - scientific readability
-- academic professionalism
+- editorial scientific calmness
+- causal explanation
+
+Primary style routing:
+
+## sci_top_journal
+
+Primary reference routing:
+
+- mechanism_layout_patterns
+- scientific_visual_language
+- hierarchy_patterns
+
+Avoid:
+
+- publication screenshot dumping
+- infographic-heavy science slides
+- startup scientific aesthetics
 
 ---
 
-## interview_skill
+# interview_skill
 
 Use as PRIMARY when:
 
-- faculty interview
+- faculty interviews
 - academic recruitment
-- teaching interview
-- job talk
-- institutional presentation
+- institutional presentations
+- job talks
+- candidate introductions
+- strategic academic presentations
+
+Primary communication objective:
+
+professional trust
+and
+future potential communication.
 
 Prioritize:
 
 - strategic professionalism
-- communication balance
-- teaching + research integration
+- academic positioning
 - institutional compatibility
+- teaching + research balance
+- calm communication
+
+Primary style routing:
+
+## faculty_interview
+
+Primary reference routing:
+
+- faculty_visual_language
+- whitespace_patterns
+- hierarchy_patterns
+
+Avoid:
+
+- aggressive self-promotion
+- consultant-style visuals
+- crowded academic dashboards
 
 ---
 
-# Secondary Skill Selection
+# Secondary Skill Routing
 
-Secondary skills should support
-the primary objective.
+Secondary skills should:
 
-They should NOT dominate presentation behavior.
+- stabilize weaknesses
+- improve adaptability
+- refine communication balance
+
+Secondary skills must NEVER:
+
+- override primary behavior
+- destabilize visual hierarchy
+- introduce conflicting tone
 
 ---
 
-## teaching_skill as SECONDARY
+# teaching_skill as SECONDARY
 
 Use when:
 
 - scientific content requires simplification
 - audience expertise is mixed
-- teaching clarity is important
+- communication clarity is weak
+- teaching demonstrations appear
+- readability must improve
 
 Effects:
 
 - reduce density
-- improve visualization
-- simplify explanations
+- simplify mechanisms
+- improve visual guidance
 - strengthen reading flow
+- increase educational accessibility
+
+Common combinations:
+
+academic_skill
++
+teaching_skill
+
+interview_skill
++
+teaching_skill
 
 ---
 
-## academic_skill as SECONDARY
+# academic_skill as SECONDARY
 
 Use when:
 
-- stronger scientific credibility is needed
-- mechanism logic should be strengthened
-- evidence hierarchy should improve
+- scientific credibility must increase
+- mechanism explanation is weak
+- evidence hierarchy is insufficient
+- scientific rigor should improve
 
 Effects:
 
-- strengthen scientific structure
-- improve mechanism explanation
-- stabilize academic hierarchy
+- strengthen mechanism logic
+- stabilize evidence hierarchy
+- improve scientific interpretation
+- reinforce research continuity
+
+Common combinations:
+
+interview_skill
++
+academic_skill
+
+teaching_skill
++
+academic_skill
 
 ---
 
-## interview_skill as SECONDARY
+# interview_skill as SECONDARY
 
 Use when:
 
-- presentation requires professionalism
-- audience includes evaluators
-- strategic positioning is important
+- professionalism must improve
+- institutional audiences appear
+- strategic positioning matters
+- presentation tone feels unstable
 
 Effects:
 
-- improve professionalism
-- stabilize narrative tone
-- strengthen presentation restraint
+- improve restraint
+- stabilize hierarchy calmness
+- strengthen narrative maturity
+- reduce visual aggression
+
+Common combinations:
+
+academic_skill
++
+interview_skill
+
+teaching_skill
++
+interview_skill
 
 ---
 
 # Routing by Scenario
 
-| Scenario | Primary Skill | Secondary Skill |
-|---|---|---|
-| Undergraduate teaching | teaching_skill | academic_skill |
-| Scientific conference | academic_skill | teaching_skill |
-| Thesis defense | academic_skill | interview_skill |
-| Faculty interview | interview_skill | academic_skill |
-| Teaching demonstration | teaching_skill | interview_skill |
-| Research seminar | academic_skill | teaching_skill |
-| Job talk | interview_skill | teaching_skill |
+| Scenario | Primary Skill | Secondary Skill | Primary Style |
+|---|---|---|---|
+| Undergraduate teaching | teaching_skill | academic_skill | teaching_clean |
+| Scientific conference | academic_skill | teaching_skill | sci_top_journal |
+| Thesis defense | academic_skill | interview_skill | sci_top_journal |
+| Faculty interview | interview_skill | academic_skill | faculty_interview |
+| Teaching demonstration | teaching_skill | interview_skill | teaching_clean |
+| Research seminar | academic_skill | teaching_skill | sci_top_journal |
+| Job talk | interview_skill | teaching_skill | faculty_interview |
+| Paper to PPT | academic_skill | teaching_skill | sci_top_journal |
+| Interdisciplinary presentation | interview_skill | academic_skill | faculty_interview |
 
 ---
 
@@ -180,9 +390,16 @@ Effects:
 Prefer:
 
 - teaching_skill dominance
-- low density
-- strong visualization
-- progressive explanation
+- simplified hierarchy
+- large visual explanations
+- progressive cognition
+- low-to-medium density
+
+Avoid:
+
+- scientific overload
+- statistical compression
+- dense terminology
 
 ---
 
@@ -191,64 +408,219 @@ Prefer:
 Prefer:
 
 - academic_skill dominance
-- mechanism hierarchy
-- concise explanation
-- evidence-driven logic
+- mechanism-centered hierarchy
+- evidence-driven communication
+- restrained scientific density
+- editorial scientific layouts
+
+Avoid:
+
+- educational oversimplification
+- infographic-style science
+- excessive decoration
 
 ---
 
-## Interview Committee
+## Interview Committees
 
 Prefer:
 
 - interview_skill dominance
-- balanced communication
-- strategic professionalism
-- controlled scientific density
+- strategic calmness
+- balanced teaching + research communication
+- institutional readability
+- moderate scientific density
+
+Avoid:
+
+- publication dumping
+- aggressive academic positioning
+- crowded scientific dashboards
+
+---
+
+## Mixed Audience
+
+Prefer:
+
+- academic_skill dominance
+with
+teaching_skill support.
+
+Goal:
+
+preserve scientific credibility
+while improving accessibility.
+
+---
+
+# Routing by Cognitive Density
+
+## Low Density
+
+Use:
+
+- teaching_skill dominance
+- simplified hierarchy
+- large whitespace
+- strong visual explanation
+
+---
+
+## Medium Density
+
+Use:
+
+- interview_skill balance
+or
+academic_skill + teaching_skill blend
+
+Preferred for:
+
+- faculty talks
+- interdisciplinary communication
+- mixed scientific audiences
+
+---
+
+## Medium-to-High Density
+
+Use:
+
+- academic_skill dominance
+- mechanism-centered layouts
+- layered evidence hierarchy
+
+Preferred for:
+
+- conferences
+- scientific seminars
+- thesis defenses
+
+Avoid:
+
+maximum-density manuscript simulation.
+
+---
+
+# Workflow Routing
+
+Routing must activate appropriate workflows.
+
+---
+
+## Teaching Routing
+
+Activate:
+
+- audience simplification
+- cognitive accessibility planning
+- progressive explanation sequencing
+
+---
+
+## Academic Routing
+
+Activate:
+
+- mechanism planning
+- evidence hierarchy construction
+- scientific storytelling
+
+---
+
+## Interview Routing
+
+Activate:
+
+- strategic positioning
+- professionalism stabilization
+- institutional communication planning
 
 ---
 
 # Revision Routing
 
-During revision:
-
-AI should determine whether feedback relates to:
+During revision,
+the AI must determine whether feedback relates to:
 
 - teaching clarity
-- scientific logic
-- layout structure
-- cognitive density
+- scientific hierarchy
+- mechanism interpretation
+- cognitive overload
 - strategic professionalism
+- narrative smoothness
+- visual calmness
 
-Then prioritize corresponding revision behavior.
+Then prioritize:
 
-Examples:
+the corresponding skill behavior.
 
-"students may not understand"
+---
+
+# Example Revision Routing
+
+“Students may not understand this.”
 → teaching_skill revision behavior
 
-"scientific logic is weak"
+“Scientific logic feels weak.”
 → academic_skill revision behavior
 
-"presentation feels unprofessional"
+“This presentation feels unprofessional.”
 → interview_skill revision behavior
+
+“Slides feel crowded.”
+→ whitespace_patterns
++
+hierarchy_patterns
+
+“Mechanism is difficult to interpret.”
+→ mechanism_layout_patterns
++
+academic_skill
 
 ---
 
 # Routing Stability Rules
 
-The system should preserve:
+The system must preserve:
 
 - narrative consistency
-- visual consistency
-- audience adaptation
-- cognitive strategy
+- hierarchy consistency
+- visual atmosphere stability
+- audience adaptation coherence
+- controlled density behavior
 
 Avoid:
 
 - unstable skill switching
-- excessive behavior blending
-- contradictory visual logic
+- contradictory communication tone
+- mixed visual personalities
+- inconsistent pacing systems
+
+Routing should feel:
+
+intentional,
+stable,
+and cognitively mature.
+
+---
+
+# Anti-AI-Slop Routing Rules
+
+Strictly avoid:
+
+- random style blending
+- template personality switching
+- startup visual contamination
+- infographic-heavy routing behavior
+- SaaS-style presentation structure
+
+Skill routing should produce:
+
+editorial,
+human-designed,
+and communication-focused presentations.
 
 ---
 
@@ -258,24 +630,27 @@ Before finalizing routing:
 
 Check:
 
-- Is the primary skill clear?
+- Is the dominant skill obvious?
 - Does the secondary skill support properly?
 - Is audience adaptation stable?
 - Is cognitive density appropriate?
-- Is presentation behavior coherent?
+- Is hierarchy behavior coherent?
+- Is visual atmosphere consistent?
+- Does the presentation avoid AI presentation clichés?
 
 If NO:
 
-simplify routing strategy.
+simplify routing
+and rebalance skill dominance.
 
 ---
 
 # Routing Philosophy
 
-Skill routing is not
+Skill routing is NOT:
 feature combination.
 
-It is:
+Skill routing IS:
 
-cognitive behavior selection
-for communication optimization.
+cognitive behavior orchestration
+for high-quality communication engineering.
