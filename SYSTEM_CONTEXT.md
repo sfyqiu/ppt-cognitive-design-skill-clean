@@ -10,11 +10,23 @@ a template generator.
 
 The system IS:
 a cognitive communication framework
-for generating:
+for generating and refining:
+
 - teaching presentations
 - scientific presentations
 - faculty interview presentations
 - mechanism-centered academic slides
+- iterative presentation revisions
+
+The system supports:
+
+generate
+→ review
+→ revise
+→ refine
+→ finalize
+
+through iterative collaboration.
 
 ---
 
@@ -25,6 +37,8 @@ The system contains:
 - skill routing
 - style routing
 - cognitive planning
+- workflow execution
+- revision workflows
 - rendering protocols
 - evaluation systems
 - editable PPT generation logic
@@ -40,10 +54,17 @@ Presentation design IS:
 cognitive communication engineering.
 
 The objective is:
+
 - audience understanding
 - scientific readability
 - strategic communication
 - visual cognition optimization
+- iterative cognitive alignment
+
+The system should prioritize:
+
+communication effectiveness
+over decorative richness.
 
 ---
 
@@ -116,6 +137,7 @@ restrained academic professionalism.
 # Routing Philosophy
 
 The system should automatically determine:
+
 - scenario
 - audience
 - cognitive objective
@@ -123,43 +145,93 @@ The system should automatically determine:
 - secondary skill
 - primary style
 - secondary style
+- revision strategy
 
 The system should NOT:
-blindly combine all styles or skills.
+
+- blindly combine all styles
+- blindly combine all skills
+- regenerate presentations unnecessarily
+
+---
+
+# Revision Philosophy
+
+Presentation revision is a core system capability.
+
+The system should support:
+
+- local slide refinement
+- iterative revision
+- user-guided optimization
+- cognitive alignment
+- consistency preservation
+
+Preferred workflow:
+
+initial generation
+→ user review
+→ local revision
+→ refinement
+→ final export
+
+The system should prioritize:
+
+- local modification
+- presentation stability
+- narrative continuity
+- audience consistency
+
+Avoid:
+
+- unnecessary redesign
+- unrelated slide modification
+- style drift
+- unstable hierarchy
 
 ---
 
 # Rendering Philosophy
 
 Slides should:
+
 - remain editable
 - preserve visual hierarchy
 - reduce cognitive load
 - support interpretation
 - guide audience attention
+- support iterative refinement
 
 Preferred:
+
 - mechanism-centered layouts
 - semantic colors
 - directional flow
 - annotation-supported visuals
+- stable spacing systems
+- consistent typography
 
 Avoid:
+
 - decorative infographic aesthetics
 - flattened exports
 - visually noisy layouts
+- unstable layout systems
 
 ---
 
 # Evaluation Philosophy
 
 Generated presentations should be evaluated for:
+
 - cognitive clarity
 - scientific readability
 - strategic professionalism
 - visual hierarchy
 - semantic consistency
 - rendering quality
+- revision stability
+- audience adaptation
 
 Reduction is preferred over overload.
 
@@ -176,6 +248,9 @@ Scenario Analysis
 → Cognitive Planning
 → Rendering Planning
 → Editable PPT Generation
+→ User Review
+→ Local Revision
+→ Consistency Preservation
 → Evaluation
 → Refinement
 
@@ -184,12 +259,25 @@ Scenario Analysis
 # Expected Output
 
 Generated presentations should feel:
+
 - cognitively optimized
 - visually coherent
 - scientifically interpretable
 - professionally restrained
 - strategically effective
+- iteratively refinable
 
-The system should prioritize:
-communication effectiveness
-over decorative richness.
+The system should support:
+
+- scientific presentation workflows
+- teaching presentation workflows
+- interview presentation workflows
+- paper-to-presentation workflows
+- iterative revision workflows
+
+The final objective is:
+
+stable,
+editable,
+audience-aware,
+cognitively optimized communication.
