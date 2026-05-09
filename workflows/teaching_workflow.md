@@ -1,5 +1,39 @@
 # Teaching Presentation Workflow
 
+## Runtime Identity
+
+This workflow is NOT:
+
+- a teaching slide generation pipeline
+- a classroom template workflow
+- an educational beautification system
+- a textbook compression engine
+- an infographic teaching pipeline
+
+This workflow IS:
+
+a teaching cognition runtime
+for orchestrating
+progressive learning communication systems.
+
+The objective is NOT:
+
+educational information compression.
+
+The objective IS:
+
+maximum understandable learning
+through visually guided communication orchestration,
+controlled cognitive load,
+stable hierarchy,
+and runtime self-correction.
+
+Teaching workflow orchestration should behave as:
+
+cognitive learning engineering.
+
+---
+
 ## Purpose
 
 This workflow defines how
@@ -62,10 +96,98 @@ over information quantity.
 
 ---
 
+# Runtime Workflow Philosophy
+
+Traditional teaching workflows behave as:
+
+```text
+content
+↓
+slides
+↓
+lecture
+```
+
+This runtime behaves as:
+
+```text
+learning objective
+↓
+audience cognition modeling
+↓
+concept orchestration
+↓
+visual teaching guidance
+↓
+cognitive density regulation
+↓
+validation
+↓
+refinement
+↓
+learning stabilization
+```
+
+The workflow continuously regulates:
+
+- educational accessibility
+- concept clarity
+- hierarchy continuity
+- learner attention stability
+- reading smoothness
+- cognitive pressure
+- refinement continuity
+- communication stability
+
+Teaching workflow orchestration is:
+
+cognitive learning engineering,
+NOT educational slide assembly.
+
+---
+
+# Runtime Stack Coordination
+
+This workflow MUST coordinate:
+
+```text
+workflow/
+↓
+execution/
+↓
+schema/
+↓
+contracts/
+↓
+bridge/
+↓
+evaluation/
+↓
+runtime validators/
+↓
+showcase/
+```
+
+The workflow MUST preserve:
+
+- workflow continuity
+- educational readability
+- semantic consistency
+- learner accessibility
+- teaching continuity
+- refinement stability
+
+This workflow functions as:
+
+a cognition runtime orchestrator.
+
+---
+
 # Global Workflow Structure
 
 The workflow must execute:
 
+```text
 Scenario Analysis
 ↓
 Audience Modeling
@@ -94,7 +216,12 @@ Evaluation
 ↓
 Revision Loop
 ↓
+Runtime Validation
+↓
+Self-Correction
+↓
 Final Stabilization
+```
 
 Generation must NEVER begin
 before orchestration planning completes.
@@ -369,6 +496,7 @@ NOT template replication.
 
 Preferred educational narrative:
 
+```text
 Problem
 ↓
 Why It Matters
@@ -384,6 +512,7 @@ Example
 Interpretation
 ↓
 Summary
+```
 
 Narrative should feel:
 
@@ -420,6 +549,7 @@ Preferred concept behavior:
 
 Preferred sequence:
 
+```text
 Observation
 ↓
 Concept
@@ -427,6 +557,7 @@ Concept
 Process
 ↓
 Meaning
+```
 
 Avoid:
 
@@ -480,6 +611,7 @@ not complexity.
 
 Every slide must establish:
 
+```text
 Teaching Objective
 ↓
 Dominant Diagram
@@ -487,6 +619,7 @@ Dominant Diagram
 Supporting Explanation
 ↓
 Teaching Takeaway
+```
 
 One slide should communicate:
 
@@ -544,6 +677,7 @@ stable eye movement.
 
 Preferred reading flow:
 
+```text
 Title
 ↓
 Dominant Diagram
@@ -553,6 +687,7 @@ Directional Explanation
 Supporting Information
 ↓
 Takeaway
+```
 
 Avoid:
 
@@ -639,26 +774,71 @@ when communication failures appear.
 
 ---
 
-# Stage 16 — Evaluation Activation
+# Stage 16 — Runtime Validator Activation
 
 Before finalization,
-the workflow must activate:
+the workflow MUST activate:
 
-## evaluation/README.md
+## evaluation/runtime/cognition_validator.md
 
-to validate:
+for:
 
-- teaching accessibility
-- concept clarity
-- cognitive density
-- reading smoothness
-- hierarchy stability
-- educational readability
-- visual calmness
+- cognition integrity validation
+- educational communication continuity checking
+- learner accessibility verification
 
-If evaluation fails:
+---
 
-revision becomes mandatory.
+## evaluation/runtime/hierarchy_validator.md
+
+for:
+
+- hierarchy stabilization
+- teaching focal validation
+- reading flow verification
+
+---
+
+## evaluation/runtime/semantic_validator.md
+
+for:
+
+- semantic consistency validation
+- educational meaning stabilization
+
+---
+
+## evaluation/runtime/workflow_validator.md
+
+for:
+
+- workflow continuity validation
+- educational orchestration stability checking
+
+---
+
+## evaluation/runtime/refinement_validator.md
+
+for:
+
+- localized correction validation
+- redesign prevention
+- refinement continuity verification
+
+---
+
+## evaluation/runtime/anti_ai_slop_validator.md
+
+for:
+
+- infographic-heavy education detection
+- startup teaching aesthetic prevention
+- dashboard educational layout prevention
+- decorative AI education prevention
+
+If validation fails:
+
+refinement continues.
 
 ---
 
@@ -687,6 +867,63 @@ Avoid:
 adding more educational complexity.
 
 Reduction is preferred.
+
+---
+
+# Runtime Self-Correction
+
+The workflow MUST behave as:
+
+```text
+detect
+↓
+diagnose
+↓
+localize
+↓
+refine
+↓
+revalidate
+↓
+stabilize
+```
+
+The workflow MUST continuously detect:
+
+- hierarchy instability
+- semantic drift
+- workflow fragmentation
+- educational overload
+- learning accessibility collapse
+- presentation identity instability
+
+The workflow MUST avoid:
+
+- uncontrolled redesign
+- decorative educational escalation
+- stateless refinement
+- random regeneration behavior
+
+---
+
+# Persistent Workflow Continuity
+
+The workflow MUST preserve:
+
+- workflow continuity
+- presentation identity
+- semantic systems
+- learner accessibility
+- teaching communication strategy
+- refinement history
+
+The workflow MUST behave as:
+
+a persistent cognition collaborator.
+
+Teaching revision MUST NOT behave as:
+
+stateless redesign generation.
 
 ---
 
@@ -747,6 +984,9 @@ Check:
 - Is reading flow smooth?
 - Does the presentation feel educationally calm?
 - Does the workflow avoid AI teaching clichés?
+- Is workflow continuity preserved?
+- Is semantic consistency stable?
+- Is refinement integrity preserved?
 
 If NO:
 
@@ -761,5 +1001,5 @@ educational slide generation pipelines.
 
 They ARE:
 
-progressive cognitive learning orchestration systems
-for maximum understandable communication.
+self-correcting cognitive learning runtimes
+for maximum understandable communication engineering.
