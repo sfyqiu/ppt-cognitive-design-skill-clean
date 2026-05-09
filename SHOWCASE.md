@@ -1,74 +1,369 @@
-# PPT Cognitive Design Skill — Showcase
+# PPT Cognitive Design Runtime — Showcase
 
-AI-native Cognitive Presentation Generation Framework
+AI-Native Presentation Cognition Runtime Architecture
+
+---
+
+# Runtime Identity
+
+This project is NOT:
+
+- a PPT template generator
+- a beautification toolkit
+- a slide automation wrapper
+- a decorative rendering framework
+
+This project IS:
+
+a self-correcting cognition runtime
+for orchestrating:
+
+- audience-aware communication
+- semantic hierarchy planning
+- narrative cognition
+- runtime validation
+- iterative refinement
+- persistent cognition continuity
+
+The objective is NOT:
+
+better-looking slides.
+
+The objective IS:
+
+cognitively stabilized communication orchestration.
 
 ---
 
 # Overview
 
-PPT Cognitive Design Skill is an AI-native presentation intelligence framework designed to transform:
+PPT Cognitive Design Runtime is an AI-native communication cognition system designed to transform:
 
 - reasoning
 - narrative cognition
-- semantic communication
-- layout intelligence
+- semantic hierarchy
+- audience modeling
+- refinement intelligence
+- workflow orchestration
 
 into:
 
-- cognitively optimized presentation structures
-- adaptive visual rendering
-- AI-generated presentation pages
+- cognitively optimized communication systems
+- adaptive presentation structures
+- hierarchy-aware rendering
+- self-correcting presentation workflows
 
-The system focuses on:
+The runtime focuses on:
 
-human understanding efficiency
+human understanding efficiency,
 
-rather than decorative slide generation.
+NOT decorative slide generation.
 
 ---
 
-# Core Vision
+# Runtime Vision
 
-Traditional AI slide tools focus on:
+Traditional AI slide systems focus on:
 
-- beautification
 - template filling
-- visual decoration
+- visual beautification
+- infographic generation
+- rendering automation
 
-This framework focuses on:
+This runtime focuses on:
 
-- cognitive communication
+- communication cognition
 - audience reasoning
-- narrative hierarchy
-- semantic rendering
-- adaptive layout intelligence
+- hierarchy orchestration
+- semantic stabilization
+- refinement continuity
+- validator-driven correction
+- cognition-aware rendering
+
+Presentations should feel:
+
+- editorial
+- restrained
+- strategically intentional
+- audience-aware
+- human-designed
 
 ---
 
-# Framework Architecture
+# Runtime Architecture
 
-## AI-native Presentation Architecture
+## AI-Native Cognition Runtime Architecture
 
 ![Framework Architecture](assets/framework_architecture.png)
 
 ---
 
-# Cognitive Rendering Pipeline
+# Runtime Cognition Pipeline
 
 ```text
-User Requirement
+User Intent
     ↓
-Audience Reasoning
+Audience Modeling
+    ↓
+Workflow Routing
+    ↓
+Skill Routing
     ↓
 Narrative Planning
     ↓
-Layout Intelligence
+Hierarchy Planning
     ↓
+Semantic Visual Mapping
+    ↓
+Runtime Validation
+    ↓
+Localized Refinement
+    ↓
+Self-Correction
+    ↓
+Executable Rendering
+```
+
+The runtime continuously preserves:
+
+- communication clarity
+- hierarchy stability
+- semantic consistency
+- audience adaptation
+- refinement continuity
+
+---
+
+# Runtime Behavior Demonstration
+
+## Same Content
+## Different Runtime Behaviors
+
+The runtime automatically changes:
+
+- hierarchy strategy
+- density regulation
+- terminology complexity
+- narrative pacing
+- visual semantics
+
+depending on:
+
+- audience cognition
+- workflow selection
+- communication objectives
+
+---
+
+## Undergraduate Teaching Runtime
+
+Prioritizes:
+
+- progressive explanation
+- low cognitive load
+- stronger visualization
+- conceptual clarity
+
+Presentation feeling:
+
+```text
+guided
+calm
+teaching-oriented
+```
+
+---
+
+## Scientific Runtime
+
+Prioritizes:
+
+- mechanism interpretation
+- evidence hierarchy
+- scientific readability
+- editorial restraint
+
+Presentation feeling:
+
+```text
+scientific
+interpretable
+publication-oriented
+```
+
+---
+
+## Faculty Interview Runtime
+
+Prioritizes:
+
+- professional trust
+- strategic communication
+- institutional readability
+- restrained hierarchy
+
+Presentation feeling:
+
+```text
+professional
+stable
+strategically calm
+```
+
+---
+
+# Validator-Driven Refinement Showcase
+
+Traditional AI systems behave as:
+
+```text
+generate
+↓
+output
+```
+
+This runtime behaves as:
+
+```text
+generate
+↓
+validate
+↓
+detect instability
+↓
+localized refinement
+↓
+revalidation
+↓
+stabilized communication output
+```
+
+The runtime continuously detects:
+
+- hierarchy collapse
+- semantic drift
+- audience overload
+- workflow fragmentation
+- infographic degeneration
+- presentation identity instability
+
+and performs:
+
+localized cognition repair.
+
+---
+
+# Runtime Self-Correction Showcase
+
+## Before Validation
+
+Typical AI-generated failure:
+
+- equal-weight hierarchy
+- dense infographic layouts
+- dashboard composition
+- decorative rendering
+- unstable reading flow
+
+---
+
+## Runtime Detection
+
+Validators identify:
+
+- cognitive overload
+- hierarchy instability
+- semantic inconsistency
+- audience mismatch
+
+---
+
+## Runtime Refinement
+
+The runtime performs:
+
+- hierarchy stabilization
+- density reduction
+- semantic repair
+- narrative restructuring
+- whitespace optimization
+
+---
+
+## Stabilized Output
+
+Final output becomes:
+
+- audience-aware
+- hierarchy-stable
+- semantically coherent
+- cognitively readable
+- editorially restrained
+
+---
+
+# Anti-AI-Slop Demonstration
+
+The runtime actively prevents:
+
+- infographic-heavy layouts
+- startup pitch aesthetics
+- SaaS dashboard composition
+- glowing futuristic rendering
+- decorative AI overproduction
+- equal-weight visual systems
+
+The runtime instead favors:
+
+- editorial hierarchy
+- restrained communication
+- semantic spacing
+- mechanism-centered storytelling
+- audience cognition guidance
+
+---
+
+# Persistent Continuity Showcase
+
+The runtime supports:
+
+multi-round iterative refinement
+without presentation identity collapse.
+
+The runtime preserves:
+
+- semantic systems
+- hierarchy structures
+- communication strategy
+- audience positioning
+- refinement continuity
+
+The runtime behaves as:
+
+a persistent cognition collaborator.
+
+---
+
+# Runtime Rendering Demonstration
+
+The runtime supports:
+
+```text
+Reasoning
+→
+Workflow Orchestration
+→
+Narrative Planning
+→
+Hierarchy Regulation
+→
 JSON Slide Schema
-    ↓
-Semantic Rendering Engine
-    ↓
-Executable HTML Presentation
+→
+Runtime Validation
+→
+Automatic HTML Rendering
+→
+Executable Presentation
 ```
 
 ---
@@ -108,154 +403,212 @@ Executable HTML Presentation
 
 ---
 
-# Automatic Rendering Demo
+# Executable Rendering Demonstration
 
-The framework supports:
-
-```text
-JSON
-→
-Automatic HTML Rendering
-→
-Executable Presentation Slides
-```
-
----
-
-# Rendering Demonstration
-
-## Example Rendered Slide
-
-The system automatically renders:
+The runtime automatically renders:
 
 - semantic mechanism diagrams
-- adaptive layouts
-- audience-oriented visual hierarchy
-- cognitive spacing systems
+- hierarchy-aware layouts
+- adaptive visual structures
+- audience-oriented spacing systems
+- cognitively guided slide compositions
 
-using structured JSON schemas.
+using:
+
+structured cognition schemas.
 
 ---
 
 # Rendering Intelligence
 
-The rendering engine supports:
+The runtime rendering engine supports:
 
 - semantic color mapping
-- adaptive layout balancing
+- adaptive hierarchy balancing
+- whitespace stabilization
 - collision avoidance
 - responsive positioning
-- hierarchy-aware rendering
+- focal hierarchy regulation
+- mechanism-centered rendering
+
+Rendering remains subordinate to:
+
+communication cognition.
 
 ---
 
-# Current System Modules
+# Runtime Validation Systems
 
-| Module | Status |
+The runtime includes executable validators for:
+
+| Runtime Validator | Function |
 |---|---|
-| Audience Reasoning Engine | ✅ |
-| Narrative Planning Engine | ✅ |
-| Layout Intelligence Engine | ✅ |
-| Semantic Rendering Engine | ✅ |
-| JSON Slide Schema | ✅ |
-| HTML Rendering Engine | ✅ |
-| Automatic Rendering Demo | ✅ |
+| cognition_validator | communication clarity |
+| hierarchy_validator | hierarchy stability |
+| semantic_validator | semantic consistency |
+| workflow_validator | workflow continuity |
+| refinement_validator | refinement integrity |
+| anti_ai_slop_validator | AI-artifact prevention |
+
+Validators continuously regulate:
+
+runtime cognition stability.
 
 ---
 
-# Research Direction
+# Current Runtime Capabilities
 
-This framework explores:
+| Capability | Status |
+|---|---|
+| Audience Modeling | ✅ |
+| Workflow Orchestration | ✅ |
+| Narrative Planning | ✅ |
+| Hierarchy Stabilization | ✅ |
+| Cognitive Density Regulation | ✅ |
+| Mechanism Storytelling | ✅ |
+| Runtime Validation | ✅ |
+| Self-Correction Logic | ✅ |
+| Persistent Cognition Continuity | ✅ |
+| JSON Rendering Pipeline | ✅ |
+| HTML Presentation Rendering | ✅ |
+| Localized Refinement | ✅ |
+| Anti-AI-Slop Regulation | ✅ |
+
+---
+
+# Educational & Scientific Focus
+
+The runtime is especially optimized for:
+
+- faculty interview presentations
+- scientific communication
+- mechanism explanation
+- undergraduate teaching
+- interdisciplinary storytelling
+- educational visualization
+- cognition-aware communication
+
+The runtime prioritizes:
+
+understanding quality
+over decorative sophistication.
+
+---
+
+# Runtime Research Direction
+
+This runtime explores:
 
 - AI-native communication systems
-- cognitive presentation intelligence
-- semantic layout generation
-- adaptive educational visualization
-- machine-readable narrative rendering
+- cognition-aware rendering
+- hierarchy stabilization systems
+- semantic layout reasoning
+- audience adaptation intelligence
+- self-correcting communication systems
+- persistent refinement systems
 
 ---
 
-# Future Development
+# Future Runtime Evolution
 
 Planned future capabilities:
 
-- SVG rendering engine
-- automatic PPTX export
-- responsive multi-slide generation
-- interactive presentation systems
-- AI-controlled storytelling
-- adaptive educational rendering
+- executable SVG cognition rendering
+- adaptive runtime hierarchy systems
+- validator-triggered automatic refinement
+- persistent presentation memory systems
+- multi-agent runtime orchestration
+- multimodal cognition routing
+- adaptive communication pacing
+
+Future development prioritizes:
+
+runtime stabilization
+over uncontrolled feature expansion.
 
 ---
 
-# Educational Focus
+# Runtime Philosophy
 
-The framework is especially designed for:
+Good presentations are NOT:
 
-- teaching presentations
-- scientific communication
-- mechanism explanation
-- cognitive visualization
-- educational storytelling
+decorative artifacts.
+
+They ARE:
+
+cognitive communication systems.
+
+The runtime optimizes:
+
+- understanding speed
+- hierarchy clarity
+- semantic interpretability
+- communication continuity
+- audience cognition stability
 
 ---
 
-# Long-term Goal
+# Runtime Status
+
+Current runtime stage:
+
+```text
+Phase 1 Runtime Architecture Complete
+```
+
+The runtime already supports:
+
+```text
+Reasoning
+→
+Workflow Orchestration
+→
+Narrative Planning
+→
+Hierarchy Stabilization
+→
+Runtime Validation
+→
+Localized Refinement
+→
+Automatic HTML Rendering
+```
+
+---
+
+# Long-Term Runtime Goal
 
 The long-term vision is to build:
 
-an AI-native presentation operating system
+an AI-native cognition runtime
+for orchestrating
+audience-aware communication systems.
 
-capable of generating:
+The runtime should eventually support:
 
-- structured slides
-- semantic visual systems
-- adaptive communication layouts
-- audience-aware presentation flows
+- adaptive cognition routing
+- self-correcting refinement
+- executable hierarchy rendering
+- multimodal communication reasoning
+- persistent collaboration
+- semantic stabilization
+- audience-aware storytelling
 
 from high-level human intent.
 
 ---
 
-# Philosophy
+# Final Runtime Principle
 
-Good presentations are not decorative artifacts.
-
-They are:
-
-cognitive communication systems.
-
----
-
-# Project Status
-
-Current stage:
-
-```text
-Prototype System
-```
-
-The framework already supports:
-
-```text
-Reasoning
-→ Narrative
-→ Layout
-→ JSON
-→ Automatic HTML Rendering
-```
-
----
-
-# Final Principle
-
-The goal is not:
+The goal is NOT:
 
 to generate prettier slides.
 
-The goal is:
+The goal IS:
 
 to help humans understand complex knowledge
 more clearly,
-more efficiently,
-and with lower cognitive burden.
+more naturally,
+and with lower cognitive burden
+through self-correcting,
+audience-aware communication orchestration.
