@@ -1,30 +1,32 @@
-# Presentation Skill Routing System
+# Presentation Cognition Runtime Routing System
 
-## Purpose
+## Runtime Identity
 
-This document defines how
-the AI presentation cognition framework
-should select,
-combine,
-and orchestrate
-presentation skills.
+This routing system is NOT:
+
+- a template selector
+- a feature combination engine
+- a style blending system
+- a visual routing pipeline
+- a presentation preset manager
+
+This routing system IS:
+
+an AI-native cognition runtime router
+for orchestrating
+scenario-adaptive communication systems.
 
 The objective is NOT:
+
 random skill blending.
 
 The objective IS:
-stable cognitive behavior routing
-for scenario-adaptive communication.
 
-This routing system controls:
-
-- workflow activation
-- audience adaptation
-- visual grammar selection
-- hierarchy behavior
-- density control
-- narrative strategy
-- revision orchestration
+stable cognition routing
+with audience-aware communication behavior,
+workflow continuity,
+hierarchy stability,
+and runtime self-correction.
 
 Skill routing should behave as:
 
@@ -32,9 +34,236 @@ cognitive communication orchestration.
 
 ---
 
+# Runtime Routing Philosophy
+
+Traditional AI routing systems optimize:
+
+- style matching
+- template switching
+- visual personalization
+- content-layout pairing
+
+This runtime optimizes:
+
+- cognition continuity
+- communication stability
+- hierarchy orchestration
+- audience adaptation
+- semantic consistency
+- narrative coherence
+- refinement continuity
+- workflow preservation
+
+Routing should feel:
+
+- intentional
+- editorially stable
+- cognitively mature
+- strategically restrained
+- human-designed
+
+---
+
+# Mandatory Runtime Initialization
+
+Before routing,
+the runtime MUST:
+
+- interpret communication intent
+- initialize audience cognition models
+- determine communication objectives
+- initialize workflow state
+- establish presentation identity
+- initialize hierarchy strategy
+- initialize semantic systems
+- activate runtime validators
+
+Routing MUST NOT begin immediately.
+
+The runtime MUST first establish:
+
+```text
+communication cognition state
+```
+
+---
+
+# Runtime Stack Coordination
+
+This routing system MUST coordinate:
+
+```text
+workflow/
+↓
+execution/
+↓
+schema/
+↓
+contracts/
+↓
+bridge/
+↓
+evaluation/
+↓
+runtime validators/
+↓
+showcase/
+```
+
+The runtime MUST preserve:
+
+- workflow continuity
+- semantic stability
+- hierarchy integrity
+- audience alignment
+- presentation identity
+- refinement continuity
+
+This routing system functions as:
+
+a cognition runtime orchestrator.
+
+---
+
+# Runtime Validator Integration
+
+Routing MUST continuously activate:
+
+## evaluation/runtime/cognition_validator.md
+
+for:
+
+- cognition integrity validation
+- audience adaptation validation
+- communication stability checking
+
+---
+
+## evaluation/runtime/hierarchy_validator.md
+
+for:
+
+- hierarchy continuity validation
+- focal stability checking
+- reading flow stabilization
+
+---
+
+## evaluation/runtime/semantic_validator.md
+
+for:
+
+- semantic consistency validation
+- visual meaning preservation
+- communication tone stabilization
+
+---
+
+## evaluation/runtime/workflow_validator.md
+
+for:
+
+- workflow continuity validation
+- cognition mode stabilization
+- routing coherence preservation
+
+---
+
+## evaluation/runtime/refinement_validator.md
+
+for:
+
+- refinement continuity validation
+- redesign prevention
+- routing stability preservation
+
+---
+
+## evaluation/runtime/anti_ai_slop_validator.md
+
+for:
+
+- startup aesthetic prevention
+- infographic-heavy routing prevention
+- dashboard layout prevention
+- decorative AI-slop prevention
+
+Routing behavior MUST remain:
+
+editorial,
+stable,
+and cognition-aware.
+
+---
+
+# Runtime Self-Correction
+
+The routing runtime MUST behave as:
+
+```text
+route
+↓
+evaluate
+↓
+detect cognition instability
+↓
+rebalance routing
+↓
+revalidate
+↓
+stabilized communication behavior
+```
+
+The runtime MUST continuously detect:
+
+- unstable skill dominance
+- hierarchy fragmentation
+- semantic drift
+- audience mismatch
+- workflow instability
+- routing overcomplexity
+- decorative routing escalation
+
+The runtime MUST avoid:
+
+- uncontrolled skill switching
+- contradictory communication behavior
+- template personality fragmentation
+- stateless routing behavior
+
+Routing should remain:
+
+stable and strategically interpretable.
+
+---
+
+# Persistent Collaboration
+
+The runtime MUST preserve:
+
+- routing continuity
+- presentation identity
+- semantic systems
+- workflow continuity
+- audience adaptation
+- refinement history
+- communication strategy
+
+The runtime MUST behave as:
+
+a persistent cognition collaborator.
+
+The runtime MUST NOT behave as:
+
+```text
+stateless style switching
+```
+
+---
+
 # Global Routing Philosophy
 
-The AI system must automatically determine:
+The runtime MUST automatically determine:
 
 - presentation scenario
 - audience structure
@@ -44,17 +273,19 @@ The AI system must automatically determine:
 - scientific complexity level
 - teaching accessibility needs
 
-The system must then select:
+The runtime MUST then select:
 
+- dominant workflow behavior
 - primary skill
 - secondary skill
 - supporting visual behavior
-- workflow activation path
+- hierarchy strategy
 - evaluation strategy
+- refinement orchestration path
 
 Rule:
 
-One skill must dominate.
+One skill MUST dominate.
 
 Secondary skills should support,
 NOT compete.
@@ -70,16 +301,17 @@ Avoid:
 
 # Routing Architecture
 
-Skill routing must coordinate:
+Routing MUST coordinate:
 
 ## workflow/
 
 Controls:
 
-- cognitive planning
+- cognition planning
 - revision logic
 - narrative sequencing
 - audience modeling
+- communication orchestration
 
 ---
 
@@ -91,6 +323,7 @@ Controls:
 - editorial restraint
 - communication tone
 - hierarchy personality
+- semantic behavior
 
 ---
 
@@ -102,6 +335,7 @@ Controls:
 - whitespace grammar
 - mechanism layout logic
 - visual reading flow
+- cognition pacing
 
 ---
 
@@ -113,12 +347,13 @@ Controls:
 - overload detection
 - hierarchy assessment
 - professionalism checking
+- accessibility validation
 
 Skills are NOT isolated modules.
 
 Skills are:
 
-cognitive orchestration layers.
+runtime cognition layers.
 
 ---
 
@@ -132,10 +367,11 @@ Primary skill determines:
 - density level
 - revision priority
 - audience adaptation logic
+- workflow personality
 
-The primary skill should control:
+The primary skill MUST control:
 
-most presentation behavior.
+most runtime behavior.
 
 ---
 
@@ -272,12 +508,14 @@ Secondary skills should:
 - stabilize weaknesses
 - improve adaptability
 - refine communication balance
+- preserve cognition continuity
 
-Secondary skills must NEVER:
+Secondary skills MUST NEVER:
 
 - override primary behavior
 - destabilize visual hierarchy
 - introduce conflicting tone
+- fragment workflow continuity
 
 ---
 
@@ -301,13 +539,17 @@ Effects:
 
 Common combinations:
 
+```text
 academic_skill
 +
 teaching_skill
+```
 
+```text
 interview_skill
 +
 teaching_skill
+```
 
 ---
 
@@ -329,13 +571,17 @@ Effects:
 
 Common combinations:
 
+```text
 interview_skill
 +
 academic_skill
+```
 
+```text
 teaching_skill
 +
 academic_skill
+```
 
 ---
 
@@ -357,13 +603,17 @@ Effects:
 
 Common combinations:
 
+```text
 academic_skill
 +
 interview_skill
+```
 
+```text
 teaching_skill
 +
 interview_skill
+```
 
 ---
 
@@ -443,9 +693,11 @@ Avoid:
 
 Prefer:
 
-- academic_skill dominance
-with
-teaching_skill support.
+```text
+academic_skill
++
+teaching_skill
+```
 
 Goal:
 
@@ -472,8 +724,14 @@ Use:
 Use:
 
 - interview_skill balance
+
 or
-academic_skill + teaching_skill blend
+
+```text
+academic_skill
++
+teaching_skill
+```
 
 Preferred for:
 
@@ -505,7 +763,7 @@ maximum-density manuscript simulation.
 
 # Workflow Routing
 
-Routing must activate appropriate workflows.
+Routing MUST activate appropriate workflows.
 
 ---
 
@@ -542,7 +800,7 @@ Activate:
 # Revision Routing
 
 During revision,
-the AI must determine whether feedback relates to:
+the runtime MUST determine whether feedback relates to:
 
 - teaching clarity
 - scientific hierarchy
@@ -551,45 +809,59 @@ the AI must determine whether feedback relates to:
 - strategic professionalism
 - narrative smoothness
 - visual calmness
+- workflow instability
+- semantic inconsistency
 
 Then prioritize:
 
-the corresponding skill behavior.
+the corresponding cognition behavior.
 
 ---
 
 # Example Revision Routing
 
+```text
 “Students may not understand this.”
 → teaching_skill revision behavior
+```
 
+```text
 “Scientific logic feels weak.”
 → academic_skill revision behavior
+```
 
+```text
 “This presentation feels unprofessional.”
 → interview_skill revision behavior
+```
 
+```text
 “Slides feel crowded.”
 → whitespace_patterns
 +
 hierarchy_patterns
+```
 
+```text
 “Mechanism is difficult to interpret.”
 → mechanism_layout_patterns
 +
 academic_skill
+```
 
 ---
 
 # Routing Stability Rules
 
-The system must preserve:
+The runtime MUST preserve:
 
 - narrative consistency
 - hierarchy consistency
 - visual atmosphere stability
 - audience adaptation coherence
 - controlled density behavior
+- workflow continuity
+- semantic consistency
 
 Avoid:
 
@@ -597,6 +869,7 @@ Avoid:
 - contradictory communication tone
 - mixed visual personalities
 - inconsistent pacing systems
+- routing fragmentation
 
 Routing should feel:
 
@@ -615,6 +888,8 @@ Strictly avoid:
 - startup visual contamination
 - infographic-heavy routing behavior
 - SaaS-style presentation structure
+- dashboard-style layouts
+- decorative escalation
 
 Skill routing should produce:
 
@@ -624,7 +899,7 @@ and communication-focused presentations.
 
 ---
 
-# Final Validation
+# Final Runtime Validation
 
 Before finalizing routing:
 
@@ -636,21 +911,26 @@ Check:
 - Is cognitive density appropriate?
 - Is hierarchy behavior coherent?
 - Is visual atmosphere consistent?
+- Is workflow continuity preserved?
+- Is semantic consistency stable?
 - Does the presentation avoid AI presentation clichés?
 
 If NO:
 
-simplify routing
-and rebalance skill dominance.
+simplify routing,
+rebalance skill dominance,
+and stabilize cognition behavior.
 
 ---
 
-# Routing Philosophy
+# Runtime Philosophy
 
 Skill routing is NOT:
+
 feature combination.
 
-Skill routing IS:
+It IS:
 
-cognitive behavior orchestration
-for high-quality communication engineering.
+a self-correcting cognition runtime
+for orchestrating
+high-quality communication systems.
