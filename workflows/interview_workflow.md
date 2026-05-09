@@ -1,325 +1,784 @@
-# Interview Presentation Workflow
+# Faculty Interview Workflow
 
 ## Purpose
 
-This workflow defines how an AI system should
-analyze, structure, and design
-academic interview presentations.
+This workflow defines how
+the AI presentation cognition system
+should orchestrate,
+structure,
+and refine
+faculty interview presentations
+through strategic academic communication engineering.
 
-The workflow prioritizes:
+The objective is NOT:
+academic self-promotion.
 
-- professionalism
-- teaching ability
-- research potential
-- audience trust
-- future development impression
+The objective IS:
+building professional trust,
+institutional credibility,
+and future potential perception
+through cognitively controlled presentation orchestration.
 
-NOT excessive self-promotion.
+Faculty interview presentations should help committees feel:
+
+- this candidate can teach
+- this candidate can communicate
+- this candidate has research potential
+- this candidate fits the institution
+- this candidate has long-term academic value
+
+Interview communication should feel:
+
+editorial,
+professionally calm,
+and institutionally mature.
 
 ---
 
-# Global Principle
+# Core Workflow Philosophy
 
-An interview presentation is NOT
-a research paper summary.
+Faculty interview presentations are NOT:
 
-It is:
+publication collections.
 
-- professional positioning
-- controlled self-presentation
-- cognitive persuasion
-- future potential communication
+They are:
 
-The audience should feel:
+academic positioning systems.
 
-- this person can teach
-- this person can grow
-- this person is professional
-- this person is understandable
-- this person fits the institution
+The workflow must orchestrate:
+
+- institutional adaptation
+- academic identity construction
+- strategic professionalism
+- teaching readability
+- research credibility
+- hierarchy stabilization
+- cognitive density control
+- iterative refinement
+
+The workflow should prioritize:
+
+trust
+before admiration.
+
+---
+
+# Global Workflow Structure
+
+The workflow must execute:
+
+Institution Analysis
+↓
+Audience Modeling
+↓
+Candidate Positioning
+↓
+Skill Routing
+↓
+Style Routing
+↓
+Reference Activation
+↓
+Example Grounding
+↓
+Narrative Planning
+↓
+Research Framework Planning
+↓
+Teaching Communication Planning
+↓
+Professional Hierarchy Planning
+↓
+Cognitive Density Regulation
+↓
+Evaluation
+↓
+Revision Loop
+↓
+Final Stabilization
+
+Generation must NEVER begin
+before orchestration planning completes.
 
 ---
 
 # Stage 1 — Institution Analysis
 
-AI should identify:
+The workflow must determine:
 
 - university level
 - department orientation
 - teaching emphasis
 - research emphasis
-- talent expectations
-
-Examples:
-
-Teaching-oriented universities:
-- stronger teaching focus
-- clearer explanation
-- lower theoretical density
-
-Research-oriented universities:
-- stronger mechanism logic
-- stronger innovation
-- stronger publication structure
+- interdisciplinary expectations
+- hiring priorities
+- institutional communication style
 
 ---
 
-# Stage 2 — Candidate Positioning
+## Teaching-Oriented Institutions
 
-AI should identify:
+Prefer:
 
-- candidate strengths
-- candidate weaknesses
-- strongest differentiator
-- safest positioning strategy
-
-Rule:
-
-Presentations should amplify strengths
-while avoiding unnecessary exposure
-of weaknesses.
-
-Example:
-
-If candidate lacks high-level publications:
-- emphasize mechanism understanding
-- emphasize interdisciplinary ability
-- emphasize teaching clarity
-- emphasize future growth potential
+- teaching clarity
+- intuitive explanation
+- educational accessibility
+- lower scientific density
 
 Avoid:
-- overclaiming
-- artificial exaggeration
-- unstable positioning
+
+- publication-heavy communication
+- intimidating scientific complexity
 
 ---
 
-# Stage 3 — Multi-skill Orchestration
+## Research-Oriented Institutions
 
-Interview presentations require
-multiple cognitive workflows simultaneously.
+Prefer:
 
-Recommended orchestration:
+- mechanism clarity
+- scientific continuity
+- interdisciplinary research value
+- future scalability
 
-| Workflow | Purpose |
-|---|---|
-| teaching_workflow | teaching clarity |
-| academic_workflow | research credibility |
-| storytelling_workflow | narrative smoothness |
-| visual_semantic_skill | professional visual language |
+Avoid:
 
-Rule:
-
-No single workflow should dominate excessively.
-
-The presentation should feel balanced.
+- shallow simplification
+- weak scientific positioning
 
 ---
 
-# Stage 4 — Narrative Structure
+## Mixed Institutions
 
-Recommended structure:
+Prefer:
 
-Personal Introduction
-→ Research Direction
-→ Mechanism / Contribution
-→ Teaching Philosophy
-→ Future Plan
-→ Closing Vision
+balanced communication.
 
-The narrative should feel:
+The workflow should balance:
 
+- teaching readability
+- research credibility
+- professional calmness
+
+Institution analysis must regulate:
+
+communication strategy.
+
+---
+
+# Stage 2 — Audience Modeling
+
+The workflow must determine:
+
+- evaluator expertise
+- teaching expectations
+- research expectations
+- attention capacity
+- institutional pressure
+- interdisciplinary tolerance
+
+Possible audience composition:
+
+- department faculty
+- teaching evaluators
+- research evaluators
+- administrative representatives
+- interdisciplinary committee members
+
+The workflow should continuously adapt:
+
+density
+and
+professional tone.
+
+---
+
+# Stage 3 — Candidate Positioning
+
+The workflow must identify:
+
+- strongest expertise
+- clearest research direction
+- interdisciplinary value
+- teaching strengths
+- safest strategic positioning
+- future development potential
+
+The workflow must determine:
+
+what academic identity
+should dominate communication.
+
+Avoid:
+
+equal emphasis
+on all achievements.
+
+---
+
+## Positioning Principles
+
+If publication strength is limited:
+
+emphasize:
+
+- mechanism understanding
+- interdisciplinary integration
+- teaching clarity
+- future growth trajectory
+- application relevance
+
+If research strength is strong:
+
+emphasize:
+
+- coherent research systems
+- scientific continuity
+- future expansion potential
+
+Avoid:
+
+- exaggerated positioning
+- unstable identity
+- artificial confidence
+
+Academic positioning should feel:
+
+credible
+and strategically restrained.
+
+---
+
+# Stage 4 — Skill Routing
+
+The workflow must activate:
+
+## Primary Skill
+
+interview_skill
+
+---
+
+## Secondary Skill
+
+academic_skill
+
+for:
+
+- scientific credibility
+- mechanism interpretation
+- research continuity
+
+Possible:
+
+teaching_skill
+
+for:
+
+- teaching demonstrations
+- undergraduate explanation
+- educational accessibility
+
+One skill MUST dominate.
+
+Secondary skills support:
+they do NOT override.
+
+---
+
+# Stage 5 — Style Routing
+
+The workflow must activate:
+
+## styles/faculty_interview/
+
+for:
+
+- editorial professionalism
+- institutional maturity
+- restrained academic communication
+
+Avoid:
+
+- startup pitch aesthetics
+- infographic-heavy layouts
+- glowing AI visuals
+- dashboard composition
+
+Faculty atmosphere should feel:
+
+human-designed
+and institutionally grounded.
+
+---
+
+# Stage 6 — Reference Activation
+
+The workflow must activate:
+
+## references/faculty_visual_language.md
+
+for:
+
+- professional hierarchy
+- academic visual behavior
+- institutional communication tone
+
+---
+
+## references/hierarchy_patterns.md
+
+for:
+
+- focal hierarchy
+- strategic sequencing
+- professional readability
+
+---
+
+## references/whitespace_patterns.md
+
+for:
+
+- editorial calmness
+- cognitive breathing rhythm
+- institutional maturity
+
+---
+
+## references/scientific_visual_language.md
+
+when research sections appear.
+
+---
+
+## references/teaching_visual_language.md
+
+when teaching sections appear.
+
+Reference systems must shape:
+
+professional cognition behavior.
+
+---
+
+# Stage 7 — Example Grounding
+
+The workflow must learn from:
+
+## examples/interview_case.md
+
+for:
+
+- grounded faculty layouts
+- institutional communication
+- strategic calmness
+
+---
+
+## examples/revision_case.md
+
+for:
+
+- iterative refinement
+- professionalism correction
+- hierarchy stabilization
+
+Grounded examples should influence:
+
+visual reasoning,
+NOT template copying.
+
+---
+
+# Stage 8 — Narrative Planning
+
+Preferred faculty narrative:
+
+Academic Background
+↓
+Research Positioning
+↓
+Representative Scientific Work
+↓
+Teaching Philosophy
+↓
+Future Research Direction
+↓
+Institutional Fit
+↓
+Closing Academic Vision
+
+Narrative should feel:
+
+- calm
+- coherent
 - progressive
-- stable
-- professional
-- confident
-- approachable
+- professionally mature
+- strategically balanced
 
 Avoid:
 
-- chaotic transitions
-- disconnected sections
+- fragmented storytelling
+- publication dumping
+- abrupt transitions
 - excessive self-praise
 
----
+The audience should perceive:
 
-# Stage 5 — Research Presentation Strategy
-
-Research sections should:
-
-- emphasize mechanisms
-- simplify unnecessary complexity
-- avoid excessive technical density
-- communicate scientific value clearly
-
-Interview committees often evaluate:
-
-- logic
-- future potential
-- communication ability
-
-not only publication quantity.
+a coherent academic trajectory.
 
 ---
 
-# Stage 6 — Teaching Demonstration Strategy
+# Stage 9 — Research Framework Planning
 
-Teaching sections should:
+Research sections should prioritize:
 
-- explain visually
-- simplify terminology
-- emphasize student cognition
-- use mechanism chains
-- maintain clear hierarchy
+- mechanism understanding
+- interdisciplinary integration
+- scientific continuity
+- future scalability
+- application relevance
 
-Preferred:
+Preferred framework behavior:
 
-- diagrams
-- process flow
-- semantic arrows
-- intuitive visual explanation
+- large research architecture diagrams
+- simplified interdisciplinary linkage
+- stable hierarchy
+- strategic evidence selection
+
+Preferred framework themes:
+
+- digital agriculture
+- water-soil-crop systems
+- rhizosphere ecology
+- remote sensing integration
+- spatial-temporal analysis
 
 Avoid:
 
-- text-heavy slides
-- equation overload
-- academic clutter
+- infographic workflows
+- crowded research systems
+- publication screenshot accumulation
+
+Frameworks should communicate:
+
+research vision.
 
 ---
 
-# Stage 7 — Professional Impression Control
+# Stage 10 — Teaching Communication Planning
 
-The presentation should visually communicate:
+Teaching ability must appear:
 
-- stability
-- clarity
-- professionalism
-- growth potential
-- academic compatibility
+visually
+and narratively.
 
-Preferred visual style:
+Preferred teaching behavior:
 
-- clean layouts
-- blue academic tones
-- controlled whitespace
-- moderate visual hierarchy
+- conceptual diagrams
+- intuitive explanations
+- progressive hierarchy
+- educational readability
+- approachable communication
 
 Avoid:
 
-- aggressive design
-- over-decoration
-- excessive animation
-- unstable color systems
+- intimidating scientific density
+- formula-heavy communication
+- excessive terminology
+
+Teaching sections should communicate:
+
+this candidate can teach clearly.
 
 ---
 
-# Stage 8 — Cognitive Density Control
+# Stage 11 — Professional Hierarchy Planning
 
-Interview committees review many candidates.
+Each slide should establish:
 
-Therefore:
+Strategic Message
+↓
+Dominant Framework
+↓
+Supporting Evidence
+↓
+Future Direction
+↓
+Professional Takeaway
 
-slides should:
+One slide should communicate:
 
-- communicate quickly
-- reduce overload
-- maintain strong focal points
-- emphasize memorable structure
-
-Rule:
-
-One slide
-=
-one major cognitive message.
-
----
-
-# Stage 9 — Defense Risk Reduction
-
-AI should reduce potential attack points.
+- one professional message
+- one academic signal
+- one interpretable framework
 
 Avoid:
 
-- exaggerated claims
-- unsupported future plans
-- visually inflated achievements
-- excessive technical claims
+- equal-weight layouts
+- publication grids
+- dashboard-like composition
+- crowded academic hierarchy
 
-Preferred:
+Hierarchy should guide:
+
+professional interpretation.
+
+---
+
+# Stage 12 — Cognitive Density Regulation
+
+Faculty interview density should remain:
+
+controlled moderate density.
+
+The workflow must continuously evaluate:
+
+- readability
+- terminology burden
+- evidence competition
+- hierarchy stability
+- interpretation effort
+
+If overload appears:
+
+- reduce evidence quantity
+- enlarge whitespace
+- simplify frameworks
+- isolate strategic messages
+- reduce annotation density
+
+Professional communication quality
+is more important
+than information quantity.
+
+---
+
+# Stage 13 — Institutional Fit Communication
+
+The workflow must communicate:
+
+- long-term development potential
+- interdisciplinary collaboration value
+- institutional relevance
+- realistic future plans
+
+Preferred communication behavior:
+
+- collaborative
+- realistic
+- future-oriented
+- strategically aligned
+
+Avoid:
+
+- exaggerated expansion plans
+- unrealistic ambition
+- institution-independent positioning
+
+Institutional fit should feel:
+
+natural,
+not forced.
+
+---
+
+# Stage 14 — Defense Awareness
+
+The workflow must reduce:
+
+potential evaluator concerns.
+
+Avoid:
+
+- unsupported claims
+- exaggerated achievements
+- inflated future plans
+- visually exaggerated science
+- unstable positioning
+
+Preferred behavior:
 
 - controlled confidence
-- evidence-supported conclusions
+- evidence-backed communication
 - realistic positioning
-- growth-oriented narrative
+- strategic restraint
+
+Professional credibility should feel:
+
+stable.
 
 ---
 
-# Stage 10 — Closing Strategy
+# Stage 15 — Prompt Engine Coordination
 
-The ending should communicate:
+The workflow must coordinate:
 
-- future potential
-- research continuity
-- teaching commitment
-- institutional fit
+## prompts/presentation_generation_engine.md
 
-The audience should leave with:
-
-a stable positive impression.
+as master orchestration.
 
 ---
 
-# Stage 11 — AI Rendering Guidance
+## prompts/faculty_interview_engine.md
 
-When generating interview presentations:
+for:
 
-AI should:
+- academic positioning
+- professional communication
+- institutional readability
 
-- balance teaching and research
-- prioritize readability
-- maintain academic professionalism
-- reduce cognitive overload
-- preserve narrative smoothness
-- emphasize candidate positioning
+---
 
-The goal is:
+## prompts/cognitive_density_engine.md
 
-professional cognitive persuasion.
+for:
 
-Not visual performance.
+- overload prevention
+- hierarchy stabilization
+
+---
+
+## prompts/revision_engine.md
+
+for:
+
+- iterative refinement
+- strategic correction
+
+---
+
+## prompts/slide_diagnosis_engine.md
+
+when communication failures appear.
+
+---
+
+# Stage 16 — Evaluation Activation
+
+Before finalization,
+the workflow must activate:
+
+## evaluation/README.md
+
+to validate:
+
+- academic positioning clarity
+- professionalism
+- teaching accessibility
+- hierarchy stability
+- institutional readability
+- cognitive density
+- communication effectiveness
+
+If evaluation fails:
+
+revision becomes mandatory.
+
+---
+
+# Stage 17 — Revision Loop
+
+If communication problems appear,
+the workflow must revise:
+
+- hierarchy instability
+- aggressive communication
+- overload
+- fragmented storytelling
+- weak teaching accessibility
+- unstable professional tone
+
+Preferred revision strategy:
+
+1. hierarchy clarification
+2. whitespace expansion
+3. framework simplification
+4. evidence reduction
+5. annotation restraint
+
+Avoid:
+
+adding more professional complexity.
+
+Reduction is preferred.
+
+---
+
+# Stage 18 — Final Stabilization
+
+Before final output,
+the workflow must ensure:
+
+- visual consistency
+- typography stability
+- semantic color coherence
+- hierarchy continuity
+- editorial professionalism
+- institutional atmosphere stability
+
+The presentation should feel:
+
+coherent,
+human-designed,
+and institutionally intentional.
+
+---
+
+# Anti-AI-Slop Rules
+
+Strictly avoid:
+
+- startup pitch decks
+- SaaS card systems
+- infographic-heavy academic layouts
+- glowing AI academic visuals
+- consultant dashboard aesthetics
+- decorative scientific overproduction
+
+The presentation should NEVER feel:
+
+AI-template-generated.
+
+The presentation should feel:
+
+editorial,
+professionally grounded,
+and institutionally mature.
 
 ---
 
 # Final Validation
 
-Before finalizing presentation:
+Before finalizing:
 
 Check:
 
-- Is candidate positioning clear?
-- Is the narrative stable?
-- Is professionalism visible?
-- Is teaching ability understandable?
-- Is research logic coherent?
-- Is cognitive load controlled?
+- Is academic positioning immediately obvious?
+- Does the presentation feel professionally calm?
+- Is teaching capability visually understandable?
+- Is hierarchy stable?
+- Is whitespace sufficient?
+- Does the presentation avoid achievement dumping?
+- Does communication feel institutionally credible?
+- Does the workflow avoid AI faculty clichés?
 
 If NO:
 
-simplify and rebalance.
+continue refinement.
 
 ---
 
 # Workflow Philosophy
 
-A strong interview PPT does not
-attempt to impress through complexity.
+Faculty interview workflows are NOT:
+academic self-presentation pipelines.
 
-It creates:
+They ARE:
 
+strategic academic cognition orchestration systems
+for building
 trust,
 clarity,
-and future potential.
-
-Interview presentation design is:
-
-professional cognition engineering.
+and future potential perception.
