@@ -1,330 +1,755 @@
-# Interview Skill
+# Interview Skill System
 
 ## Purpose
 
-This skill controls how AI should
-design and revise
+This skill system controls how
+the AI presentation cognition framework
+should generate,
+structure,
+revise,
+and optimize
 academic interview presentations.
 
-The objective is:
+The objective is NOT:
+aggressive self-promotion.
 
-maximize professional trust,
-research credibility,
-teaching clarity,
-and future potential communication.
+The objective IS:
+strategic academic communication
+with restrained professional credibility.
 
-NOT aggressive self-promotion.
+This skill must integrate:
+
+- workflow cognition
+- institutional communication psychology
+- academic positioning
+- visual hierarchy routing
+- professional calmness
+- teaching readability
+- future potential communication
+
+Interview presentation generation should behave as:
+
+professional cognition engineering.
 
 ---
 
-# Primary Usage
+# Global Skill Identity
 
-Use for:
+This skill governs:
 
 - faculty interviews
 - academic recruitment presentations
 - teaching demonstrations
 - job talks
-- institutional presentations
 - candidate introduction presentations
+- institutional presentations
+- interdisciplinary positioning presentations
+- future research plan presentations
+
+The system should prioritize:
+
+- professional trust
+- academic maturity
+- teaching clarity
+- strategic positioning
+- institutional compatibility
+- communication stability
+
+NOT:
+
+- achievement dumping
+- exaggerated self-promotion
+- decorative academic aesthetics
+- startup-style presentation behavior
+- visually aggressive scientific density
 
 ---
 
-# Core Cognitive Objective
+# Workflow Integration
 
-Interview presentations should help audience feel:
+This skill must automatically activate:
 
-- this person can teach
-- this person can communicate
-- this person has research potential
-- this person fits the institution
-- this person is professionally stable
+## workflow/revision_workflow.md
 
-The presentation should feel:
+for:
 
-- balanced
-- professional
-- approachable
-- scientifically credible
-- strategically controlled
+- hierarchy refinement
+- communication stabilization
+- cognitive density reduction
+- professional readability optimization
 
 ---
 
-# Audience Strategy
+## workflow/interview_workflow.md
 
-Default audience:
+for:
 
-- interview committees
-- department faculty
-- mixed academic panels
-- teaching-focused evaluators
-- research-focused evaluators
+- academic positioning
+- institutional alignment
+- strategic narrative planning
+- audience expectation modeling
 
-Adjust presentation based on:
+---
 
-- institution orientation
+## evaluation/README.md
+
+for:
+
+- professionalism evaluation
+- cognitive pressure checking
+- hierarchy validation
+- strategic communication assessment
+
+Interview generation must NEVER bypass:
+
+cognitive communication planning.
+
+---
+
+# Style Routing Integration
+
+Primary style:
+
+## faculty_interview
+
+Controls:
+
+- strategic professionalism
+- restrained hierarchy
+- editorial calmness
+- institutional readability
+- low visual aggression
+
+---
+
+# Secondary Style Routing
+
+When presentation contains:
+
+- scientific mechanisms
+- research-heavy content
+- evidence interpretation
+
+Blend:
+
+## sci_top_journal
+
+to strengthen:
+
+- scientific credibility
+- mechanism hierarchy
+- evidence interpretation
+- figure-centered communication
+
+---
+
+When presentation contains:
+
+- teaching demonstrations
+- undergraduate explanation
+- educational communication
+
+Blend:
+
+## teaching_clean
+
+to strengthen:
+
+- cognitive accessibility
+- teaching readability
+- visual explanation clarity
+- approachable communication
+
+---
+
+# Reference Routing Integration
+
+This skill must automatically apply:
+
+## references/hierarchy_patterns.md
+
+for:
+
+- message-centered hierarchy
+- professional focal control
+- strategic visual sequencing
+
+---
+
+## references/whitespace_patterns.md
+
+for:
+
+- editorial calmness
+- professional breathing rhythm
+- institutional readability
+
+---
+
+## references/faculty_visual_language.md
+
+for:
+
+- academic visual tone
+- strategic communication behavior
+- institutional maturity
+
+---
+
+## references/scientific_visual_language.md
+
+when scientific sections appear.
+
+---
+
+## references/teaching_visual_language.md
+
+when teaching sections appear.
+
+Interview generation should follow:
+
+visual cognition protocols,
+NOT arbitrary aesthetics.
+
+---
+
+# Audience Modeling Strategy
+
+Default audiences include:
+
+- faculty committees
+- department professors
+- interdisciplinary panels
+- teaching evaluators
+- research evaluators
+- institutional leadership
+
+The system must evaluate:
+
+- institutional orientation
 - teaching emphasis
-- research expectations
-- candidate strengths
-- evaluation pressure
+- research expectation level
+- interdisciplinary preference
+- candidate evaluation pressure
+
+Communication strategy should adapt dynamically.
 
 ---
 
-# Narrative Strategy
+# Cognitive Objective Strategy
 
-Preferred structure:
+Each interview slide must establish:
 
-Personal Background
-→ Research Direction
-→ Scientific Contribution
-→ Teaching Philosophy
-→ Future Plan
-→ Institutional Fit
+- one professional message
+- one academic impression
+- one strategic takeaway
 
-Narrative should feel:
+Slides should rapidly communicate:
 
-- progressive
-- coherent
-- stable
-- confident
-- realistic
+- who the candidate is
+- what research direction matters
+- what teaching capability exists
+- what future potential is visible
 
 Avoid:
 
-- excessive self-praise
-- disconnected sections
-- exaggerated achievements
-- unstable positioning
+- multi-focus communication
+- publication accumulation
+- excessive technical overload
+- fragmented academic storytelling
 
 ---
 
-# Positioning Strategy
+# Academic Positioning Strategy
 
 Interview presentations should amplify:
 
 - strongest expertise
 - clearest research direction
-- interdisciplinary value
+- interdisciplinary integration
 - communication ability
 - teaching clarity
-- future growth potential
+- future development potential
 
-Avoid exposing:
+Positioning should feel:
 
-- unnecessary weaknesses
-- unsupported claims
-- unstable academic positioning
-
-Preferred impression:
-
-- reliable
-- understandable
-- growth-oriented
+- realistic
+- confident
+- stable
 - collaborative
+- institutionally appropriate
+
+Avoid:
+
+- exaggerated positioning
+- unsupported claims
+- unstable academic identity
+- artificial sophistication
+
+Academic positioning should feel:
+
+trustworthy.
 
 ---
 
-# Research Presentation Strategy
+# Narrative Strategy
+
+Preferred narrative structure:
+
+Academic Background
+↓
+Research Direction
+↓
+Scientific Contribution
+↓
+Teaching Capability
+↓
+Future Development
+↓
+Institutional Compatibility
+
+Narratives should feel:
+
+- progressive
+- coherent
+- calm
+- strategically controlled
+- cognitively smooth
+
+Avoid:
+
+- disconnected sections
+- abrupt transitions
+- achievement dumping
+- unstable narrative pacing
+
+The audience should feel:
+
+the candidate has a clear trajectory.
+
+---
+
+# Research Communication Strategy
 
 Research sections should prioritize:
 
 - mechanism understanding
-- scientific logic
-- research continuity
-- future potential
+- scientific continuity
+- research logic
 - interdisciplinary integration
+- future scalability
+
+Preferred research communication:
+
+Problem
+↓
+Mechanism
+↓
+Evidence
+↓
+Contribution
+↓
+Future Potential
 
 Interview committees evaluate:
 
+- scientific maturity
 - communication quality
-- logic
-- teaching ability
-- future development potential
+- research trajectory
+- long-term potential
 
-not only publication quantity.
+NOT publication quantity alone.
 
 ---
 
-# Teaching Presentation Strategy
+# Teaching Communication Strategy
 
 Teaching-related slides should prioritize:
 
 - intuitive explanation
 - progressive cognition
+- approachable hierarchy
 - visual teaching support
-- clear hierarchy
-- approachable communication
+- educational readability
 
-Preferred visuals:
+Preferred teaching visuals:
 
-- diagrams
-- mechanism flow
+- conceptual diagrams
+- process explanation
 - semantic arrows
-- conceptual explanation
-- annotated visuals
+- annotated mechanisms
+- simplified frameworks
 
 Avoid:
 
-- text-heavy layouts
-- excessive formulas
-- dense scientific clutter
+- formula-heavy layouts
+- dense scientific explanation
+- intimidating academic density
+
+Teaching communication should feel:
+
+clear,
+approachable,
+and professionally mature.
 
 ---
 
-# Visual Strategy
+# Strategic Hierarchy Strategy
 
-Preferred layout feeling:
+Interview slides should establish:
 
-- restrained
-- clean
-- professional
-- balanced
-- stable
+Message
+↓
+Supporting framework
+↓
+Selective evidence
+↓
+Implication
 
-Preferred visual characteristics:
+Hierarchy should prioritize:
 
-- controlled whitespace
-- consistent typography
-- academic blue tones
-- moderate hierarchy
-- stable visual rhythm
+- strategic readability
+- professional calmness
+- audience interpretation speed
+- institutional readability
 
 Avoid:
 
-- flashy animations
-- infographic aesthetics
-- visually aggressive design
-- unstable color systems
+- equal-weight composition
+- chart-heavy dominance
+- crowded academic dashboards
+
+Professional understanding should occur:
+
+within seconds.
+
+---
+
+# Visual Composition Strategy
+
+Preferred visual structures:
+
+- editorial layouts
+- framework-centered composition
+- restrained comparison structures
+- message-supported figures
+- strategic whitespace systems
+
+Preferred visual feeling:
+
+- calm
+- mature
+- restrained
+- professionally stable
+- editorially clean
+
+Avoid:
+
+- infographic-heavy aesthetics
+- startup pitch layouts
+- glowing AI visuals
+- decorative scientific rendering
+- aggressive consulting deck behavior
+
+Interview visuals should feel:
+
+human-designed
+and institutionally credible.
+
+---
+
+# Figure Strategy
+
+Figures should support:
+
+strategic understanding.
+
+Preferred figure behavior:
+
+- selective usage
+- simplified scientific explanation
+- strategic positioning
+- message-supported hierarchy
+
+Preferred figures:
+
+- research frameworks
+- conceptual diagrams
+- interdisciplinary structures
+- simplified evidence summaries
+- teaching illustrations
+
+Avoid:
+
+- publication screenshot dumping
+- dense statistical collections
+- visually aggressive chart systems
+
+Figures should communicate:
+
+research identity,
+not visual complexity.
+
+---
+
+# Annotation Strategy
+
+Annotations should:
+
+- guide interpretation
+- support professionalism
+- clarify frameworks
+- simplify mechanisms
+
+Preferred annotation behavior:
+
+- concise
+- directional
+- visually restrained
+- strategically selective
+
+Avoid:
+
+- annotation overload
+- dense scientific notation
+- paragraph explanations
+
+Annotations should support:
+
+clarity,
+not density.
 
 ---
 
 # Cognitive Density Strategy
 
-Interview presentations should prioritize:
+Interview presentations should maintain:
 
-- fast readability
-- controlled density
-- strong focal points
-- memorable structure
-- concise explanation
+controlled moderate density.
 
 One slide should communicate:
 
-- one strategic message
-- one professional impression
-- one clear contribution
+- one strategic contribution
+- one professional signal
+- one interpretable idea
 
-Avoid:
+If overloaded:
 
-- information stacking
-- excessive detail
-- multi-focus layouts
+- simplify structure
+- reduce detail
+- enlarge focal elements
+- increase whitespace
+- separate mechanisms progressively
+
+Professional communication quality
+is more important
+than information quantity.
 
 ---
 
-# Interview Revision Behavior
+# Whitespace Strategy
 
-When revising interview presentations:
+Interview slides require:
 
-prioritize:
+editorial breathing space.
+
+Whitespace should support:
 
 - professionalism
-- readability
-- strategic balance
-- teaching clarity
-- research coherence
-- institutional compatibility
+- calm hierarchy
+- strategic clarity
+- audience comfort
 
-Common revision goals:
+Avoid:
 
-- simplify complexity
-- strengthen positioning
-- stabilize hierarchy
-- improve communication flow
-- reduce cognitive pressure
+- compressed academic layouts
+- consultant-style density
+- crowded scientific structure
+- edge-to-edge composition
+
+Whitespace communicates:
+
+confidence
+and
+institutional maturity.
+
+---
+
+# Faculty Color Strategy
+
+Colors should communicate:
+
+professional tone
+and
+semantic meaning.
+
+Preferred semantic colors:
+
+Deep Blue:
+academic rigor,
+technology,
+professional structure
+
+Green:
+agriculture,
+ecology,
+sustainability
+
+Warm Gray:
+editorial calmness,
+professional balance
+
+Orange:
+limited emphasis,
+key contribution,
+important transitions
+
+Avoid:
+
+- excessive saturation
+- startup AI palettes
+- glowing gradients
+- visually aggressive contrast systems
+
+Interview palettes should remain:
+
+restrained
+and institutionally stable.
+
+---
+
+# Typography Strategy
+
+Typography should feel:
+
+- editorial
+- calm
+- restrained
+- professionally mature
+
+Preferred typography behavior:
+
+- concise titles
+- stable hierarchy
+- moderate density
+- restrained emphasis
+
+Avoid:
+
+- oversized aggressive typography
+- decorative fonts
+- startup-style bold systems
+- visually loud presentation behavior
+
+Typography should communicate:
+
+academic stability.
+
+---
+
+# Revision Strategy
+
+When revising interview presentations,
+prioritize:
+
+1. professional calmness
+2. strategic readability
+3. academic positioning clarity
+4. teaching accessibility
+5. hierarchy stabilization
+6. density reduction
+7. narrative smoothness
 
 Avoid:
 
 - unnecessary redesign
-- overclaiming
-- decorative complexity
-- unstable narrative transitions
+- decorative overproduction
+- exaggerated sophistication
+- excessive visual restructuring
+
+Revision should improve:
+
+trust
+and
+communication clarity.
 
 ---
 
-# Visual Semantic Strategy
+# Anti-AI-Slop Interview Rules
 
-Recommended semantic colors:
+Strictly avoid:
 
-blue:
-- professionalism
-- technology
-- academic stability
+- startup pitch aesthetics
+- SaaS card systems
+- glowing AI effects
+- infographic-heavy layouts
+- consultant dashboard visuals
+- decorative 3D academic graphics
 
-green:
-- agriculture
-- ecology
-- sustainability
+Interview presentations should feel:
 
-orange:
-- emphasis
-- contribution
-- strategic highlight
-
-Colors should communicate meaning,
-not decoration.
+editorial,
+human,
+and institutionally mature.
 
 ---
 
-# Rendering Preference
+# Rendering Strategy
 
-Slides should:
+Slides must remain:
 
-- remain editable
-- preserve professional hierarchy
-- support strategic communication
-- guide audience attention naturally
-- maintain institutional compatibility
+- editable
+- structurally stable
+- professionally organized
+- hierarchy-safe
+- revision-friendly
 
-Preferred typography feeling:
+Layouts and figures should remain:
 
-- stable
-- restrained
-- readable
-- professional
+- logically grouped
+- spacing-consistent
+- compositionally stable
+
+Avoid:
+
+- flattened rendering
+- screenshot-heavy layouts
+- unstable grouping systems
+
+Rendering should support:
+
+future academic revision.
 
 ---
 
 # Final Validation
 
-Before finalizing interview slides:
+Before finalizing:
 
 Check:
 
-- Is candidate positioning clear?
-- Is professionalism visible?
+- Is academic positioning obvious?
+- Does the presentation feel professionally calm?
 - Is teaching ability understandable?
-- Is research logic coherent?
-- Is cognitive load controlled?
-- Is narrative progression smooth?
+- Is research direction coherent?
+- Is cognitive pressure controlled?
+- Is hierarchy visually stable?
+- Does the presentation feel institutionally credible?
+- Does the slide avoid AI presentation clichés?
 
 If NO:
 
-simplify and rebalance.
+simplify,
+rebalance,
+and reduce aggression.
 
 ---
 
 # Skill Philosophy
 
-Interview presentation design is:
+Interview presentation generation is NOT:
+academic self-promotion.
 
-professional cognition engineering.
+It IS:
 
-The objective is not
-to impress through complexity.
-
-The objective is:
-
-trust,
-clarity,
-and future potential communication.
+strategic academic communication engineering.
