@@ -1,23 +1,40 @@
-# Teaching Skill
+# Teaching Skill System
 
 ## Purpose
 
-This skill controls how AI should
-design and revise
+This skill system controls how
+the AI presentation cognition framework
+should generate,
+structure,
+revise,
+and optimize
 teaching-oriented presentations.
 
-The objective is:
+The objective is NOT:
+maximum information quantity.
 
-maximize audience understanding
-through cognitively clear communication.
+The objective IS:
+cognitively accessible teaching communication
+with intuitive visual explanation.
 
-NOT maximize information quantity.
+This skill must integrate:
+
+- workflow cognition
+- teaching psychology
+- cognitive load control
+- visual teaching grammar
+- progressive explanation systems
+- educational readability
+
+Teaching presentation generation should behave as:
+
+cognitive learning engineering.
 
 ---
 
-# Primary Usage
+# Global Skill Identity
 
-Use for:
+This skill governs:
 
 - undergraduate teaching
 - classroom lectures
@@ -25,214 +42,713 @@ Use for:
 - educational workshops
 - introductory explanations
 - concept teaching
+- scientific teaching presentations
+- teaching-oriented academic communication
+
+The system should prioritize:
+
+- intuitive understanding
+- progressive explanation
+- teaching clarity
+- visual guidance
+- cognitive accessibility
+- educational readability
+
+NOT:
+
+- textbook dumping
+- scientific overload
+- decorative educational aesthetics
+- visually dense academic layouts
+- AI-generated infographic teaching
 
 ---
 
-# Core Cognitive Objective
+# Workflow Integration
 
-Teaching presentations should help audience:
+This skill must automatically activate:
 
-- understand quickly
-- follow naturally
-- remember key concepts
-- reduce interpretation difficulty
+## workflow/revision_workflow.md
 
-The presentation should feel:
+for:
 
-- intuitive
-- progressive
-- visually guided
-- cognitively comfortable
+- teaching simplification
+- cognitive load reduction
+- hierarchy clarification
+- readability optimization
 
 ---
 
-# Audience Strategy
+## workflow/teaching_workflow.md
 
-Default audience:
+for:
+
+- audience modeling
+- progressive explanation planning
+- educational pacing
+- cognitive objective extraction
+
+---
+
+## evaluation/README.md
+
+for:
+
+- cognitive accessibility validation
+- overload detection
+- teaching readability evaluation
+- hierarchy checking
+
+Teaching generation must NEVER bypass:
+
+cognitive teaching planning.
+
+---
+
+# Style Routing Integration
+
+Primary style:
+
+## teaching_clean
+
+Controls:
+
+- educational readability
+- cognitive calmness
+- progressive explanation rhythm
+- visual teaching guidance
+- low cognitive pressure
+
+---
+
+# Secondary Style Routing
+
+When presentation includes:
+
+- scientific mechanisms
+- advanced academic explanation
+- research-related teaching
+
+Blend:
+
+## sci_top_journal
+
+to strengthen:
+
+- mechanism hierarchy
+- scientific credibility
+- evidence interpretation
+- conceptual scientific structure
+
+---
+
+When presentation includes:
+
+- interview teaching demonstrations
+- academic recruitment teaching
+- institutional evaluation scenarios
+
+Blend:
+
+## faculty_interview
+
+to strengthen:
+
+- professional calmness
+- strategic communication
+- institutional readability
+
+---
+
+# Reference Routing Integration
+
+This skill must automatically apply:
+
+## references/hierarchy_patterns.md
+
+for:
+
+- teaching hierarchy stabilization
+- visual focal control
+- progressive explanation sequencing
+
+---
+
+## references/whitespace_patterns.md
+
+for:
+
+- cognitive breathing space
+- readability enhancement
+- educational calmness
+
+---
+
+## references/teaching_visual_language.md
+
+for:
+
+- teaching-oriented visual grammar
+- educational visual pacing
+- conceptual explanation systems
+
+---
+
+## references/mechanism_layout_patterns.md
+
+when scientific mechanisms appear.
+
+---
+
+## references/scientific_visual_language.md
+
+when advanced scientific explanation appears.
+
+Teaching generation should follow:
+
+visual cognition protocols,
+NOT arbitrary educational aesthetics.
+
+---
+
+# Audience Modeling Strategy
+
+Default audiences include:
 
 - undergraduate students
-- mixed teaching audience
-- non-expert learners
+- beginner learners
+- mixed teaching audiences
+- non-expert scientific audiences
 
-Adjust presentation based on:
+The system must evaluate:
 
 - expertise level
+- terminology familiarity
 - attention span
 - cognitive tolerance
-- terminology familiarity
+- scientific background
+
+Teaching complexity should adapt dynamically.
+
+---
+
+# Cognitive Objective Strategy
+
+Each teaching slide must establish:
+
+- one dominant concept
+- one learning objective
+- one memorable takeaway
+
+Slides should rapidly communicate:
+
+- what this concept means
+- why it matters
+- how it works
+
+Avoid:
+
+- simultaneous multi-concept explanation
+- excessive detail accumulation
+- fragmented educational structure
+- equal-weight information competition
+
+Teaching communication should feel:
+
+guided
+and progressively understandable.
 
 ---
 
 # Narrative Strategy
 
-Preferred structure:
+Preferred teaching narrative:
 
 Problem
-→ Principle
-→ Process
-→ Example
-→ Result
-→ Summary
+↓
+Principle
+↓
+Process
+↓
+Example
+↓
+Interpretation
+↓
+Summary
 
-Narrative should feel:
+Narratives should feel:
 
-- step-by-step
-- easy to follow
+- progressive
 - visually supported
-- progressively simplified
+- step-by-step
+- cognitively smooth
+- educationally approachable
 
 Avoid:
 
-- textbook dumping
 - abrupt transitions
-- excessive abstraction
-- fragmented explanation
+- textbook-style dumping
+- unexplained scientific jumps
+- abstract explanation without examples
+
+Teaching storytelling should feel:
+
+guided,
+not compressed.
 
 ---
 
-# Visual Strategy
+# Concept Communication Strategy
 
-Preferred visuals:
+Teaching slides should prioritize:
 
-- diagrams
-- process flow
-- annotated figures
-- comparisons
-- conceptual illustrations
-- semantic arrows
+- concept clarity
+- process understanding
+- visual explanation
+- intuitive examples
+- simplified mechanism interpretation
 
-Preferred layout feeling:
+Preferred explanation order:
 
-- open
-- readable
-- visually balanced
-- low cognitive pressure
+Introduce
+↓
+Visualize
+↓
+Explain
+↓
+Apply
+↓
+Summarize
 
 Avoid:
 
-- dense tables
-- paragraph-heavy slides
-- excessive formulas
-- academic clutter
+- definition-only teaching
+- excessive abstraction
+- terminology overload
+- formula-centered explanation
+
+Concepts are remembered better
+through visual understanding.
+
+---
+
+# Teaching Hierarchy Strategy
+
+Slides must establish:
+
+Concept
+↓
+Visual explanation
+↓
+Supporting example
+↓
+Key takeaway
+
+Hierarchy should prioritize:
+
+- concept visibility
+- diagram dominance
+- stable reading flow
+- progressive cognition
+
+Avoid:
+
+- equal-weight layouts
+- dense academic hierarchy
+- crowded teaching composition
+
+Teaching hierarchy should guide:
+
+attention
+before
+interpretation.
+
+---
+
+# Visual Composition Strategy
+
+Preferred visual structures:
+
+- conceptual diagrams
+- process flow systems
+- comparison layouts
+- annotated illustrations
+- simplified mechanisms
+- teaching-oriented frameworks
+
+Preferred visual feeling:
+
+- open
+- calm
+- approachable
+- visually balanced
+- educationally clear
+
+Avoid:
+
+- infographic-heavy educational layouts
+- startup-style teaching visuals
+- decorative educational effects
+- dense scientific panels
+- visually noisy classroom slides
+
+Teaching visuals should feel:
+
+human-designed
+and cognitively supportive.
+
+---
+
+# Diagram Strategy
+
+Diagrams should function as:
+
+teaching communication anchors.
+
+Preferred diagram behavior:
+
+- central positioning
+- progressive explanation
+- semantic arrows
+- simplified structure
+- annotation-supported interpretation
+
+Preferred visuals:
+
+- mechanism simplification
+- conceptual flow
+- comparison explanation
+- process demonstration
+- environmental interaction
+
+Avoid:
+
+- dense publication figures
+- tiny embedded diagrams
+- statistical chart overload
+- visually intimidating scientific graphics
+
+Diagrams should improve:
+
+understanding speed.
+
+---
+
+# Annotation Strategy
+
+Annotations should:
+
+- guide learning
+- clarify concepts
+- support process understanding
+- simplify interpretation
+
+Preferred annotation behavior:
+
+- concise
+- directional
+- visually obvious
+- educationally clear
+
+Avoid:
+
+- annotation overload
+- paragraph explanations
+- dense scientific notation
+- excessive terminology
+
+Annotations should explain:
+
+relationships,
+not complicate them.
 
 ---
 
 # Cognitive Density Strategy
 
-Teaching slides should prioritize:
+Teaching presentations should maintain:
 
-- low to medium density
-- one concept per slide
-- clear focal points
-- stable reading flow
+low-to-moderate cognitive density.
 
-If information becomes overloaded:
+One slide should communicate:
+
+- one concept
+- one process
+- one key understanding
+
+If overloaded:
 
 - split slides
-- simplify concepts
-- increase visual explanation
+- enlarge visuals
+- reduce terminology
+- simplify mechanisms
+- increase whitespace
 
-Reduction is preferred over overload.
+Teaching quality is more important
+than information completeness.
 
 ---
 
-# Teaching Revision Behavior
+# Whitespace Strategy
 
-When revising teaching slides:
+Teaching slides require:
 
-prioritize:
+high cognitive breathing space.
 
-- clarity improvement
-- simplification
-- progressive explanation
-- visual teaching support
-- cognitive accessibility
+Whitespace should support:
 
-Common revision goals:
-
-- reduce terminology
-- simplify layouts
-- add visual explanation
-- improve teaching rhythm
+- readability
+- concept isolation
+- visual calmness
+- attention stability
 
 Avoid:
 
-- increasing scientific complexity
-- adding unnecessary information
-- excessive decorative visuals
+- compressed layouts
+- crowded diagrams
+- dense bullet stacking
+- edge-to-edge composition
+
+Whitespace improves:
+
+learning comfort.
 
 ---
 
-# Visual Semantic Strategy
+# Teaching Color Strategy
 
-Recommended semantic colors:
+Colors should communicate:
 
-green:
-- ecology
-- agriculture
-- vegetation
+educational meaning
+and
+conceptual emphasis.
 
-blue:
-- technology
-- water
-- GIS
-- science
+Preferred semantic colors:
 
-orange:
-- emphasis
-- warning
-- stress
+Green:
+ecology,
+agriculture,
+vegetation,
+biological interaction
 
-Colors should communicate meaning,
-not decoration.
+Blue:
+technology,
+water,
+GIS,
+scientific explanation
+
+Orange:
+emphasis,
+warning,
+important concepts
+
+Avoid:
+
+- rainbow palettes
+- decorative gradients
+- excessive saturation
+- visually noisy educational coloring
+
+Teaching palettes should remain:
+
+clear,
+friendly,
+and semantically stable.
 
 ---
 
-# Rendering Preference
+# Typography Strategy
 
-Slides should:
+Typography should feel:
 
-- remain editable
-- preserve teaching hierarchy
-- support audience attention
-- guide reading naturally
-
-Preferred typography feeling:
-
-- clean
-- approachable
 - readable
-- stable
+- calm
+- approachable
+- educationally stable
+
+Preferred typography behavior:
+
+- concise titles
+- short explanatory text
+- generous spacing
+- restrained emphasis
+
+Avoid:
+
+- textbook paragraphs
+- decorative fonts
+- aggressive typography
+- visually noisy educational text systems
+
+Typography should support:
+
+learning accessibility.
+
+---
+
+# Revision Strategy
+
+When revising teaching presentations,
+prioritize:
+
+1. clarity improvement
+2. concept simplification
+3. teaching readability
+4. visual explanation enhancement
+5. hierarchy stabilization
+6. cognitive pressure reduction
+7. educational pacing improvement
+
+Avoid:
+
+- unnecessary complexity
+- decorative redesign
+- excessive scientific detail
+- information accumulation
+
+Revision should improve:
+
+understanding speed
+and
+learning comfort.
+
+---
+
+# Agricultural Teaching Strategy
+
+Agricultural teaching presentations should emphasize:
+
+- soil–water–crop relationships
+- ecological interaction
+- intuitive environmental understanding
+- agricultural relevance
+- visual biological interpretation
+
+Preferred visuals:
+
+- irrigation processes
+- rhizosphere interaction
+- crop response systems
+- salinity mechanisms
+- environmental comparison
+
+Avoid:
+
+- abstract engineering-only explanation
+- software-centered teaching
+- visually cold technical systems
+
+Agricultural teaching should feel:
+
+grounded,
+visual,
+and relatable.
+
+---
+
+# Remote Sensing Teaching Strategy
+
+Remote sensing teaching slides should emphasize:
+
+- spatial understanding
+- image interpretation
+- scale transition
+- conceptual inversion logic
+
+Preferred visuals:
+
+- satellite imagery
+- temporal comparison
+- classification examples
+- scale diagrams
+- spatial overlays
+
+Avoid:
+
+- GIS interface dumping
+- software tutorial aesthetics
+- visually overloaded maps
+
+Remote sensing teaching should prioritize:
+
+conceptual understanding.
+
+---
+
+# Anti-AI-Slop Teaching Rules
+
+Strictly avoid:
+
+- startup education aesthetics
+- glowing AI teaching visuals
+- SaaS infographic systems
+- decorative 3D educational effects
+- corporate training slide aesthetics
+
+Teaching presentations should feel:
+
+human,
+educational,
+and cognitively intentional.
+
+---
+
+# Rendering Strategy
+
+Slides must remain:
+
+- editable
+- structurally stable
+- hierarchy-safe
+- teaching-friendly
+- revision-friendly
+
+Layouts and diagrams should remain:
+
+- logically grouped
+- visually stable
+- annotation-safe
+
+Avoid:
+
+- flattened rendering
+- screenshot-heavy teaching slides
+- unstable grouping systems
+
+Rendering should support:
+
+future teaching revision.
 
 ---
 
 # Final Validation
 
-Before finalizing teaching slides:
+Before finalizing:
 
 Check:
 
-- Can audience understand quickly?
+- Can students understand within seconds?
+- Is the dominant concept obvious?
+- Is visual explanation stronger than text?
 - Is cognitive load appropriate?
-- Is explanation progressive?
-- Is visual guidance sufficient?
-- Is the focal message clear?
+- Is reading flow stable?
+- Is teaching rhythm smooth?
+- Does the slide feel approachable?
+- Does the presentation avoid AI teaching clichés?
 
 If NO:
 
-simplify and restructure.
+simplify,
+reduce,
+and rebalance.
 
 ---
 
 # Skill Philosophy
 
-Teaching presentation design is:
+Teaching presentation generation is NOT:
+educational decoration.
 
-cognitive learning engineering.
+It IS:
 
-The objective is not
-to show maximum expertise.
-
-The objective is:
-
-maximum understandable communication.
+cognitive learning communication engineering.
