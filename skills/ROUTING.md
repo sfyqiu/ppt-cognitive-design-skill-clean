@@ -1,197 +1,281 @@
-# Skill Routing System
+# Presentation Skill Routing System
 
 ## Purpose
 
 This document defines how the AI system
-selects and orchestrates presentation skills.
+should select and combine
+presentation skills.
 
-The system should NEVER use
-all skills simultaneously.
+The objective is:
 
-Instead:
-- identify scenario
-- identify audience
-- identify objective
-- identify cognitive strategy
-- then select the most appropriate skill
+- stable workflow routing
+- audience-aware generation
+- cognitive consistency
+- presentation specialization
+
+NOT random skill mixing.
 
 ---
 
-# Primary Skill Routing
+# Global Routing Principle
+
+The AI should automatically determine:
+
+- presentation scenario
+- audience type
+- communication objective
+- cognitive density
+- revision strategy
+
+Then select:
+
+- primary skill
+- secondary skill
+- supporting cognitive behavior
+
+Rule:
+
+One skill should dominate.
+
+Avoid equal-weight skill blending.
+
+---
+
+# Primary Skill Selection
 
 ## teaching_skill
 
-Use when:
+Use as PRIMARY when:
+
 - undergraduate teaching
 - classroom explanation
-- educational presentations
-- concept teaching
-- tutorial slides
-- cognitive simplification is required
+- concept introduction
+- teaching demonstration
+- educational workshops
 
 Prioritize:
+
 - intuitive explanation
 - low cognitive load
-- diagram-based teaching
-- progressive understanding
-
-Avoid:
-- excessive scientific density
-- overly professional terminology
+- progressive learning
+- visual teaching support
 
 ---
 
 ## academic_skill
 
-Use when:
+Use as PRIMARY when:
+
 - scientific presentation
+- thesis defense
+- conference talk
 - mechanism explanation
-- academic communication
-- research visualization
-- methodology explanation
-- scientific credibility is important
+- paper-based PPT generation
+- research communication
 
 Prioritize:
-- mechanism clarity
-- scientific hierarchy
-- evidence interpretation
-- logical rigor
 
-Avoid:
-- decorative layouts
-- commercial presentation aesthetics
+- mechanism logic
+- evidence hierarchy
+- scientific readability
+- academic professionalism
 
 ---
 
 ## interview_skill
 
-Use when:
+Use as PRIMARY when:
+
 - faculty interview
 - academic recruitment
-- candidate presentation
-- defense presentation
-- strategic self-presentation
-- credibility-focused communication
+- teaching interview
+- job talk
+- institutional presentation
 
 Prioritize:
-- strategic communication
-- strength amplification
-- professional trust
-- controlled expertise exposure
 
-Avoid:
-- excessive complexity
-- unnecessary technical risk
-- visually aggressive layouts
+- strategic professionalism
+- communication balance
+- teaching + research integration
+- institutional compatibility
 
 ---
 
-# Multi-Skill Orchestration
+# Secondary Skill Selection
 
-Complex presentations may require
-multiple skills simultaneously.
+Secondary skills should support
+the primary objective.
+
+They should NOT dominate presentation behavior.
+
+---
+
+## teaching_skill as SECONDARY
+
+Use when:
+
+- scientific content requires simplification
+- audience expertise is mixed
+- teaching clarity is important
+
+Effects:
+
+- reduce density
+- improve visualization
+- simplify explanations
+- strengthen reading flow
+
+---
+
+## academic_skill as SECONDARY
+
+Use when:
+
+- stronger scientific credibility is needed
+- mechanism logic should be strengthened
+- evidence hierarchy should improve
+
+Effects:
+
+- strengthen scientific structure
+- improve mechanism explanation
+- stabilize academic hierarchy
+
+---
+
+## interview_skill as SECONDARY
+
+Use when:
+
+- presentation requires professionalism
+- audience includes evaluators
+- strategic positioning is important
+
+Effects:
+
+- improve professionalism
+- stabilize narrative tone
+- strengthen presentation restraint
+
+---
+
+# Routing by Scenario
+
+| Scenario | Primary Skill | Secondary Skill |
+|---|---|---|
+| Undergraduate teaching | teaching_skill | academic_skill |
+| Scientific conference | academic_skill | teaching_skill |
+| Thesis defense | academic_skill | interview_skill |
+| Faculty interview | interview_skill | academic_skill |
+| Teaching demonstration | teaching_skill | interview_skill |
+| Research seminar | academic_skill | teaching_skill |
+| Job talk | interview_skill | teaching_skill |
+
+---
+
+# Routing by Audience
+
+## Undergraduate Audience
+
+Prefer:
+
+- teaching_skill dominance
+- low density
+- strong visualization
+- progressive explanation
+
+---
+
+## Expert Academic Audience
+
+Prefer:
+
+- academic_skill dominance
+- mechanism hierarchy
+- concise explanation
+- evidence-driven logic
+
+---
+
+## Interview Committee
+
+Prefer:
+
+- interview_skill dominance
+- balanced communication
+- strategic professionalism
+- controlled scientific density
+
+---
+
+# Revision Routing
+
+During revision:
+
+AI should determine whether feedback relates to:
+
+- teaching clarity
+- scientific logic
+- layout structure
+- cognitive density
+- strategic professionalism
+
+Then prioritize corresponding revision behavior.
 
 Examples:
 
-## teaching + academic
+"students may not understand"
+→ teaching_skill revision behavior
 
-Use when:
-- scientific teaching
-- mechanism explanation for students
-- educational research presentation
+"scientific logic is weak"
+→ academic_skill revision behavior
 
-Combine:
-- academic rigor
-- teaching clarity
+"presentation feels unprofessional"
+→ interview_skill revision behavior
 
 ---
 
-## academic + interview
+# Routing Stability Rules
 
-Use when:
-- faculty recruitment presentation
-- academic job talks
-- research-focused interviews
+The system should preserve:
 
-Combine:
-- scientific credibility
-- strategic communication
-
----
-
-## teaching + interview
-
-Use when:
-- teaching demonstration interview
-- trial lecture presentation
-
-Combine:
-- audience engagement
-- professional positioning
-
----
-
-# Skill Priority Rules
-
-The system should determine:
-
-1. primary skill
-2. secondary skill
-3. dominant cognitive objective
-
-Primary skill controls:
-- narrative structure
-- layout logic
-- cognitive density
-
-Secondary skill modifies:
-- tone
-- explanation depth
-- visual semantics
-
----
-
-# Cognitive Routing Rules
-
-Before generating slides:
-identify:
-- audience type
-- presentation purpose
-- expertise level
-- scientific density
-- teaching intensity
-- strategic communication needs
-
-Then:
-select:
-- primary skill
-- supporting skills
-- visual strategy
+- narrative consistency
+- visual consistency
+- audience adaptation
 - cognitive strategy
 
----
+Avoid:
 
-# Forbidden Behavior
-
-Do NOT:
-- mix incompatible styles
-- overload slides with conflicting objectives
-- combine all skills equally
-- generate visually inconsistent presentations
-
-The presentation should feel:
-- coherent
-- intentional
-- cognitively controlled
+- unstable skill switching
+- excessive behavior blending
+- contradictory visual logic
 
 ---
 
-# Final System Goal
+# Final Validation
 
-The ultimate objective is:
+Before finalizing routing:
 
-not template generation.
+Check:
 
-The objective is:
+- Is the primary skill clear?
+- Does the secondary skill support properly?
+- Is audience adaptation stable?
+- Is cognitive density appropriate?
+- Is presentation behavior coherent?
 
-adaptive cognitive presentation generation.
+If NO:
+
+simplify routing strategy.
+
+---
+
+# Routing Philosophy
+
+Skill routing is not
+feature combination.
+
+It is:
+
+cognitive behavior selection
+for communication optimization.
