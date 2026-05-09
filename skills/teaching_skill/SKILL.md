@@ -1,146 +1,238 @@
-# Teaching Presentation Skill
+# Teaching Skill
 
 ## Purpose
 
-This skill is used for designing
-teaching-oriented PowerPoint slides.
-
-The objective is NOT decoration.
+This skill controls how AI should
+design and revise
+teaching-oriented presentations.
 
 The objective is:
-- audience understanding
-- cognitive clarity
-- teaching effectiveness
-- visual explanation
+
+maximize audience understanding
+through cognitively clear communication.
+
+NOT maximize information quantity.
 
 ---
 
-# Core Philosophy
+# Primary Usage
 
-A teaching PPT is:
-- guided cognition
-- structured explanation
-- visual teaching support
+Use for:
 
-NOT:
-- document conversion
-- paragraph visualization
-- decorative slide generation
+- undergraduate teaching
+- classroom lectures
+- teaching demonstrations
+- educational workshops
+- introductory explanations
+- concept teaching
 
 ---
 
-# Audience Rules
+# Core Cognitive Objective
 
-For undergraduate audiences:
+Teaching presentations should help audience:
 
-prioritize:
-- low cognitive load
-- simple explanations
-- mechanism diagrams
-- process visualization
-- visual storytelling
+- understand quickly
+- follow naturally
+- remember key concepts
+- reduce interpretation difficulty
 
-avoid:
-- equation overload
-- dense paragraphs
-- excessive abstraction
-- academic clutter
+The presentation should feel:
+
+- intuitive
+- progressive
+- visually guided
+- cognitively comfortable
+
+---
+
+# Audience Strategy
+
+Default audience:
+
+- undergraduate students
+- mixed teaching audience
+- non-expert learners
+
+Adjust presentation based on:
+
+- expertise level
+- attention span
+- cognitive tolerance
+- terminology familiarity
 
 ---
 
 # Narrative Strategy
 
-Preferred teaching flow:
+Preferred structure:
 
 Problem
-→ Why it matters
 → Principle
 → Process
 → Example
 → Result
 → Summary
 
-Slides should feel:
-- progressive
-- intuitive
+Narrative should feel:
+
+- step-by-step
 - easy to follow
-
----
-
-# Cognitive Rules
-
-Each slide should contain:
-- one cognitive objective
-- one focal point
-- one key takeaway
+- visually supported
+- progressively simplified
 
 Avoid:
-- multi-focus slides
-- excessive information density
-- disconnected visual elements
+
+- textbook dumping
+- abrupt transitions
+- excessive abstraction
+- fragmented explanation
 
 ---
 
 # Visual Strategy
 
-Prefer:
-- semantic colors
-- clean hierarchy
-- large key visuals
-- guided eye movement
-- annotated diagrams
+Preferred visuals:
 
-Color semantics:
-- green → agriculture/ecology
-- blue → technology/science
-- orange → warning/emphasis
-
----
-
-# Slide Preferences
-
-Teaching slides should prefer:
-- mechanism chains
-- flow diagrams
+- diagrams
+- process flow
+- annotated figures
 - comparisons
-- progressive explanation
-- visual simplification
+- conceptual illustrations
+- semantic arrows
+
+Preferred layout feeling:
+
+- open
+- readable
+- visually balanced
+- low cognitive pressure
 
 Avoid:
-- decorative-only layouts
-- template-style business slides
-- excessive icon usage
-- visually noisy composition
+
+- dense tables
+- paragraph-heavy slides
+- excessive formulas
+- academic clutter
 
 ---
 
-# Layout Strategy
+# Cognitive Density Strategy
 
-Visual hierarchy:
+Teaching slides should prioritize:
 
-Title
-↓
-Core mechanism visual
-↓
-Key explanation
-↓
-Supporting details
+- low to medium density
+- one concept per slide
+- clear focal points
+- stable reading flow
 
-Audience should understand
-core meaning within 3 seconds.
+If information becomes overloaded:
+
+- split slides
+- simplify concepts
+- increase visual explanation
+
+Reduction is preferred over overload.
 
 ---
 
-# Expected Output
+# Teaching Revision Behavior
 
-Before generating slides:
-- identify audience
-- identify teaching objective
-- identify cognitive difficulty
-- identify narrative structure
+When revising teaching slides:
 
-Then:
-- design slide structure
-- design visual hierarchy
-- design semantic layout
-- generate editable presentation slides
+prioritize:
+
+- clarity improvement
+- simplification
+- progressive explanation
+- visual teaching support
+- cognitive accessibility
+
+Common revision goals:
+
+- reduce terminology
+- simplify layouts
+- add visual explanation
+- improve teaching rhythm
+
+Avoid:
+
+- increasing scientific complexity
+- adding unnecessary information
+- excessive decorative visuals
+
+---
+
+# Visual Semantic Strategy
+
+Recommended semantic colors:
+
+green:
+- ecology
+- agriculture
+- vegetation
+
+blue:
+- technology
+- water
+- GIS
+- science
+
+orange:
+- emphasis
+- warning
+- stress
+
+Colors should communicate meaning,
+not decoration.
+
+---
+
+# Rendering Preference
+
+Slides should:
+
+- remain editable
+- preserve teaching hierarchy
+- support audience attention
+- guide reading naturally
+
+Preferred typography feeling:
+
+- clean
+- approachable
+- readable
+- stable
+
+---
+
+# Final Validation
+
+Before finalizing teaching slides:
+
+Check:
+
+- Can audience understand quickly?
+- Is cognitive load appropriate?
+- Is explanation progressive?
+- Is visual guidance sufficient?
+- Is the focal message clear?
+
+If NO:
+
+simplify and restructure.
+
+---
+
+# Skill Philosophy
+
+Teaching presentation design is:
+
+cognitive learning engineering.
+
+The objective is not
+to show maximum expertise.
+
+The objective is:
+
+maximum understandable communication.
