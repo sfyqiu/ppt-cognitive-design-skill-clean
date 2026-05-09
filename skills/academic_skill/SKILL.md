@@ -1,196 +1,278 @@
-# Academic Presentation Skill
+# Academic Skill
 
 ## Purpose
 
-This skill is used for generating
-academic and scientific presentation slides.
-
-The objective is NOT decorative presentation.
+This skill controls how AI should
+design and revise
+scientific and academic presentations.
 
 The objective is:
-- scientific clarity
+
+maximize scientific clarity,
+mechanism communication,
+and academic credibility.
+
+NOT maximize technical density.
+
+---
+
+# Primary Usage
+
+Use for:
+
+- scientific presentations
+- conference talks
+- thesis defenses
+- journal presentations
+- research seminars
 - mechanism explanation
-- research credibility
-- logical communication
-- cognitive readability
+- paper-based PPT generation
 
 ---
 
-# Core Philosophy
+# Core Cognitive Objective
 
-Academic slides should:
-- explain mechanisms
-- communicate scientific logic
-- guide understanding
-- support credibility
+Academic presentations should help audience:
 
-NOT:
-- imitate commercial templates
-- overload with data
-- stack disconnected figures
-- maximize visual complexity
+- understand the scientific problem
+- follow mechanism logic
+- recognize innovation
+- trust the evidence
+- remember the contribution
+
+The presentation should feel:
+
+- logical
+- mechanism-oriented
+- evidence-driven
+- scientifically controlled
 
 ---
 
-# Audience Rules
+# Audience Strategy
 
-For academic audiences:
+Default audience:
+
+- researchers
+- academic experts
+- graduate students
+- mixed scientific audience
+
+Adjust presentation based on:
+
+- expertise level
+- mechanism familiarity
+- acceptable scientific density
+- presentation scenario
+
+---
+
+# Narrative Strategy
+
+Preferred structure:
+
+Scientific Problem
+→ Limitation
+→ Hypothesis
+→ Method
+→ Mechanism
+→ Validation
+→ Contribution
+→ Significance
+
+Narrative should feel:
+
+- progressive
+- inevitable
+- evidence-supported
+- scientifically coherent
+
+Avoid:
+
+- disconnected results
+- excessive jargon
+- unexplained figures
+- result stacking without interpretation
+
+---
+
+# Scientific Strategy
+
+Academic slides should prioritize:
+
+- mechanism chains
+- causal relationships
+- evidence hierarchy
+- process explanation
+- interaction pathways
+
+Preferred scientific communication:
+
+- explain before concluding
+- interpret before summarizing
+- connect evidence to mechanism
+
+Mechanisms are more persuasive
+than isolated results.
+
+---
+
+# Visual Strategy
+
+Preferred visuals:
+
+- mechanism diagrams
+- process flow
+- conceptual frameworks
+- interaction networks
+- comparison visualization
+- annotated scientific figures
+
+Preferred layout feeling:
+
+- restrained
+- professional
+- clean
+- stable
+- publication-oriented
+
+Avoid:
+
+- infographic-heavy layouts
+- decorative scientific aesthetics
+- crowded visual systems
+- excessive animations
+
+---
+
+# Cognitive Density Strategy
+
+Academic presentations should prioritize:
+
+- medium controlled density
+- strong hierarchy
+- focused scientific transitions
+- stable interpretation flow
+
+One slide should communicate:
+
+- one mechanism
+- one insight
+- one scientific transition
+
+If overloaded:
+
+- split slides
+- simplify mechanisms progressively
+- reduce secondary information
+
+---
+
+# Academic Revision Behavior
+
+When revising academic slides:
 
 prioritize:
-- mechanism clarity
-- logical hierarchy
-- evidence structure
-- scientific storytelling
-- concise communication
+
+- mechanism clarification
+- evidence linkage
+- logical coherence
+- scientific readability
+- professional hierarchy
+
+Common revision goals:
+
+- strengthen mechanism explanation
+- improve result interpretation
+- simplify scientific density
+- stabilize figure hierarchy
+- improve scientific storytelling
 
 Avoid:
-- decorative layouts
-- dense text walls
-- excessive animation logic
-- visually noisy compositions
 
----
-
-# Scientific Narrative Strategy
-
-Preferred scientific flow:
-
-Problem
-→ Scientific significance
-→ Mechanism
-→ Method
-→ Evidence
-→ Result
-→ Conclusion
-
-Slides should feel:
-- rigorous
-- progressive
-- coherent
-- easy to interpret
-
----
-
-# Mechanism Visualization Rules
-
-Prefer:
-- causal chains
-- process diagrams
-- directional arrows
-- progressive mechanisms
-- multi-layer scientific flow
-
-Mechanisms should:
-- explain relationships
-- reveal causality
-- simplify abstraction
-- guide interpretation
-
----
-
-# Scientific Cognitive Rules
-
-Each slide should contain:
-- one scientific objective
-- one core mechanism
-- one dominant interpretation
-
-Avoid:
-- multiple competing conclusions
-- disconnected charts
-- information stacking
-- unreadable figure density
+- artificial complexity
+- exaggerated scientific claims
+- decorative redesign
+- unnecessary visual overload
 
 ---
 
 # Visual Semantic Strategy
 
-Scientific visual semantics:
+Recommended semantic colors:
+
+blue:
+- science
+- GIS
+- water
+- technology
 
 green:
 - ecology
 - agriculture
 - biology
 
-blue:
-- remote sensing
-- technology
-- modeling
-- scientific systems
-
 orange/red:
 - stress
+- limitation
 - anomaly
-- warning
+
+purple:
+- innovation
 - emphasis
 
-Visual language should communicate meaning,
+Colors should communicate meaning,
 not decoration.
 
 ---
 
-# Preferred Academic Layouts
+# Rendering Preference
 
-Prefer:
-- mechanism-centered layouts
-- left-to-right logic flow
-- progressive visual explanation
-- figure-supported interpretation
-- annotation-driven communication
+Slides should:
 
-Avoid:
-- business presentation layouts
-- corporate infographic style
-- decorative icon grids
-- presentation template aesthetics
+- remain editable
+- preserve scientific hierarchy
+- support figure interpretation
+- guide scientific reading flow
+- maintain academic professionalism
 
----
+Preferred typography feeling:
 
-# Scientific Slide Types
-
-Common scientific slide types:
-- mechanism slide
-- workflow slide
-- methodology slide
-- result interpretation slide
-- comparison slide
-- conceptual framework slide
-- regional analysis slide
-
-Each type requires:
-- different cognitive hierarchy
-- different layout logic
-- different visual density
+- restrained
+- credible
+- stable
+- publication-style
 
 ---
 
-# Scientific Readability Rules
+# Final Validation
 
-Audience should understand:
-- the core scientific message
-- within several seconds
+Before finalizing academic slides:
 
-If interpretation difficulty is high:
-- simplify visuals
-- reduce chart density
-- strengthen annotations
-- strengthen hierarchy
+Check:
 
-Reduction is preferred over overload.
+- Is the scientific problem clear?
+- Is mechanism logic understandable?
+- Is evidence hierarchy stable?
+- Is scientific density controlled?
+- Is professionalism preserved?
+
+If NO:
+
+simplify and restructure.
 
 ---
 
-# Expected Output
+# Skill Philosophy
 
-Before generating slides:
-- identify scientific objective
-- identify audience expertise
-- identify mechanism complexity
-- identify slide category
-- identify cognitive difficulty
+Academic presentation design is:
 
-Then:
-- design scientific structure
-- design mechanism visualization
-- design visual semantics
-- generate editable scientific presentation slides
+scientific cognition engineering.
+
+The objective is not
+maximum information quantity.
+
+The objective is:
+
+maximum scientific understanding
+with controlled complexity.
